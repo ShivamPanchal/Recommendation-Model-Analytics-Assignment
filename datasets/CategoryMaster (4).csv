@@ -1,0 +1,85 @@
+CategoryID,CategoryName,ParentID
+10000,Fashion,0
+10100,Mens Apparels,10000
+10200,Womens Apparels,10000
+10300,Watches,10000
+10400,Ethnic Wear,10000
+10500,Lingerie,10000
+10600,Eyewear,10000
+10700,Footwear,10000
+10800,Handbags and Wallets,10000
+10900,Jewellery,10000
+11000,Fashion Accessories,10000
+20000,Training and Materials,0
+30000,Car and Bike Accessories,0
+40000,Electronics and Gadgets,0
+40100,Cameras,40000
+40200,Gaming Consoles,40000
+40300,Computers and Laptops,40000
+40400,Computer Accessories,40000
+40500,Mobiles and Tablets,40000
+40600,Mobile Accessories,40000
+40700,Personal Care Appliances,40000
+40800,Home Appliances,40000
+50000,Food and Beverages,0
+50100,Fast Food,50000
+50200,Restaurants,50000
+50300,Pubs and Bars,50000
+60000,Entertainment,0
+60100,Sports,60000
+60200,Events,60000
+60300,Parks,60000
+60400,CDs Books and Magazine,60000
+60500,Gaming,60000
+60600,Music,60000
+60700,Board Games and Toys,60000
+60800,Movies,60000
+70000,Gift Items,0
+80000,Grocery,0
+90000,Health and Beauty,0
+90100,Spas Saloons and Parlors,90000
+90200,Body Care,90000
+90300,Mens Grooming,90000
+90400,Makeup Products,90000
+90500,Fitness,90000
+90600,Nutrition,90000
+100000,Home and Living,0
+100100,Furniture and Decor,100000
+100200,Housekeeping,100000
+100300,Pet Supplies,100000
+100400,Kitchenware,100000
+110000,Kids and Toddlers,0
+110100,Kids Fashion,110000
+110200,School Stuff,110000
+110300,Baby Care,110000
+110400,Maternity,110000
+110500,Baby Gears,110000
+120000,Online Recharge,0
+120100,Mobile Recharge,120000
+120200,Data Card Recharge,120000
+120300,DTH Recharge,120000
+130000,Software and IT,0
+130100,Computer Softwares,130000
+130200,Web Hosting,130000
+140000,Stationary,0
+140100,Office Supplies,140000
+140200,Online Printing,140000
+150000,Travel,0
+150100,Domestic Flights,150000
+150200,International Flights,150000
+150300,Bus Bookings,150000
+150400,Cabs,150000
+150500,Hotels,150000
+150600,Holidays,150000
+150700,Travel Accessories,150000
+160000,Bank and Payment Offers,0
+160100,ICICI Offers,160000
+160200,HDFC Offers,160000
+160300,SBI Offers,160000
+160400,HSBC Offers,160000
+160500,Standard Chartered Offers,160000
+160600,Kotak Offers,160000
+160700,PayUMoney Offers,160000
+160800,Mobikwik Offers,160000
+160900,Airtel Money Offers,160000
+170000,Professional Services,0

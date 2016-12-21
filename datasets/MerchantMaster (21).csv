@@ -1,0 +1,4647 @@
+Merchant_ID,Merchant_name,Merchant_Alexa_rank,Merchant_type
+359,flipkart,79,Online
+360,amazon,80,Online
+361,indiatimes,107,Online
+362,snapdeal,164,Online
+363,godaddy,190,Online
+364,nearbuy,264,Online
+365,ebay,284,Online
+366,rediff,329,Online
+367,jabong,340,Online
+368,paytm,349,Online
+369,expedia,401,Online
+370,hotels,424,Online
+371,shopclues,507,Online
+372,agoda,588,Online
+373,hostgator,660,Online
+374,bookmyshow,671,Online
+375,airtel,690,Online
+376,makemytrip,811,Online
+377,bluehost,859,Online
+378,hilton,877,Online
+379,uber,1038,Online
+380,air asia,1324,Online
+381,askmebazaar,1346,Online
+382,vistaprint,1526,Online
+383,emirates,1762,Online
+384,cleartrip,1815,Online
+385,yatra,2068,Online
+386,craftsvilla,2079,Online
+387,pepperfry,2184,Online
+388,qatar airways,2220,Online
+389,dominos,2438,Online
+390,goibibo,2593,Online
+391,pizza hut,2757,Online
+392,bigrock,2946,Online
+393,resellerclub,3170,Online
+394,fashion and you,3252,Online
+395,homeshop18,3355,Online
+396,infibeam,3520,Online
+397,hotelscombined,3858,Online
+398,tata docomo,3984,Online
+399,firstcry,4121,Online
+400,trendin,4138,Online
+401,freecharge,4155,Online
+402,ebags,4185,Online
+403,bigbasket,4319,Online
+404,limeroad,4433,Online
+405,yepme,4589,Online
+406,jet airways,4608,Online
+407,redbus,4935,Online
+408,lenskart,5278,Online
+409,myntra,5282,Online
+410,fabfurnish,5405,Online
+411,rechargeitnow,5704,Online
+412,koovs,5827,Online
+413,etihad,5904,Online
+414,gaadi,6170,Online
+415,american swan,6236,Online
+416,mirraw,6680,Online
+417,naaptol,6950,Online
+418,foodpanda,6974,Online
+419,spicejet,7004,Online
+420,printvenue,7295,Online
+421,urban ladder,7859,Online
+422,healthkart,8040,Online
+423,zivame,8412,Online
+424,ola cabs,8735,Online
+425,aircel,9360,Online
+426,airindia,9425,Online
+427,shoppers stop,9535,Online
+428,easemytrip,9611,Online
+429,via,9942,Online
+430,hostingraja,10096,Online
+431,nykaa,10262,Online
+432,wego,11093,Online
+433,babyoye,11289,Online
+434,simplilearn,11814,Online
+435,indian gifts portal,12177,Online
+436,zoomcar,13690,Online
+437,bewakoof,14225,Online
+438,purplle,14278,Online
+439,zovi,14448,Online
+440,bluestone,14555,Online
+441,freecultr,15669,Online
+442,fashionara,15762,Online
+443,surpluss,15983,Online
+444,cilory,16032,Online
+445,hp online store,16646,Online
+446,happily unmarried,16934,Online
+447,indiarush,17114,Online
+448,lybrate,17566,Online
+449,titan,17814,Online
+450,voylla,18060,Online
+451,thomas cook,18171,Online
+452,travelguru,18432,Online
+453,localbanya,18639,Online
+454,zopnow,18948,Online
+455,caratlane,19764,Online
+456,indianroots,20636,Online
+457,stalk buy love,20996,Online
+458,goair,21011,Online
+459,abhibus,21041,Online
+460,fabindia,22625,Online
+461,printland,22728,Online
+462,gobol,22809,Online
+463,archies online,23003,Online
+464,rewardme,23316,Online
+465,easytobook,23347,Online
+466,peachmode,23647,Online
+467,hopscotch,23871,Online
+468,taxiforsure,24000,Online
+469,elitify,24982,Online
+470,readwhere,25189,Online
+471,dogspot,26004,Online
+472,khantil,26721,Online
+473,musafir,26917,Online
+474,safetykart,27215,Online
+475,greendust,27242,Online
+476,zoffio,28040,Online
+477,postergully,28514,Online
+478,giftxoxo,29592,Online
+479,yebhi,29657,Online
+480,exclusively,29965,Online
+481,shopnineteen,30582,Online
+482,chumbak,30924,Online
+483,ibhejo,31715,Online
+484,mebelkart,31874,Online
+485,kfc,32094,Online
+486,faballey,32129,Online
+487,styletag,32206,Online
+488,dailyobjects,32694,Online
+489,housefull,33324,Online
+490,quiksilver,33999,Online
+491,healthgenie,34403,Online
+492,hostdime,34644,Online
+493,cbazaar,34831,Online
+494,faasos,38195,Online
+495,provogue,38404,Online
+496,d2hshop,38603,Online
+497,just eat,40117,Online
+498,french connection,42243,Online
+499,syberplace,43273,Online
+500,travelyaari,44648,Online
+501,testfunda,45769,Online
+502,zoomin,45789,Online
+503,arzoo,46188,Online
+504,dell,46817,Online
+505,savaari,47520,Online
+506,giftease,47803,Online
+507,sports365,48876,Online
+508,ethos watches,49201,Online
+509,thebodyshop,50367,Online
+510,bagittoday,51253,Online
+511,ticketgoose,51578,Online
+512,basics life,53781,Online
+513,floweraura,53853,Online
+514,high5store,54287,Online
+515,pretty secrets,55002,Online
+516,zansaar,56493,Online
+517,box8,56950,Online
+518,adlabs imagica,57558,Online
+519,mybabycart,62582,Online
+520,kalkifashion,62701,Online
+521,the souled store,62714,Online
+522,bata,62905,Online
+523,bhane,63629,Online
+524,fastrack,63709,Online
+525,globus,67579,Online
+526,bedbathmore,69558,Online
+527,travelkhana,69948,Online
+528,giftsbymeeta,71650,Online
+529,kaaryah,72662,Online
+530,book my flowers,74082,Online
+531,bookadda,76545,Online
+532,monginis,76696,Online
+533,edukart,77764,Online
+534,ezeego1,77856,Online
+535,greencart,80104,Online
+536,kaunsa,81110,Online
+537,excitinglives,83917,Online
+538,shopatplaces,84131,Online
+539,cheer shopping,85860,Online
+540,india circus,86208,Online
+541,artisangilt,88935,Online
+542,indiareads,89273,Online
+543,ordervenue,89501,Online
+544,forevernew,89593,Online
+545,saholic,89916,Online
+546,grabmore,95209,Online
+547,99tshirts,97587,Online
+548,metroshoes,98609,Online
+549,uread,98888,Online
+550,dpauls,99128,Online
+551,peopleskart,99729,Online
+552,redwolf,99806,Online
+553,timesaverz,100166,Online
+554,burger king,101398,Online
+555,clarks,101530,Online
+556,suratdiamond,101792,Online
+557,clearcarrental,102239,Online
+558,jazzmyride,102547,Online
+559,gifts n ideas,107924,Online
+560,haldirams,108030,Online
+561,g3 fashions,108198,Online
+562,lensbazaar,109672,Online
+563,changemytyre,110890,Online
+564,headphone zone,112336,Online
+565,induna,112419,Online
+566,craftadda,114653,Online
+567,candere,114704,Online
+568,edurite,114867,Online
+569,bharatplaza,116654,Online
+570,easy cabs,117546,Online
+571,tshirts,119557,Online
+572,jewelslane,120181,Online
+573,coolbuy,121050,Online
+574,crossword,121121,Online
+575,coke2home,122466,Online
+576,organic shop,122850,Online
+577,ginger hotels,122867,Online
+578,gkb optical,123161,Online
+579,games the shop,123806,Online
+580,floraindia,124632,Online
+581,checknshop,125293,Online
+582,amzer,126550,Online
+583,talash,128258,Online
+584,myflowertree,128583,Online
+585,gadgets guru,128921,Online
+586,univercell,129308,Online
+587,printstop,129805,Online
+588,cinemax,132261,Online
+589,10kya,132442,Online
+590,make my home,132884,Online
+591,busindia,133667,Online
+592,20dresses,134904,Online
+593,inonit,136143,Online
+594,boontoon,137642,Online
+595,pickupflowers,138113,Online
+596,velvetcase,139441,Online
+597,atisundar,141214,Online
+598,naturalmantra,142585,Online
+599,tambulya,142774,Online
+600,etravelsmart,143104,Online
+601,soulflower,143893,Online
+602,champu,145095,Online
+603,redlily,145690,Online
+604,dealsandyou,146741,Online
+605,scholarkart,146838,Online
+606,fashos,147955,Online
+607,flywidus,150722,Online
+608,wonderchef,150736,Online
+609,fashionequation,150968,Online
+610,the gud look,151860,Online
+611,planet sports,152811,Online
+612,the stiff collar,152916,Online
+613,thats personal,158852,Online
+614,maniac store,159215,Online
+615,fun cinemas,164261,Online
+616,samyakk,165522,Online
+617,shoppystar,169677,Online
+618,giftsmate,174546,Online
+619,eemli,175474,Online
+620,chulbulstore,177041,Online
+621,printbindaas,177788,Online
+622,runbus,177946,Online
+623,big c mobiles,178213,Online
+624,your designer wear,179423,Online
+625,trendmagnet,179992,Online
+626,citynu,182728,Online
+627,beadsnfashion,183431,Online
+628,flaberry,184065,Online
+629,tajonline,184116,Online
+630,bestatlowest,187829,Online
+631,indiacod,187860,Online
+632,gadgetstuff,191095,Online
+633,fatkart,191982,Online
+634,photohaat,192073,Online
+635,amar chitra katha,197504,Online
+636,shophealthy,199714,Online
+637,findable,200475,Online
+638,goodearth,200975,Online
+639,reddyexpress,202613,Online
+640,mruga,203016,Online
+641,ticketplease,203573,Online
+642,buyatbrands,207122,Online
+643,portamart,209057,Online
+644,inlife healthcare,209083,Online
+645,gifts n flowers,209414,Online
+646,gadgets,209810,Online
+647,bujju,212293,Online
+648,fashionatclick,214033,Online
+649,chocholik,215334,Online
+650,madbooks,223292,Online
+651,boerandfitch,223918,Online
+652,natashacouture,226491,Online
+653,vitruvien,226913,Online
+654,deliverychef,228529,Online
+655,tennishub,230551,Online
+656,country oven,231860,Online
+657,sennheiserindia,232749,Online
+658,99labels,233137,Online
+659,gizmobaba,233771,Online
+660,kalazone,234248,Online
+661,hitplay,235171,Online
+662,itasveer,238164,Online
+663,acadzone,238605,Online
+664,exclusivelane,240616,Online
+665,kashmirbox,242196,Online
+666,adahfashions,242582,Online
+667,ishop international,243734,Online
+668,cubishop,246807,Online
+669,babyhugz,248377,Online
+670,live your sport,250099,Online
+671,mybustickets,250742,Online
+672,moserbaer,251085,Online
+673,urbandazzle,251943,Online
+674,atmosphere,258355,Online
+675,stop here,262446,Online
+676,loginkart,262833,Online
+677,myfitfuel,267659,Online
+678,gopeppers,268516,Online
+679,gamexs,271268,Online
+680,govasool,274627,Online
+681,kaneesha,275276,Online
+682,deltapage,275446,Online
+683,kartbin,275882,Online
+684,fourseven,278198,Online
+685,phoolwala,283163,Online
+686,kapkids,283494,Online
+687,smiledrive,284977,Online
+688,wholesale hungama,285091,Online
+689,partymanao,285790,Online
+690,hangoutstore,287214,Online
+691,xny,296247,Online
+692,snapgalaxy,303301,Online
+693,globalitesport,305083,Online
+694,intoto,307605,Online
+695,printasia,310834,Online
+696,perfume crush,310843,Online
+697,vox pop clothing,311029,Online
+698,khaugalideals,313030,Online
+699,mynutramart,316780,Online
+700,ladyblush,320216,Online
+701,houseproud,321501,Online
+702,gujaratgifts,323170,Online
+703,mytaxiindia,323989,Online
+704,kitchens of india,328777,Online
+705,biggcart,329019,Online
+706,bwitch,337033,Online
+707,indusdiva,337285,Online
+708,the trunk label,350163,Online
+709,n-gal,351910,Online
+710,indiamags,358295,Online
+711,heads up for tails,358497,Online
+712,petshop18,361150,Online
+713,design emporia,363335,Online
+714,efello,363781,Online
+715,besiva,364681,Online
+716,kyazoonga,375052,Online
+717,hcl store,378522,Online
+718,pehraan,380050,Online
+719,shoppemall,382568,Online
+720,buy perfumes online,385114,Online
+721,giftingnation,388715,Online
+722,venusshoppee,399429,Online
+723,kobster,400349,Online
+724,violetbag,401054,Online
+725,indiaflowermall,401568,Online
+726,ashopi,404420,Online
+727,imagestore,413720,Online
+728,huetrap,424111,Online
+729,brandtrendz,424369,Online
+730,johareez,426063,Online
+731,goindiaorganic,426288,Online
+732,magickart,431114,Online
+733,bigadda,436701,Online
+734,floristsinindia,437680,Online
+735,cello world,440583,Online
+736,poppat jamals,441849,Online
+737,acebiker,444160,Online
+738,orosilber,444677,Online
+739,onlineshoppee,449110,Online
+740,gourmet food india,449401,Online
+741,dholdhamaka,450863,Online
+742,bhaap,453086,Online
+743,himalaya healthcare,462193,Online
+744,fommy,463217,Online
+745,9rasa,466067,Online
+746,bushirt,467398,Online
+747,santana,467432,Online
+748,shophunk,470529,Online
+749,chhabra555,471557,Online
+750,mistyque,476472,Online
+751,mygreenkart,486897,Online
+752,bookingkhazana,491504,Online
+753,agricart,494624,Online
+754,i wear my style,497374,Online
+755,mobikwik,4284,Online
+756,microsoft,29,Online
+757,tripadvisor,169,Online
+758,american express,222,Online
+759,icicibank,296,Online
+760,zomato,624,Online
+761,citibank,788,Online
+762,mysmartprice,1224,Online
+763,hsbc,1240,Online
+764,axisbank,1351,Online
+765,carwale,1924,Online
+766,vodafone,2226,Online
+767,american eagle,2389,Online
+768,cardekho,2468,Online
+769,91mobiles,2994,Online
+770,kotak,3058,Online
+771,ideacellular,3384,Online
+772,payumoney,3644,Online
+773,holidayiq,3817,Online
+774,junglee,3830,Online
+775,citruspay,4295,Online
+776,bankbazaar,4399,Online
+777,sbi,4941,Online
+778,goindigo,6051,Online
+779,rcom,6317,Online
+780,oyorooms,6511,Online
+781,practo,6697,Online
+782,puma,7364,Online
+783,indusind,7695,Online
+784,tolexo,8323,Online
+785,cromaretail,8352,Online
+786,voonik,8862,Online
+787,urbanpro,11034,Online
+788,traveltriangle,11958,Online
+789,swiggy,12271,Online
+790,yesbank,13092,Online
+791,ace2three,13540,Online
+792,grofers,14217,Online
+793,peppertap,14926,Online
+794,zorooms,17856,Online
+795,latestone,18858,Online
+796,stayzilla,18917,Online
+797,biba,20409,Online
+798,goair,21011,Online
+799,hdfc,21400,Online
+800,clovia,22682,Online
+801,shopalike,23301,Online
+802,samsungindiaestore,24867,Online
+803,toppr,24937,Online
+804,itraveller,25127,Online
+805,reliancedigital,27634,Online
+806,urbanclap,29822,Online
+807,amway,29884,Online
+808,tinyowl,30028,Online
+809,eazydiner,30482,Online
+810,akbartravels,31027,Online
+811,roposo,34075,Online
+812,adidas,34937,Online
+813,livspace,35359,Online
+814,thedostore,35938,Online
+815,holachef,36074,Online
+816,ezoneonline,36471,Online
+817,vedantu,39596,Online
+818,healthyworld,39710,Online
+819,syndicatebank,39719,Online
+820,localoye,43009,Online
+821,dineout,44059,Online
+822,spoonjoy,44444,Online
+823,merucabs,44650,Online
+824,corpbank,44673,Online
+825,homelane,45099,Online
+826,zimmber,46105,Online
+827,kindercart,47366,Online
+828,tripfactory,48867,Online
+829,housejoy,51330,Online
+830,coxandkings,52398,Online
+831,unionbankofindia,54226,Online
+832,biteclub,58693,Online
+833,zopper,63328,Online
+834,dunelondon,63405,Online
+835,wooplr,69605,Online
+836,iob,70523,Online
+837,fabhotels,71448,Online
+838,patanjaliayurved,72564,Online
+839,violetstreet,73885,Online
+840,emibazaar,74652,Online
+841,teabox,74727,Online
+842,vijaysales,75584,Online
+843,doormint,76136,Online
+844,taskbob,86651,Online
+845,wildcraft,87610,Online
+846,indianroots,87903,Online
+847,freshmonk,89674,Online
+848,carlsjr,93701,Online
+849,mydreamstore,95282,Online
+850,shop4reebok,102582,Online
+851,evok,103597,Online
+852,qykapp,103633,Online
+853,pipabella,105742,Online
+854,customfurnish,106898,Online
+855,babychakra,113341,Online
+856,wudstay,114355,Online
+857,cakart,114792,Online
+858,vijayabank,116317,Online
+859,gadgets360,119434,Online
+860,crownit,119756,Online
+861,numbermall,120210,Online
+862,meetuniv,121261,Online
+863,kleverkid,121355,Online
+864,near,121363,Online
+865,purplesq,125760,Online
+866,orobind,127076,Online
+867,furlenco,129635,Online
+868,getmypeon,130742,Online
+869,klip,131402,Online
+870,appsdaily,138263,Online
+871,foyr,141470,Online
+872,mydentist,144732,Online
+873,urbantailor,145129,Online
+874,campussutra,151178,Online
+875,edu4share,152295,Online
+876,joybynature,152943,Online
+877,jiffstore,158185,Online
+878,inkmonk,158619,Online
+879,godrejappliances,159337,Online
+880,dazo,159909,Online
+881,icustommadeit,167474,Online
+882,justride,170596,Online
+883,capricoast,170905,Online
+884,neerus,173400,Online
+885,yumist,174000,Online
+886,cartisan,176493,Online
+887,satvacart,178611,Online
+888,raincan,186377,Online
+889,gingercrush,186669,Online
+890,handyhome,192311,Online
+891,vanitycube,196262,Online
+892,next,197565,Online
+893,treebohotels,199306,Online
+894,montecarlo,202981,Online
+895,getnow,204135,Online
+896,lazylad,207253,Online
+897,arttdinox,211196,Online
+898,zoctr,213175,Online
+899,wickedride,214227,Online
+900,hidesign,215125,Online
+901,sangeethamobiles,219232,Online
+902,libertyshoesonline,224348,Online
+903,klozee,224545,Online
+904,goqii,229710,Online
+905,myonsto,231126,Online
+906,fixy,232962,Online
+907,shaze,238843,Online
+908,findyahan,238887,Online
+909,freekamaal,241331,Online
+910,routofy,242974,Online
+911,momoe,250180,Online
+912,envoged,254613,Online
+913,flymantra,255040,Online
+914,williampenn,257992,Online
+915,pickmylaundry,280945,Online
+916,kapkids,283494,Online
+917,amantelingerie,284644,Online
+918,frsh,293220,Online
+919,vyomo,300460,Online
+920,wassupondemand,306202,Online
+921,stayglad,310371,Online
+922,iorderfresh,324865,Online
+923,stitchwood,342370,Online
+924,muscleblaze,353604,Online
+925,idreamcareer,355340,Online
+926,shopwillslifestyle,376607,Online
+927,thehomesalon,383204,Online
+928,msmbox,385865,Online
+929,nightstay,392816,Online
+930,foodabhi,405176,Online
+931,truweight,412458,Online
+932,buttercups,421261,Online
+933,eatshoplove,421390,Online
+934,belita,427506,Online
+935,indiantrendz,428174,Online
+936,veeba,429064,Online
+937,foodtalkindia,435861,Online
+938,redpolka,460384,Online
+939,madratgames,469714,Online
+940,alfaretail,470437,Online
+941,quikwallet,476354,Online
+942,bookmein,478956,Online
+943,whirlpoolindiawstore,479642,Online
+944,lgbrandstore,492926,Online
+945,rbus,534477,Online
+946,workhorse,590234,Online
+947,collectabillia,594468,Online
+948,sattviko,600272,Online
+949,labsadvisor,649137,Online
+950,sigrideducation,754912,Online
+951,aagaar,863261,Online
+952,gadgetwood,963270,Online
+953,snackexperts,135591,Online
+954,nayidishastudios,1000000,Online
+955,nurturey,1000000,Online
+956,smartairtrip,1000000,Online
+957,smartpocket,1000000,Online
+958,syonacosmetics,1000000,Online
+959,ingvysya,137292,Online
+960,standardchartred,3624,Online
+971,Evergreen Eye Vision,NULL,Offline
+972,The Time Store,NULL,Offline
+973,Global Fashion,NULL,Offline
+976,Naman Collection,NULL,Offline
+977,Wonder Living Furniture,NULL,Offline
+978,Divyam,NULL,Offline
+979,Sambhav Electronics,NULL,Offline
+980,Maharashtra,NULL,Offline
+981,Excellence - The Furnishing Gallery,NULL,Offline
+982,Better Home Mattress & Furnishing,NULL,Offline
+983,Reshma Furnishing & Mattresses,NULL,Offline
+984,Sidrah Sales,NULL,Offline
+985,Kanco,NULL,Offline
+986,Mahalaxmi Collection,NULL,Offline
+987,Bavlee,NULL,Offline
+988,Tribal Zone,NULL,Offline
+989,Prince,NULL,Offline
+990,Apsara - The Mobile Shop,NULL,Offline
+991,Momento,NULL,Offline
+992,Blush Salon,NULL,Offline
+994,Awesome - Unisex Salon,NULL,Offline
+995,Ujala - Furnishing Center,NULL,Offline
+996,Jinal - Designer Studio - Mens,NULL,Offline
+997,Azka Collection,NULL,Offline
+998,Concept - Fancy Hardware,NULL,Offline
+999,Jai Bhawani Jewelers,NULL,Offline
+1000,Morange - Professional Salon,NULL,Offline
+1001,Prem & Sons,NULL,Offline
+1002,Choice Bakers & Fast Food,NULL,Offline
+1003,Choice Center,NULL,Offline
+1004,Sweetlime - Unisex Salon,NULL,Offline
+1005,Chouhan Furnishing,NULL,Offline
+1006,Cantabil - International Clothing,NULL,Offline
+1007,Ruchira Jewelers,NULL,Offline
+1008,Neptune - The Family Dining Restuarent,NULL,Offline
+1009,Classic Luggage,NULL,Offline
+1010,Gini & Jony,NULL,Offline
+1011,HAIR BY PAT,NULL,Offline
+1012,Shubham Jewelers,NULL,Offline
+1013,Ashraf Scissors Hands - Salon,NULL,Offline
+1014,Mumbai Masala Hotel,NULL,Offline
+1015,Red & Blue - Ladies & Mens Wear,NULL,Offline
+1016,Ronak Creation - Mens Wear,NULL,Offline
+1017,Blush Salon & Spa,NULL,Offline
+1018,Classic Furnishing & Mattresses,NULL,Offline
+1019,Beauty - Furnishing Foam Center,NULL,Offline
+1020,Paradise Furnishing,NULL,Offline
+1021,Kala Mandir NX,NULL,Offline
+1022,Lucky Hardware Stores,NULL,Offline
+1023,Classic Furninshing,NULL,Offline
+1024,Fashion House NX - Family Shop,NULL,Offline
+1025,Vision Tech Optics & Contact Lens Clinic,NULL,Offline
+1026,All Right Shoes,NULL,Offline
+1027,Decent Women's Wear,NULL,Offline
+1028,Dhanraj Boutique,NULL,Offline
+1029,Famous optics,NULL,Offline
+1030,Famous Optic,NULL,Offline
+1031,Nuzhat Footwear,NULL,Offline
+1032,Shamshad Gadi Bhandar,NULL,Offline
+1033,S-3 Collection,NULL,Offline
+1034,Hilco Optics,NULL,Offline
+1035,Maitri Material,NULL,Offline
+1036,Kapil Enterprises,NULL,Offline
+1037,Fashion House,NULL,Offline
+1038,Chashma Ghar,NULL,Offline
+1039,Solanki Furnishing & Mattresses,NULL,Offline
+1040,Bellariz Fashion,NULL,Offline
+1041,Aaraish - Islamic Dresses,NULL,Offline
+1042,Falak Boutique,NULL,Offline
+1043,Zaiba Optics,NULL,Offline
+1044,Magson Mens Wear,NULL,Offline
+1045,ALFIZA,NULL,Offline
+1046,Sunrise Furniture,NULL,Offline
+1047,Indian Art,NULL,Offline
+1048,Natural Living Furniture,NULL,Offline
+1049,Style Furniture,NULL,Offline
+1050,Shivam Chairs,NULL,Offline
+1051,Tirupati Gents & Boys Wear,NULL,Offline
+1052,Siddhi Collection,NULL,Offline
+1053,Satyam Appliances,NULL,Offline
+1054,Anmol ,NULL,Offline
+1055,Textile Emporium,NULL,Offline
+1056,Allwyn Ready Made Garmets,NULL,Offline
+1057,Fitness Hub,NULL,Offline
+1058,Reshma Furnishing & Mattresses,NULL,Offline
+1059,A-One Collection,NULL,Offline
+1060,Rang Jyot Matching Centre,NULL,Offline
+1061,Sajani Sarees NX,NULL,Offline
+1062,Lucky Fashion,NULL,Offline
+1063,Deepak Steel Centre,NULL,Offline
+1064,Kurti Point,NULL,Offline
+1065,Little Baby,NULL,Offline
+1066,Eye Care,NULL,Offline
+1067,Akshay Uniform,NULL,Offline
+1068,VIP Park,NULL,Offline
+1069,Cherish  - Complete Mobile Shop,NULL,Offline
+1070,Satyam Collection,NULL,Offline
+1071,One look - Teens & ladies Western Wear,NULL,Offline
+1072,Tip Top Shoe Co.,NULL,Offline
+1073,Wadala Grih Udyog Bhandar,NULL,Offline
+1074,Paduka Family footwear,NULL,Offline
+1075,Wadala Grih Udyog Vastu Bhandar,NULL,Offline
+1076,Tipsy Collection,NULL,Offline
+1077,Mastikhor Collection,NULL,Offline
+1078,Shree Sateri Optics,NULL,Offline
+1079,KORRI,NULL,Offline
+1080,Mehul Opticians,NULL,Offline
+1081,Fashion Palace,NULL,Offline
+1082,World Fashion,NULL,Offline
+1083,Roop Sangam Family Shop,NULL,Offline
+1084,Clothes Corner,NULL,Offline
+1085,Le Brog Shoes Centre,NULL,Offline
+1086,Comfort Foot Wear,NULL,Offline
+1087,Lucky Furniture,NULL,Offline
+1088,Metro Tailor & Clothiers,NULL,Offline
+1089,Kalpana Telecom,NULL,Offline
+1090,S.A.Fashions,NULL,Offline
+1091,Sai Ganesh,NULL,Offline
+1092,FAB Furnishing,NULL,Offline
+1093,Springwell,NULL,Offline
+1094,Natraj luggage,NULL,Offline
+1095,Sequence,NULL,Offline
+1096,Heniken,NULL,Offline
+1097,DMV Khatri,NULL,Offline
+1098,Dream Home,NULL,Offline
+1099,Kurl-On Mattress Xpress,NULL,Offline
+1100,Valcas,NULL,Offline
+1101,Variation World,NULL,Offline
+1102,Shriman,NULL,Offline
+1103,Vishwakarma,NULL,Offline
+1104,Famous,NULL,Offline
+1105,Zoom Mobile,NULL,Offline
+1106,Bhavi Collection,NULL,Offline
+1107,Dhanvant,NULL,Offline
+1108,Vimal Furniture,NULL,Offline
+1109,Dhanvant Sarees,NULL,Offline
+1110,Just - 2,NULL,Offline
+1114,Saloni NX,NULL,Offline
+1115,test,NULL,Offline
+1116,Gupta Watch Co.,NULL,Offline
+1117,Royal Foam Furnishing,NULL,Offline
+1118,Mangal Opticians,NULL,Offline
+1119,Episode,0,Offline
+1120,Aldo,0,Offline
+1121,Aldo Accessories,0,Offline
+1122,Archies Galleries,0,Offline
+1123,Baggit,0,Offline
+1124,COSTA COFFEE,0,Offline
+1125,HYPE,0,Offline
+1126,Queue Up,0,Offline
+1127,Rosebys,0,Offline
+1128,Sepia,0,Offline
+1129,Accessorize,0,Offline
+1130,AND,0,Offline
+1131,Art Karat,0,Offline
+1132,Catwalk,0,Offline
+1133,Charles & Keith,0,Offline
+1134,Chemistry,0,Offline
+1135,Collezioni Moda,0,Offline
+1136,JFK Just For Kids,0,Offline
+1137,La Senza,0,Offline
+1138,Mango,0,Offline
+1139,Patchi,0,Offline
+1140,Promod,0,Offline
+1141,Swarovski,0,Offline
+1142,109f,0,Offline
+1143,Ashmina,0,Offline
+1144,Jashn,0,Offline
+1145,Allen Solly,0,Offline
+1146,Levi's,0,Offline
+1147,kaya skin clinic,0,Offline
+1148,Kidology,0,Offline
+1149,Kidville,0,Offline
+1150,mcdonalds,8878,Offline
+1151,aLL the plus size store,0,Offline
+1152,ARROW,0,Offline
+1153,Indian Terrain,0,Offline
+1154,Mom & Me,0,Offline
+1155,pantaloons,0,Offline
+1156,Subway,0,Offline
+1157,Croma,0,Offline
+1158,Metro Shoes,0,Offline
+1159,Planet M,0,Offline
+1160,Pure Gold Jewellers & Diamonds,0,Offline
+1161,Spykar,0,Offline
+1162,John Players,0,Offline
+1163,Mufti,0,Offline
+1164,Total Sports & Fitness,0,Offline
+1165,Soie,0,Offline
+1166,7D Adventure Ride,0,Offline
+1167,Cinemax,0,Offline
+1168,Lee,0,Offline
+1169,Wrangler,0,Offline
+1170,Globus,0,Offline
+1171,BIBA,0,Offline
+1172,Eske,0,Offline
+1173,Ethos Swiss Watch Studios,0,Offline
+1174,ZODIAC,0,Offline
+1175,HIDESIGN,0,Offline
+1176,Ruby's Bar & Grill,0,Offline
+1177,Spaghetti Kitchen,0,Offline
+1178,INOX,0,Offline
+1179,Celio,0,Offline
+1180,CLINIQUE,0,Offline
+1181,Esprit,0,Offline
+1182,M.A.C,0,Offline
+1183,SHOPPERS STOP,0,Offline
+1184,TOMMY HILFIGER,0,Offline
+1185,Crossword Book Store,0,Offline
+1186,PVR Cinemas,0,Offline
+1187,The Irish House,0,Offline
+1188,Inglot,0,Offline
+1189,Iraya,0,Offline
+1190,Nine West,0,Offline
+1191,Passion United Astro Field,0,Offline
+1192,Ayesha Accessories,0,Offline
+1193,Enrich Salon & Academy,0,Offline
+1194,Foresight Opticals,0,Offline
+1195,Gitanjali Jewels,0,Offline
+1196,KAZO,0,Offline
+1197,Mochi,0,Offline
+1198,Basics Life,0,Offline
+1199,Bombay High Fashions,0,Offline
+1200,eZone,0,Offline
+1201,PROVOGUE,0,Offline
+1202,Timezone,0,Offline
+1203,Barbie Store,0,Offline
+1204,Ethnicity,0,Offline
+1205,Global Desi,0,Offline
+1206,Mainland China,0,Offline
+1207,Thai Elements Spa,0,Offline
+1208,Cookie Man,0,Offline
+1209,Helion Entertainment,0,Offline
+1210,Zaffran,0,Offline
+1211,Westside,0,Offline
+1212,Nyassa,0,Offline
+1213,Carnival Cinemas,0,Offline
+1214,Brand Factory,0,Offline
+1215,Vision Express,0,Offline
+1216,Anita Dongre,0,Offline
+1217,Bombay Blue,0,Offline
+1218,Burger King,0,Offline
+1219,CHICCO,0,Offline
+1220,Copper Chimney,0,Offline
+1221,Cottonworld,0,Offline
+1222,D'damas,0,Offline
+1223,Elite Fish Pedicure,0,Offline
+1224,Fabindia,0,Offline
+1225,FACES Cosmetics,0,Offline
+1226,FOREVER NEW,0,Offline
+1227,Haagen-Dazs,0,Offline
+1228,Hamleys,0,Offline
+1229,Lancome,0,Offline
+1230,Louis Philippe,0,Offline
+1231,LUSH,0,Offline
+1232,Mai Tai Lounge,0,Offline
+1233,Marks & Spencer,0,Offline
+1234,Noodle Bar,0,Offline
+1235,Omved,0,Offline
+1236,Pepe Jeans London,0,Offline
+1237,PYLONES,0,Offline
+1238,Quiksilver,0,Offline
+1239,remanika,0,Offline
+1240,Rhysetta,0,Offline
+1241,Simply Potatoes,0,Offline
+1242,Smoke House Deli,0,Offline
+1243,Starbucks Coffee,0,Offline
+1244,The Body Shop,0,Offline
+1245,Chimp,0,Offline
+1246,The St. Regis Mumbai,0,Offline
+1247,Tresmode,0,Offline
+1248,Tryst,0,Offline
+1249,Van Heusen,0,Offline
+1250,W for Woman,0,Offline
+1251,Mineral,0,Offline
+1252,adidas,0,Offline
+1253,Canon Image Square,0,Offline
+1254,Clarks,0,Offline
+1255,Columbia Sportswear,0,Offline
+1256,Crocs,0,Offline
+1257,Dolce Vita,0,Offline
+1258,GAS Jeans,0,Offline
+1259,Helios Watches,0,Offline
+1260,Inc.5,0,Offline
+1261,lifestyle,0,Offline
+1262,Mad Over Donuts,0,Offline
+1263,Om Book Shop,0,Offline
+1264,Staples,0,Offline
+1265,The Bombay Store,0,Offline
+1266,Timberland,0,Offline
+1267,William Penn,0,Offline
+1268,Anju Modi,0,Offline
+1269,Avirate,0,Offline
+1270,Cream Centre,0,Offline
+1271,Dessange Salon and Spa,0,Offline
+1272,Game4u,0,Offline
+1273,Krispy Kreme,0,Offline
+1274,maspar,0,Offline
+1275,Mothercare,0,Offline
+1276,Sukho Thai - The Thai Foot Spa,0,Offline
+1277,Tanishq,0,Offline
+1278,VLCC,0,Offline
+1279,Wills Lifestyle,0,Offline
+1280,California Pizza Kitchen (CPK),0,Offline
+1281,Idezzerts,0,Offline
+1282,Juice Lounge,0,Offline
+1283,Landmark,0,Offline
+1284,Panchavati Gaurav,0,Offline
+1285,U.S. POLO ASSN.,0,Offline
+1286,ONLY,0,Offline
+1287,Van Heusen Woman,0,Offline
+1288,VERO MODA,0,Offline
+1289,Games The Shop,0,Offline
+1290,Karigari Jewelry,0,Offline
+1291,Boggi Milano,0,Offline
+1292,Colorbar,0,Offline
+1293,Gini & Jony,0,Offline
+1294,Max Fashion,0,Offline
+1295,Superdry,0,Offline
+1296,ZARA,0,Offline
+1297,Armani Jeans,0,Offline
+1298,bebe,0,Offline
+1299,Crabtree & Evelyn,0,Offline
+1300,DA MILANO,0,Offline
+1301,Forest Essentials,0,Offline
+1302,Forever 21,0,Offline
+1303,GANT,0,Offline
+1304,Holii,0,Offline
+1305,Reliance Trends,0,Offline
+1306,RITU KUMAR,0,Offline
+1307,s.Oliver,0,Offline
+1308,Sunglass Hut,0,Offline
+1309,Addons,0,Offline
+1310,ALCOTT,0,Offline
+1311,Ivory Tag,0,Offline
+1312,Jack & Jones,0,Offline
+1313,Latin Quarters,0,Offline
+1314,NAUTICA,0,Offline
+1315,Satya Paul,0,Offline
+1316,CARBON Fine Jewellery,0,Offline
+1317,Ebony Gautier,0,Offline
+1318,Indostyle,0,Offline
+1319,Lavie,0,Offline
+1320,PURE Home + Living,0,Offline
+1321,Reliance Digital,0,Offline
+1322,Reliance TimeOut,0,Offline
+1323,SHAZE Sterling Silverware,0,Offline
+1324,Soch,0,Offline
+1325,Splash,0,Offline
+1326,WOODLAND,0,Offline
+1327,Cocoberry,0,Offline
+1328,Nokia,0,Offline
+1329,Bodhi Spa,0,Offline
+1330,Gili,0,Offline
+1331,Hobby Ideas,0,Offline
+1332,Samsung Smart Cafe,0,Offline
+1333,The Nature's Co,0,Offline
+1334,Sisley,0,Offline
+1335,Steve Madden,0,Offline
+1336,Dream Sports Fields,0,Offline
+1337,Dunkin' Donuts,0,Offline
+1338,Fossil,0,Offline
+1339,Giordano,0,Offline
+1340,HomeStop,0,Offline
+1341,Ice Cream Works,0,Offline
+1342,LIBERTY,0,Offline
+1343,Magppie,0,Offline
+1344,FURLA,0,Offline
+1345,Kiehl's,0,Offline
+1346,Peora,0,Offline
+1347,The Chocolate Room,0,Offline
+1348,Titan,0,Offline
+1349,AromaThai Day Spa,0,Offline
+1350,ELLE Fashionwear,0,Offline
+1351,Manchester United Apparels,0,Offline
+1352,Origin Games,0,Offline
+1353,WOODS,0,Offline
+1354,Indigo Deli,0,Offline
+1355,Made In Punjab,0,Offline
+1356,Maharaja Bhog - Premium Veg Thali,0,Offline
+1357,Sbarro,0,Offline
+1358,The Pint Room,0,Offline
+1359,Jealous 21,0,Offline
+1360,HyperCITY,0,Offline
+1361,Karigar,0,Offline
+1362,PhantomSkinz,0,Offline
+1363,Wildcraft,0,Offline
+1364,ORRA,0,Offline
+1365,Amoeba,0,Offline
+1366,Mustard,0,Offline
+1367,New U,0,Offline
+1368,Pop Tate's,0,Offline
+1369,STAR Bazaar,0,Offline
+1370,iStore,0,Offline
+1371,@home,0,Offline
+1372,Crafts India,0,Offline
+1373,Simba Toys,0,Offline
+1374,Flying Machine,0,Offline
+1375,Dribble ,0,Offline
+1376,Gc Watches,0,Offline
+1377,Fitness First,0,Offline
+1378,PICO Express,0,Offline
+1379,Fame Cinemas,0,Offline
+1380,GETLOST - For Fun's Sake,0,Offline
+1381,Tip Tap Toe,0,Offline
+1382,UniverCell,0,Offline
+1383,Punk,0,Offline
+1384,Toonz,0,Offline
+1385,Meracasa,0,Offline
+1386,Cinepolis,0,Offline
+1387,Golden Star Thali,0,Offline
+1388,Fastrack,0,Offline
+1389,Pind Balluchi,0,Offline
+1390,V dot Van Heusen,0,Offline
+1391,Rajdhani,0,Offline
+1392,Manchester United Cafe Bar,0,Offline
+1393,Home Centre,0,Offline
+1394,Nalli Next,0,Offline
+1395,Samsaara,0,Offline
+1396,Unicorn,0,Offline
+1397,Enamor,0,Offline
+1398,Party Hunterz,0,Offline
+1399,Raiara,0,Offline
+1400,Fun City,0,Offline
+1401,Taco Bell,0,Offline
+1402,Ermenegildo Zegna,0,Offline
+1403,Juicy Couture,0,Offline
+1404,ROYCE,0,Offline
+1405,Diesel,0,Offline
+1406,Minawala,0,Offline
+1407,Amber and Shirrin,0,Offline
+1408,Chamomile,0,Offline
+1409,H. Ajoomal Fine Jewellery,0,Offline
+1410,L'OCCITANE,0,Offline
+1411,DKNY JEANS,0,Offline
+1412,ESTEE LAUDER,0,Offline
+1413,Jean-Claude Biguine,0,Offline
+1414,KENNETH COLE,0,Offline
+1415,The Collective,0,Offline
+1416,Veda Restaurant and Bar,0,Offline
+1417,AM:PM by Ankur & Priyanka Modi,0,Offline
+1418,Asia 7,0,Offline
+1419,Canvas Laugh Factory,0,Offline
+1420,Ed Hardy,0,Offline
+1421,Foodhall,0,Offline
+1422,MALAGA,0,Offline
+1423,Pa Pa Ya,0,Offline
+1424,Punjab Grill,0,Offline
+1425,Urban Yoga,0,Offline
+1426,Canvas Lounge Bar,0,Offline
+1427,Serafina,0,Offline
+1428,Nando's,0,Offline
+1429,Snow World,0,Offline
+1430,HeadQuarters,0,Offline
+1431,KoolFusion,0,Offline
+1432,Malabar Gold & Diamonds,0,Offline
+1433,RainForest Resto-Bar,0,Offline
+1434,Rosso Brunello,0,Offline
+1435,CeX,0,Offline
+1436,World of Waffles,0,Offline
+1437,212 All Day Cafe & Bar,0,Offline
+1438,Butterfly Homes,0,Offline
+1439,Cygnus,0,Offline
+1440,Flight 4 Fantasy,0,Offline
+1441,The Beer Cafe,0,Offline
+1442,Freecultr,0,Offline
+1443,MOOKH Salon & Academy,0,Offline
+1444,bYSI,0,Offline
+1445,Cafe Pico,0,Offline
+1446,Calonge,0,Offline
+1447,Debenhams,0,Offline
+1448,Grillopolis,0,Offline
+1449,Just Watches,0,Offline
+1450,Iti,0,Offline
+1451,Samsonite,0,Offline
+1452,BBLUNT,0,Offline
+1453,Burgs,0,Offline
+1454,Kidzania,0,Offline
+1455,Mother Earth,0,Offline
+1456,Juicy Sips and Bites,0,Offline
+1457,mocha,0,Offline
+1458,Parx,0,Offline
+1459,BIG BAZAAR,0,Offline
+1460,Godrej Nature's Basket,0,Offline
+1461,Banana Leaf,0,Offline
+1462,Jammin,0,Offline
+1463,Quattro Ristorante,0,Offline
+1464,SPORTXS,0,Offline
+1465,Village The Soul Of India Restaurant,0,Offline
+1466,Viari,0,Offline
+1467,Meena Bazaar,0,Offline
+1468,amore,NULL,Offline
+1469,Blackberrys,NULL,Offline
+1470,Calvin Klien,NULL,Offline
+1471,Central ,NULL,Offline
+1472,VIP,NULL,Offline
+1473,United Colors of Benetton,NULL,Offline
+1474,Timex,NULL,Offline
+1475,themobilestore,69394,Online
+1476,The Discount Store,NULL,Offline
+1478,The Super Store,NULL,Offline
+1479,Stanza,NULL,Offline
+1480,Skechers,NULL,Offline
+1481,Shvatra Hotel,NULL,Offline
+1482,Shubh Mangal,NULL,Offline
+1483,Shehnaz,NULL,Offline
+1484,Monish Haircut,NULL,Offline
+1485,Raymond,NULL,Offline
+1486,Converse,NULL,Offline
+1487,tester,NULL,Offline
+1488,Giovani,NULL,Offline
+1489,Test1,NULL,Offline
+1490,Test123,NULL,Offline
+1491,test'a,NULL,Offline
+1492,Pratham Men's Dressing,NULL,Offline
+1493,TOP MAN,NULL,Offline
+1494,Deepi's nx,NULL,Offline
+1495,Prem Ratna Collection,NULL,Offline
+1496,Gouri,NULL,Offline
+1497,Parasmani NX,NULL,Offline
+1498,Hair Chop Salon,NULL,Offline
+1499,Toppers Salon,NULL,Offline
+1500,Kitty,NULL,Offline
+1501,Nirmal Novelty,NULL,Offline
+1502,Kothari Steel Industries,NULL,Offline
+1503,Crystal Vision,NULL,Offline
+1504,Kunteshwar Machine Tools,NULL,Offline
+1505,Arihant Eye Care,NULL,Offline
+1506,Royal Foam Centre,NULL,Offline
+1507,Heet Opticians,NULL,Offline
+1508,Vishal Sales Corporation,NULL,Offline
+1509,Ladies Beauty Corner,NULL,Offline
+1510,Vastrak,NULL,Offline
+1511,Image Men's Wear,NULL,Offline
+1512,Woodland Furnitures,NULL,Offline
+1513,Santosh Jewellers,NULL,Offline
+1514,Golden Drape,NULL,Offline
+1515,Modern Furniture,NULL,Offline
+1516,Menka ,NULL,Offline
+1517,Shree Collection,NULL,Offline
+1518,Priya Bags,NULL,Offline
+1519,Samrat Bags,NULL,Offline
+1520,Colourful Ladies' Wear,NULL,Offline
+1521,Roman Collection,NULL,Offline
+1522,Pragati,NULL,Offline
+1523,Nimantran,NULL,Offline
+1524,Mahima La Casa De Estilo,NULL,Offline
+1525,Mansvi Optics,NULL,Offline
+1526,Desire Lights,NULL,Offline
+1527,Bhagyalaxmi Foam & Furnishing,NULL,Offline
+1528,Beauty Furnishing & Mattresses,NULL,Offline
+1529,Select-In,NULL,Offline
+1530,Chetna,NULL,Offline
+1531,Grace ,NULL,Offline
+1532,Vimal Furnishing,NULL,Offline
+1533,Kashish Furnishing,NULL,Offline
+1534,Swastik Furnishing,NULL,Offline
+1535,Ujwal Furniture,NULL,Offline
+1536,Blue Eye Optics,NULL,Offline
+1537,Novelty,NULL,Offline
+1538,e-gen Man Stream,NULL,Offline
+1539,Right Vision,NULL,Offline
+1540,Eye Jewel Optics,NULL,Offline
+1541,Bhartiya Foam Traders,NULL,Offline
+1542,Royal Touch,NULL,Offline
+1543,Signature,NULL,Offline
+1544,Jatin NX,NULL,Offline
+1545,Nihir Opticians,NULL,Offline
+1546,Lucky Furnishing,NULL,Offline
+1547,Krupali Fashion,NULL,Offline
+1548,Lucky Opticians,NULL,Offline
+1549,Lenskart Optical Store ,NULL,Offline
+1550,Charbhuja - Steel & Furniture,NULL,Offline
+1551,Ambika Lights,NULL,Offline
+1552,Mangal Collection,NULL,Offline
+1553,Maganlal Collection,NULL,Offline
+1554,BIG - B Appliances,NULL,Offline
+1555,A & Z Optics,NULL,Offline
+1556,Shreeji Aircon,NULL,Offline
+1557,Cambridge Readymades - Apparels and Fashion,NULL,Offline
+1558,Modern Chair,NULL,Offline
+1559,Shree Murugan Stores - Men's Fashion,NULL,Offline
+1560,Bhartiya Foam Center,NULL,Offline
+1561,Shiva Farms - Grocery,NULL,Offline
+1562,Prime Shop - Bags,NULL,Offline
+1563,Jain Shop - Men's Fashion,NULL,Offline
+1564,Red Tape - Footwear and Accessories,NULL,Offline
+1565,High Profile Nx - Apparels,NULL,Offline
+1566,Raw Casuals - Apparels and Accessories,NULL,Offline
+1567,Cyclone - Men's Apparels,NULL,Offline
+1568,Zakaas Collection - Men's Apparels,NULL,Offline
+1569,Jhanvi Collection - Fashion Accessories,NULL,Offline
+1570,Prowhite Clothing Studio,NULL,Offline
+1571,Shreya Optics,NULL,Offline
+1572,Samrat Jewellers,NULL,Offline
+1573,More Win Opticians,NULL,Offline
+1574,House of Diamonds,NULL,Offline
+1575,Re - Play Clothing Co.,NULL,Offline
+1576,New ajanta furnishing,NULL,Offline
+1577,Living Style,NULL,Offline
+1578,Pretty Vision,NULL,Offline
+1579,Timex Ply ,NULL,Offline
+1580,Bimal Optics,NULL,Offline
+1581,Khazana Complete Mobile Shop,NULL,Offline
+1582,Variety Furnishing,NULL,Offline
+1583,Blue Star,NULL,Offline
+1584,Dhamian Overseas,NULL,Offline
+1585,Ruby Mattresses,NULL,Offline
+1586,Cotton Collection,NULL,Offline
+1587,Shreyas Automotive,NULL,Offline
+1588,Paarth Car Jewellers,NULL,Offline
+1589,Sani Furniture,NULL,Offline
+1590,Hans Motors,NULL,Offline
+1591,Om Chair,NULL,Offline
+1592,Super Mattresses & Cloth Store,NULL,Offline
+1593,Dhara Product,NULL,Offline
+1594,Bengal Furniture,NULL,Offline
+1595,Grand Living Furniture & Interior Designer,NULL,Offline
+1596,Narayan Car Accessories,NULL,Offline
+1597,Sun Shine Foam Furnishing & Rexin,NULL,Offline
+1598,Sun Shine Foam Furnishing & Rexine,NULL,Offline
+1599,Sun Plaza Foam Furnishing & Rexine,NULL,Offline
+1600,Samrat Collection,NULL,Offline
+1601,Car Parlour,NULL,Offline
+1602,Mateshwari Car Accessories,NULL,Offline
+1603,Omkar Chair,NULL,Offline
+1604,Vidhi Collection,NULL,Offline
+1605,Impression,NULL,Offline
+1606,A.I. Art Gallery,NULL,Offline
+1607,Falak Womens Wear,NULL,Offline
+1608,Gaami Collections,NULL,Offline
+1609,National Electric & Electronics,NULL,Offline
+1610,Adarsh Furnishing & Mattresses,NULL,Offline
+1611,Ruby Furnishing ,NULL,Offline
+1612,S.P. Foam Centre & Matersies,NULL,Offline
+1613,Modern Foam Furnishing & Mattresses,NULL,Offline
+1614,Sonawane mattresses & Cloth Store,NULL,Offline
+1615,Nidhi Decor,NULL,Offline
+1616,Impression,NULL,Offline
+1617,Aksa Creation,NULL,Offline
+1618,Attract Fashion,NULL,Offline
+1619,Shoe Palace,NULL,Offline
+1620,Cotton Nation,NULL,Offline
+1621,Pawar Foam & Mattresses,NULL,Offline
+1622,K4-9 Clothing Redefined,NULL,Offline
+1623,Welcome Furnishing & Cloth Store,NULL,Offline
+1624,A La Mode,NULL,Offline
+1625,Ultimate Solution,NULL,Offline
+1626,Sajawat Furnishing & Mattresses,NULL,Offline
+1627,Bhartiya Mattresses & Furniture,NULL,Offline
+1628,Toronto Shoes,NULL,Offline
+1629,Khushi Collection,NULL,Offline
+1630,10 The Salon,NULL,Offline
+1631,Zaid Furniture,NULL,Offline
+1632,My Shoe Box Footwear,NULL,Offline
+1633,My Shoe Box Footwear,NULL,Offline
+1634,Drape King Furniture,NULL,Offline
+1635,Drape King Furnishing,NULL,Offline
+1636,Soans Collection,NULL,Offline
+1637,Chashmaghar,NULL,Offline
+1638,Shiv Modular Kitchen & Home Interior,NULL,Offline
+1639,Metro Rockers Shoe,NULL,Offline
+1640,Crop Hair Salon Unisex,NULL,Offline
+1641,Status,NULL,Offline
+1642,Meena Bazars Dreamz Gallery,NULL,Offline
+1643,Instyle Collection,NULL,Offline
+1644,Core The Fashion Hub,NULL,Offline
+1645,Bhartiya Foam Centre,NULL,Offline
+1646,Chohan Furnishing & Mattresses,NULL,Offline
+1647,Janta Mattresses & Cloth Store,NULL,Offline
+1648,Rangoli  International,NULL,Offline
+1649,Vishal My Saloon Unisex,NULL,Offline
+1650,Shepherds  Unisex Saloon,NULL,Offline
+1651,Diamond Optics,NULL,Offline
+1652,Perfect Foam Furnishing,NULL,Offline
+1653,Jain Mobile Sales & Service,NULL,Offline
+1654,R.K. Enterprises,NULL,Offline
+1655,Kashish  Furnishing & Mattresses,NULL,Offline
+1656,Eye Care Optics,NULL,Offline
+1657,Shifa Optics,NULL,Offline
+1658,Shree balaji Collection,NULL,Offline
+1659,Shree Jalaram Good Luck Cycle,NULL,Offline
+1660,Om Furniture,NULL,Offline
+1661,Patel Mattresses & Sofa Maker,NULL,Offline
+1662,DesEYEn Optic Studio,NULL,Offline
+1663,Nazar Eye Care,NULL,Offline
+1664,Shandar Furniture,NULL,Offline
+1665,Star Optic,NULL,Offline
+1666,Foam & Fab Furnishing,NULL,Offline
+1667,Mem Saab,NULL,Offline
+1668,Mem Saab,NULL,Offline
+1669,Rahil Optiks,NULL,Offline
+1670,Apsara Furnishing Centre,NULL,Offline
+1671,Good Luck Interiors,NULL,Offline
+1672,Amrit Steel Furniture,NULL,Offline
+1673,Ashoka Furnishing,NULL,Offline
+1674,JB Backus,NULL,Offline
+1675,Kings Furnishings,NULL,Offline
+1676,Shivam Opticians,NULL,Offline
+1677,Super Mattresses & Cloth Stores,NULL,Offline
+1678,Pride Furniture & Interiors,NULL,Offline
+1679,Savy Creation,NULL,Offline
+1680,Bombay Footwear,NULL,Offline
+1681,Behlim Furnishing & Mattresses,NULL,Offline
+1682,Man Mandir Furnishing,NULL,Offline
+1683,D - Collection Mens Wear,NULL,Offline
+1684,Zeenat Designer Cane Furniture,NULL,Offline
+1685,Nazrana Steel & Wood Furniture,NULL,Offline
+1686,Adinath Lime & Sanitary Ware,NULL,Offline
+1687,Le Brog Shoes,NULL,Offline
+1688,Rishab Enterprises,NULL,Offline
+1689,Klothez Mens Wear,NULL,Offline
+1690,Ayesha  Sameena Mattresses & Furnishings,NULL,Offline
+1691,Hytec Project Lighting,NULL,Offline
+1692,Ajanta Steel & Furniture,NULL,Offline
+1693,Unique Mobile Center,NULL,Offline
+1694,Wild Fashion,NULL,Offline
+1695,Shree Collection,NULL,Offline
+1696,Spectacal Opticians,NULL,Offline
+1697,Shree Siddhivinayak  Traders,NULL,Offline
+1698,Shree Krishna Telecom,NULL,Offline
+1699,Optical Store,NULL,Offline
+1700,Mauj Enterprises,NULL,Offline
+1701,R. R. Mattresses & Furnishing,NULL,Offline
+1702,New Palak Beauty Parlour,NULL,Offline
+1703,TRENDS  Unisex salon,NULL,Offline
+1704,Sahara Steel Arts,NULL,Offline
+1705,Modern Kitchen,NULL,Offline
+1706,Apex  Eye Wear,NULL,Offline
+1707,Shirodkar Opticians Contact Lens Clinic,NULL,Offline
+1708,Amardeep Apparels,NULL,Offline
+1709,BRANDS,NULL,Offline
+1710,Gurukrupa Electric Ceramics & Lights,NULL,Offline
+1711,Dhanalaxmi Handloom,NULL,Offline
+1712,Optic World,NULL,Offline
+1713,Nexus Optix,NULL,Offline
+1714,Patel Furnishing & Mattress,NULL,Offline
+1715,Arihant Foam & Mattresses,NULL,Offline
+1716,Susmita Womens Care,NULL,Offline
+1717,Harsh Car Studio,NULL,Offline
+1718,Mariyam Car Accessories,NULL,Offline
+1719,Prerna Enterprises,NULL,Offline
+1720,Kings Interior Furniture,NULL,Offline
+1721,Yash Light,NULL,Offline
+1722,Sanjay Furniture,NULL,Offline
+1723,Shreyas Collection,NULL,Offline
+1724,Arihant ,NULL,Offline
+1725,Cindrella Foot Wear,NULL,Offline
+1726,Sagar Electronics,NULL,Offline
+1727,Aaradhya Boutique,NULL,Offline
+1728,Viraj Mens Wear,NULL,Offline
+1729,Raj Opticians,NULL,Offline
+1730,Zazen Boutique Spa,NULL,Offline
+1731,Cost To Cost,NULL,Offline
+1732,InSquare Interiors,NULL,Offline
+1733,Passion For Fashion,NULL,Offline
+1734,Plus Point,NULL,Offline
+1735,Savera Fashion,NULL,Offline
+1736,Miracle Men & Women Salon,NULL,Offline
+1737,Uday Takkes,NULL,Offline
+1738,Kaichis Salon & Spa,NULL,Offline
+1739,Eye Contact  Optician,NULL,Offline
+1740,Desire Clothes,NULL,Offline
+1741,Shivam Mens Wear,NULL,Offline
+1742,ADA The Mens Shop,NULL,Offline
+1743,Zoya Lifestyle,NULL,Offline
+1744,Senoraa Exclusive,NULL,Offline
+1745,Chintamani Mens Wear,NULL,Offline
+1746,Mamta  Mattresses,NULL,Offline
+1747,Krishna Collection,NULL,Offline
+1748,Hair FX Beauty & Salon,NULL,Offline
+1749,Sajawat  Furnishing & Mattresses ,NULL,Offline
+1750,Palak Optics,NULL,Offline
+1751,Rajveer Gold,NULL,Offline
+1752,The MBO  Multi Brand Outlet ,NULL,Offline
+1753,Metro Gold,NULL,Offline
+1754,Prince Jewellers,NULL,Offline
+1755,Talreja Optics ,NULL,Offline
+1756,Instyle Collection,NULL,Offline
+1757,Shan Furnishing,NULL,Offline
+1758,Jigar Mattresses & Furnishing,NULL,Offline
+1759,Jain Optics,NULL,Offline
+1760,S.K. Grill Art,NULL,Offline
+1761,Elegance  The Furnishing Gallery,NULL,Offline
+1762,Pratham Modular Kitchen,NULL,Offline
+1763,V-Care Car Studio,NULL,Offline
+1764,B.K. Garment,NULL,Offline
+1765,Jalaram House of Cycles,NULL,Offline
+1766,Gloss Salon & Spa Unisex,NULL,Offline
+1767,Beauty Flaunt Unisex Family Salon,NULL,Offline
+1768,Lazer  Mens Wear,NULL,Offline
+1769,My Eye Sight,NULL,Offline
+1770,Image NX,NULL,Offline
+1771,Roshan  Furnitures,NULL,Offline
+1772,Fitness Fiesta,NULL,Offline
+1773,Active gym,NULL,Offline
+1774,Makeover Salon,NULL,Offline
+1775,Amber Furniture,NULL,Offline
+1776,Kapils  Salon & Academy,NULL,Offline
+1777,Krishna Wall Papers & Floorings,NULL,Offline
+1778,Maratha Mattresses,NULL,Offline
+1779,Sunder  Mattresses,NULL,Offline
+1780,Ronak Wallpaper,NULL,Offline
+1781,Fauzan Interiors,NULL,Offline
+1782,Car Art ,NULL,Offline
+1783,Natural Furnishing,NULL,Offline
+1784,Spectrum Optiks,NULL,Offline
+1785,Phix - On,NULL,Offline
+1786,Perfect Choice,NULL,Offline
+1787,Sapna Sagar Optics,NULL,Offline
+1788,New Shah Furnishings & Mattresses,NULL,Offline
+1789,The Shop Hi-End Audio Video,NULL,Offline
+1790,JUHU Hair & Beauty Saloon Unisex,NULL,Offline
+1791,Jeet  Airconditionings ,NULL,Offline
+1792,Lucky Mattresses & Furnishing,NULL,Offline
+1793,Celebration The Furnishing Gallery,NULL,Offline
+1794,Mystique Art de Galleria,NULL,Offline
+1795,Kings Furniture,NULL,Offline
+1796,Comfort Eye Care,NULL,Offline
+1797,A To Z  Mens Wear ,NULL,Offline
+1798,Mahaveer  Venture,NULL,Offline
+1799,Prince Furnishing,NULL,Offline
+1800,Smart Collection,NULL,Offline
+1801,Varsha Optics,NULL,Offline
+1802,Beauty Furnishing & Mattresses,NULL,Offline
+1803,Hollywood NX,NULL,Offline
+1804,Danis Salon Unisex,NULL,Offline
+1805,Bling Unisex Salon,NULL,Offline
+1806,Haroons Boom Studio,NULL,Offline
+1807,Logus Plywood,NULL,Offline
+1808,Veneer Spot,NULL,Offline
+1809,Grand Ceranic,NULL,Offline
+1810,SU  Veneers,NULL,Offline
+1811,Ply Point,NULL,Offline
+1812,Glow Lights Next,NULL,Offline
+1813,Ravi Ply - N - Wood,NULL,Offline
+1814,Shree Oswal Plywod,NULL,Offline
+1815,Shree Oswal Plywood,NULL,Offline
+1816,Aamantran Mens Wear,NULL,Offline
+1817,Marco Mens Fashion,NULL,Offline
+1818,Chamunda Mens Wear,NULL,Offline
+1819,Platinum Mens Attire,NULL,Offline
+1820,Jasu Goru Men - EGO,NULL,Offline
+1821,One Look ,NULL,Offline
+1822,Eye World Opticians,NULL,Offline
+1823,Gauri Collection,NULL,Offline
+1824,New Fashion Foot Wear,NULL,Offline
+1825,Paduka The Family Shop,NULL,Offline
+1826,Sangitaa Lingerie,NULL,Offline
+1827,Hair Portt Unisex Salon,NULL,Offline
+1828,Chandu Pure Ghee Sweet Meats,NULL,Offline
+1829,Eros Footwear,NULL,Offline
+1830,Plus Ten Ready To Wear,NULL,Offline
+1831,Flora Furnishings,NULL,Offline
+1832,Designer Creation,NULL,Offline
+1833,Favourite Furnishings & Mattresses,NULL,Offline
+1834,Bichhavat   Mattresses & Furnishings ,NULL,Offline
+1835,Parth For Mens,NULL,Offline
+1836,Gulzars Hair Lounge Unisex Salon,NULL,Offline
+1837,Tongs Salon (Unisex Salon),NULL,Offline
+1838,Gift Plaza,NULL,Offline
+1839,Vijay Silk Palace,NULL,Offline
+1840,Yuva Fashion,NULL,Offline
+1841,Arihant Furnishings,NULL,Offline
+1842,Super  Mattresses,NULL,Offline
+1843,Bombay Mattresses,NULL,Offline
+1844,Sequeira Collection,NULL,Offline
+1845,Brijwasi The Sweet People,NULL,Offline
+1846,Eye Nest,NULL,Offline
+1847,GOURI  Mattress & Furnishing,NULL,Offline
+1848,GOURI Furnishing,NULL,Offline
+1849,D.D. Foam & Fabrics,NULL,Offline
+1850,Little Wonder,NULL,Offline
+1851,Classic Furniture,NULL,Offline
+1852,Krishna Furniture,NULL,Offline
+1853,D - Smart  Kitchen & Interior,NULL,Offline
+1854,Ronak Sales,NULL,Offline
+1855,Wonder Living Furniture & Interior,NULL,Offline
+1856,Om Sai Furniture,NULL,Offline
+1857,Elegant Furnishing,NULL,Offline
+1858,Punch Furnishing,NULL,Offline
+1859,Om Salon & Spa (Unisex),NULL,Offline
+1860,Neo Dynamic,NULL,Offline
+1861,R. K. Electronics,NULL,Offline
+1862,Optic Plus,NULL,Offline
+1863,Atharva Opticians,NULL,Offline
+1864,Impression  Furnishing & Mattresses,NULL,Offline
+1865,Shoe Choice family Footwear,NULL,Offline
+1866,Nakoda Grills & Kitchen House,NULL,Offline
+1867,Health & Fitness GYM,NULL,Offline
+1868,Light On,NULL,Offline
+1869,Shiv Shakti Hardware,NULL,Offline
+1870,Zamkudi,NULL,Offline
+1871,Turning Point,NULL,Offline
+1872,Manibhadra  Ply & Veneers,NULL,Offline
+1873,Kuts & More Unisex Salon,NULL,Offline
+1874,Vicky Acry -  Plast,NULL,Offline
+1875,99 Deals.in Laptops And Desktops,NULL,Offline
+1876,Liberty Veneers,NULL,Offline
+1877,LAMART ,NULL,Offline
+1878,Om Sai Electronics,NULL,Offline
+1879,R. R. Computers,NULL,Offline
+1880,My Lappy Shop,NULL,Offline
+1881,Lakme Salon,NULL,Offline
+1882,Central Brand,NULL,Offline
+1883,fbb STORES,NULL,Offline
+1884,Shoppers Stop,NULL,Offline
+1885,Lifestyle,NULL,Offline
+1886,EAGLEBOYSPIZZA,NULL,Offline
+1887,The Times Of India,NULL,Offline
+1888,The Times Of India,NULL,Offline
+1889,REVIVE Multi Specialist Clinic,NULL,Offline
+1890,POISON Anti Aging Clinic,NULL,Offline
+1891,Mayur Plywood,NULL,Offline
+1892,A to Z  Furnishing & Mattresses,NULL,Offline
+1893,Yash Opticians,NULL,Offline
+1894,Maharashtra  Furnishing & Mattresses,NULL,Offline
+1895,National Mattresses & Furnishing,NULL,Offline
+1896,Diamond Furniture,NULL,Offline
+1897,Time N Style ,NULL,Offline
+1898,Car Sajaawat,NULL,Offline
+1899,Care - O - Car,NULL,Offline
+1900,Bhakti Car Shringar,NULL,Offline
+1901,Shree Chamunda Ceramics,NULL,Offline
+1902,Kings  NX  Collection,NULL,Offline
+1903,Jeans Point,NULL,Offline
+1904,Shiv Steel Emporium,NULL,Offline
+1905,My Choice Bags,NULL,Offline
+1906,Prathan Home  Appliances,NULL,Offline
+1907,Mallika Boutique,NULL,Offline
+1908,Vijay Emporium,NULL,Offline
+1909,Rangila Family Shop,NULL,Offline
+1910,Kesar Home Appliances & Gift Articles,NULL,Offline
+1911,Arihant Timber Mart,NULL,Offline
+1912,Sejnath Timber,NULL,Offline
+1913,Creative Wallpaper,NULL,Offline
+1914,Excellent  Furnishing & Mattresses,NULL,Offline
+1915,Prestige Furnishing & Mattresses,NULL,Offline
+1916,Om Geeta Collection,NULL,Offline
+1917,Next Your Fitness,NULL,Offline
+1918,ZATSCO  Shopping Store,NULL,Offline
+1919,Ankur Trading Co.,NULL,Offline
+1920,National Silk Expo,NULL,Offline
+1921,India Times Shopping,NULL,Offline
+1922,The Times Of India,NULL,Offline
+1923,The Times Of  India,NULL,Offline
+1924,Trinity Multi Speciality Clinic,NULL,Offline
+1925,The  Times  Of  India,NULL,Offline
+1926,The Times Of India,NULL,Offline
+1927, Health Wellness Homeopathy Clinics,NULL,Offline
+1928,Fitness Highway,NULL,Offline
+1929,India Times Shopping,NULL,Offline
+1930,The Times Of India,NULL,Offline
+1931,India Times Shopping,NULL,Offline
+1932,Reliance Footprint,NULL,Offline
+1933,Kashiba  Embroideries,NULL,Offline
+1934,GIO Collection ,NULL,Offline
+1935,Shoppers Stop,NULL,Offline
+1936,Home Town The Art Of Better Living,NULL,Offline
+1937,Splash Fashion,NULL,Offline
+1938,Max Fashion,NULL,Offline
+1939,Soch,NULL,Offline
+1940,Zara,NULL,Offline
+1941,Marks & Spencer,NULL,Offline
+1942,Mango,NULL,Offline
+1943,Tommy Hilfiger,NULL,Offline
+1944,Jack & Jones,NULL,Offline
+1945,Steve Madden,NULL,Offline
+1946,Kalvin Clein Jeans,NULL,Offline
+1947,La Senza,NULL,Offline
+1948,Promod,NULL,Offline
+1949,Lacoste,NULL,Offline
+2000,golden-dragon-sohna-road,0,Offline
+2001,the-lounge-hyatt-regency,0,Offline
+2002,mosaic-country-inn-and-suits-by-carlson,0,Offline
+2003,gardenia-hotel-grenville,0,Offline
+2004,bar-and-lounge-ramada,0,Offline
+2005,pinxx-hotel-central-blue-stone,0,Offline
+2006,sundowner-bar,0,Offline
+2007,coalition-lutyens-hotel,0,Offline
+2008,terrazzo-32nd-milestone,0,Offline
+2009,the-plaza-solitaire,0,Offline
+2010,shanghai-bar-and-lounge-the-bristol-hotel,0,Offline
+2011,cocoa-house,0,Offline
+2012,golden-dragon-gurgaon,0,Offline
+2013,dine-esty,0,Offline
+2014,scruples-bar-the-pllazio-hotel,0,Offline
+2015,mint-leaf,0,Offline
+2016,melange-the-pllazio-hotel,0,Offline
+2017,moets-lazy-panda,0,Offline
+2018,moets-curry-pot,0,Offline
+2019,club-18,0,Offline
+2020,escape-terrace-bar-kitchen,0,Offline
+2021,swagath-gurgaon,0,Offline
+2022,lucia-lounge-bar,0,Offline
+2023,suburbia-the-empire,0,Offline
+2024,abbey-road,0,Offline
+2025,buzz,0,Offline
+2026,levels-club-and-lounge,0,Offline
+2027,bercos-gurgaon,0,Offline
+2028,hops-n-brew,0,Offline
+2029,foa-the-flavours-of-arabia,0,Offline
+2030,route-04-gurgaon,0,Offline
+2031,indijoe,0,Offline
+2032,bohemia,0,Offline
+2033,candle-light,0,Offline
+2034,park-balluchi-gurgaon,0,Offline
+2035,bahi-kitchen-lounge-bar,0,Offline
+2036,brix-street-bar-and-rock-cafe,0,Offline
+2037,drift,0,Offline
+2038,56-ristorante-italiano,0,Offline
+2039,ion-club-and-dining-lounge,0,Offline
+2040,coopers-grill-and-bar,0,Offline
+2041,punjabi-by-nature-gurgaon,0,Offline
+2042,dimsum-bros.,0,Offline
+2043,khaaja-chowk,0,Offline
+2044,coriander-leaf,0,Offline
+2045,chilis-gurgaon,0,Offline
+2046,turquoise-cottage,0,Offline
+2047,zinos,0,Offline
+2048,21-gun-salute,0,Offline
+2049,indian-grill-room,0,Offline
+2050,tabaka,0,Offline
+2051,vapour-pub-and-brewery,0,Offline
+2052,golden-dragon-noida,0,Offline
+2053,the-tandoori-village,0,Offline
+2054,the-tandoori-village-amber,0,Offline
+2055,rubys-bar-and-grill,0,Offline
+2056,samarkand,0,Offline
+2057,devs-restaurant-and-bar,0,Offline
+2058,swagath-greater-noida,0,Offline
+2059,swagath-noida,0,Offline
+2060,black-lounge-bar,0,Offline
+2061,bercos-noida,0,Offline
+2062,the-yellow-chilli-greater-noida,0,Offline
+2063,the-punjabiis-restro-bar,0,Offline
+2064,asia-kitchen-noida,0,Offline
+2065,sparkle-restro-bar,0,Offline
+2066,sahi-dawaat,0,Offline
+2067,anchor-bar-and-kitchen,0,Offline
+2068,eden-kitchen-and-bar,0,Offline
+2069,doosri-mehfil,0,Offline
+2070,mandarin-trail,0,Offline
+2071,baby-dragon-bar-and-restaurant,0,Offline
+2072,qzine-sports-bar,0,Offline
+2073,gravity,0,Offline
+2074,the-yellow-chilli-noida,0,Offline
+2075,the-sports-box,0,Offline
+2076,flluid-mosaic-hotels,0,Offline
+2077,the-caspian,0,Offline
+2078,cheenos,0,Offline
+2079,pearls-regency,0,Offline
+2080,club-ice-cube,0,Offline
+2081,punjabi-by-nature-noida,0,Offline
+2082,kink,0,Offline
+2083,geoffreys-noida,0,Offline
+2084,my-way-or-the-high-way,0,Offline
+2085,ocean-rest-o-bar,0,Offline
+2086,moti-mahal-delux-tandoori-trail-raj-nagar,0,Offline
+2087,champions,0,Offline
+2088,the-yellow-chilli-sahibabad,0,Offline
+2089,cinch,0,Offline
+2090,sapphires-the-blue,0,Offline
+2091,pind-balluchi-indirapuram,0,Offline
+2092,cinnamon-kitchen,0,Offline
+2093,bawarchi-delite,0,Offline
+2094,3bs-country-inn-and-suites,0,Offline
+2095,the-terrace,0,Offline
+2096,mocking-bird,0,Offline
+2097,tatva-country-inn-and-suites,0,Offline
+2098,9-mars-lounge,0,Offline
+2099,woodpecker,0,Offline
+2100,masala-lounge,0,Offline
+2101,geoffreys-pub-park-plaza,0,Offline
+2102,youphoria-restaurant-bar-and-lounge,0,Offline
+2103,criscendo-cafe-and-bar,0,Offline
+2104,zosse,0,Offline
+2105,magnet-resto-bar-and-lounge,0,Offline
+2106,bercos-faridabad,0,Offline
+2107,synk-lounge-bar,0,Offline
+2108,chicane,0,Offline
+2109,brew-n-barrel,0,Offline
+2110,le-chef-restro-bar,0,Offline
+2111,alles-spice,0,Offline
+2112,le-moksh-restaurant-and-lounge,0,Offline
+2113,nysha-bar-n-grill,0,Offline
+2114,vino-e-birra-by-capri-villaggio,0,Offline
+2115,cafe-rendezvous,0,Offline
+2116,chonas,0,Offline
+2117,voda-bar,0,Offline
+2118,4s-chinese-restaurant,0,Offline
+2119,warehouse-cafe,0,Offline
+2120,the-orient-tavern,0,Offline
+2121,capital-curry,0,Offline
+2122,rhythm-restro-bar,0,Offline
+2123,atrium-bar-and-lounge-the-suryaa-new-delhi,0,Offline
+2124,c-lounge,0,Offline
+2125,tonic,0,Offline
+2126,mandarin-court,0,Offline
+2127,lotus-garden,0,Offline
+2128,hong-kong,0,Offline
+2129,dawat-khana,0,Offline
+2130,rdx,0,Offline
+2131,the-first-floor-nehru-place,0,Offline
+2132,pocket-bar-vasant-kunj,0,Offline
+2133,asia-kitchen-vasant-vihar,0,Offline
+2134,mbs,0,Offline
+2135,aka-saka,0,Offline
+2136,minar-greater-kailash,0,Offline
+2137,ego-33,0,Offline
+2138,plutos-platinum-longe,0,Offline
+2139,pind-balluchi-nehru-place,0,Offline
+2140,moti-mahal-delux-defence-colony,0,Offline
+2141,madhuban,0,Offline
+2142,the-clay-oven,0,Offline
+2143,chamanlal-and-sons,0,Offline
+2144,golden-dragon-vasant-vihar,0,Offline
+2145,golden-dragon-panchsheel-park,0,Offline
+2146,golden-dragon-lajpat-nagar,0,Offline
+2147,storm-bar-and-grill,0,Offline
+2148,bercos-saket,0,Offline
+2149,s-bar-and-resturant-shalom,0,Offline
+2150,roost-bistro,0,Offline
+2151,match-box,0,Offline
+2152,pizzeria-rossa,0,Offline
+2153,le-bistro-du-parc,0,Offline
+2154,kainoosh,0,Offline
+2155,elf-cafe-and-bar,0,Offline
+2156,urban-knights,0,Offline
+2157,sakleys-the-mountain-cafe,0,Offline
+2158,turquoise-cottage-tc-original-1997,0,Offline
+2159,striker-pub-and-kitchen,0,Offline
+2160,keya,0,Offline
+2161,raas,0,Offline
+2162,the-acquarium-lounge,0,Offline
+2163,raasta,0,Offline
+2164,mia-bella,0,Offline
+2165,the-flying-saucer-cafe,0,Offline
+2166,the-blue-bar-taj-palace-hotel,0,Offline
+2167,28-capri-italy,0,Offline
+2168,tzers,0,Offline
+2169,ego-obsession,0,Offline
+2170,barbeque-creation-by-kadhai-tadka,0,Offline
+2171,ego-thai,0,Offline
+2172,tapas-world,0,Offline
+2173,harrys-karaoke-lounge-bar,0,Offline
+2174,fez-dining-and-bar,0,Offline
+2175,chungwa,0,Offline
+2176,rpm,0,Offline
+2177,nagalands-kitchen,0,Offline
+2178,chi-kitchen-and-bar,0,Offline
+2179,t-c-bar-and-restaurant,0,Offline
+2180,1440,0,Offline
+2181,mocha-arthouse,0,Offline
+2182,lotus-pond,0,Offline
+2183,tgi-fridays-saket,0,Offline
+2184,tgi-fridays-vasant-kunj,0,Offline
+2185,chi-kitchen-and-bar,0,Offline
+2186,mocha-defence-colony,0,Offline
+2187,garage-inc.,0,Offline
+2188,route-04,0,Offline
+2189,buzz,0,Offline
+2190,salotto-44-cafe-and-bar,0,Offline
+2191,kylin-premier,0,Offline
+2192,nile-restaurant-and-bar,0,Offline
+2193,mughal-mahal,0,Offline
+2194,puratan-family-restaurant-and-bar,0,Offline
+2195,urban-cafe,0,Offline
+2196,out-of-the-box-khan-market,0,Offline
+2197,khidmat,0,Offline
+2198,geoffreys-saket,0,Offline
+2199,punjabi-by-nature-vasant-kunj,0,Offline
+2200,punjab-grill,0,Offline
+2201,barka,0,Offline
+2202,the-barrel-house-by-cafe-27,0,Offline
+2203,park-balluchi,0,Offline
+2204,boombox-cafe,0,Offline
+2205,spasso,0,Offline
+2206,pebble-street,0,Offline
+2207,the-great-kabab-factory,0,Offline
+2208,chilis-vasant-kunj,0,Offline
+2209,1-boulevard,0,Offline
+2210,the-all-american-diner,0,Offline
+2211,lodi-the-garden-restaurant,0,Offline
+2212,lighthouse-13,0,Offline
+2213,hard-rock-cafe,0,Offline
+2214,out-of-the-box-hauz-khas,0,Offline
+2215,united-coffee-house,0,Offline
+2216,route-04,0,Offline
+2217,parikrama-the-revolving-restaurant,0,Offline
+2218,qba,0,Offline
+2219,1-cafe-lounge,0,Offline
+2220,rodeo,0,Offline
+2221,sura-vie-lounge-connaught-place,0,Offline
+2222,white-waters,0,Offline
+2223,pocket-bar-karol-bagh,0,Offline
+2224,tapas-jaypee-siddharth,0,Offline
+2225,dimple-bar-restaurant,0,Offline
+2226,alfa-spice,0,Offline
+2227,moti-mahal-delux-kebab-trail,0,Offline
+2228,embassy-civil-lines,0,Offline
+2229,cocoa-by-belgique-connaught-place,0,Offline
+2230,island-bar-shangri-las-eros-hotel,0,Offline
+2231,saqi-bar,0,Offline
+2232,kwality,0,Offline
+2233,ek-boti-do-roti,0,Offline
+2234,pioneers-flavours-of-china,0,Offline
+2235,the-host,0,Offline
+2236,sarvam-safari,0,Offline
+2237,the-connaught-bar-radisson-blu-marina,0,Offline
+2238,zen,0,Offline
+2239,delhi-darbar,0,Offline
+2240,blues,0,Offline
+2241,side-wok,0,Offline
+2242,boombox-cafe,0,Offline
+2243,minar-connaught-place,0,Offline
+2244,the-chaupal-bar-and-restaurant,0,Offline
+2245,my-own-space,0,Offline
+2246,spice-n-ice,0,Offline
+2247,true-blue,0,Offline
+2248,golden-dragon-preet-vihar,0,Offline
+2249,clubex9-resturant-and-bar,0,Offline
+2250,code-restro-bar,0,Offline
+2251,bercos-preet-vihar,0,Offline
+2252,aroma-rest-o-bar,0,Offline
+2253,the-yellow-chilli-laxmi-nagar,0,Offline
+2254,opium-bar-hotel-city-park,0,Offline
+2255,rasaas,0,Offline
+2256,red-ocean,0,Offline
+2257,bellagio-red,0,Offline
+2258,bellagio-by-the-way,0,Offline
+2259,blue-moon,0,Offline
+2260,bercos-rohini,0,Offline
+2261,pind-balluchi-pitampura,0,Offline
+2262,pacific-asia,0,Offline
+2263,fiery-grills,0,Offline
+2264,moti-mahal-delux-tandoori-trail-rohini,0,Offline
+2265,o2,0,Offline
+2266,metro-grill-rohini,0,Offline
+2267,pikwik,0,Offline
+2268,metro-grill-pitampura,0,Offline
+2269,all-heavens,0,Offline
+2270,eleven-to-eleven,0,Offline
+2271,green-lounge,0,Offline
+2272,deez-biryani-and-kebabs,0,Offline
+2273,spice-court-rohini,0,Offline
+2274,mosaic-sk-premium-park,0,Offline
+2275,oro-the-bar-radisson-blu,0,Offline
+2276,urban-degchi-kitchen-and-bar,0,Offline
+2277,maya-tandoori,0,Offline
+2278,godavari-restobar,0,Offline
+2279,asian-garden,0,Offline
+2280,dilli-darbar,0,Offline
+2281,drink-n-dine,0,Offline
+2282,fire-n-ice,0,Offline
+2283,united-westends,0,Offline
+2284,zeppelin-raddison-blue,0,Offline
+2285,mela,0,Offline
+2286,cocoa-by-belgique-tagore-garden,0,Offline
+2287,destination,0,Offline
+2288,moti-mahal-delux-janakpuri,0,Offline
+2289,moti-mahal-delux-punjabi-bagh,0,Offline
+2290,golden-dragon-dwarka,0,Offline
+2291,golden-dragon-rajouri-garden,0,Offline
+2292,bercos-dwarka,0,Offline
+2293,bercos-janakpuri,0,Offline
+2294,the-backyard,0,Offline
+2295,sura-vie-lounge-punjabi-bagh,0,Offline
+2296,buzz,0,Offline
+2297,essence-restro-bar-and-partyhall,0,Offline
+2298,legend,0,Offline
+2299,pind-balluchi-rajouri-garden,0,Offline
+2300,over-the-top,0,Offline
+2301,punjabi-by-nature-rajouri-garden,0,Offline
+2302,24-carat-lounge,0,Offline
+2303,game-of-legends-sports-bar-and-grill,0,Offline
+2304,aqua-the-lounge-bar,0,Offline
+2305,aanch,0,Offline
+2306,chutneez-restaurant-lounge-and-bar-i-p-extension,0,Offline
+2307,chutneez-restaurant-lounge-and-bar-laxmi-nagar,0,Offline
+2308,castle-9-restaurants-and-lounge,0,Offline
+2309,knight-world-cuisine-lounge,0,Offline
+2310,knight-rider-global-restaurant-and-lounge,0,Offline
+2311,bonne-bouche,0,Offline
+2312,ice-lounge,0,Offline
+2313,fork-you,0,Offline
+2314,the-tao-terraces,0,Offline
+2315,the-13th-floor,0,Offline
+2316,tavern-at-the-inn-museum-inn,0,Offline
+2317,vi-ras-bar-and-restaurant,0,Offline
+2318,tilt-gastropub,0,Offline
+2319,the-pub-world,0,Offline
+2320,the-grill-house,0,Offline
+2321,tango-calypso,0,Offline
+2322,sattva-sky-lounge,0,Offline
+2323,plus-91,0,Offline
+2324,no-limmits,0,Offline
+2325,mother-cluckers-bar,0,Offline
+2326,dugout-sports-bar,0,Offline
+2327,cibo-esca,0,Offline
+2328,burgundy-royal-orchid-suites,0,Offline
+2329,bayleaf-restaurant,0,Offline
+2330,banjara,0,Offline
+2331,100-ft,0,Offline
+2332,urban-edge,0,Offline
+2333,zanzibar,0,Offline
+2334,white-horse,0,Offline
+2335,venus-bar-and-restaurant,0,Offline
+2336,turquoise-s-hotel,0,Offline
+2337,toscano,0,Offline
+2338,troika,0,Offline
+2339,sutra-the-lalit-ashok,0,Offline
+2340,sky-lounge-svenska-hotel,0,Offline
+2341,roadhouse,0,Offline
+2342,sarayu-fine-dine-restaurant,0,Offline
+2343,pub-tap-house,0,Offline
+2344,paprica,0,Offline
+2345,palazo-club-and-lounge,0,Offline
+2346,monkey-bar,0,Offline
+2347,muse-bar-and-kitchen,0,Offline
+2348,news-cafe,0,Offline
+2349,obsidian-sports-and-music-bar,0,Offline
+2350,kakori-kababs-and-curries,0,Offline
+2351,mgs-fine-dining-and-bar,0,Offline
+2352,just-another-pub,0,Offline
+2353,habanero-koramangala,0,Offline
+2354,habanero-indiranagar,0,Offline
+2355,habanero-whitefield,0,Offline
+2356,hypnos,0,Offline
+2357,jade,0,Offline
+2358,g-bar,0,Offline
+2359,gillys-restobar,0,Offline
+2360,chill-the-bar,0,Offline
+2361,tiffin-bar-alila,0,Offline
+2362,the-terminus-bar-crowne-plaza,0,Offline
+2363,pasha-bar-and-grill,0,Offline
+2364,flavours-radha-hometel,0,Offline
+2365,fava-the-mediterranean-restaurant,0,Offline
+2366,counterculture,0,Offline
+2367,curry-with-a-k,0,Offline
+2368,w-xyz-bar,0,Offline
+2369,dot.yum-aloft-hotel,0,Offline
+2370,carnival-de-goa,0,Offline
+2371,chefs-gallery,0,Offline
+2372,chinese-connection,0,Offline
+2373,aloro-crowne-plaza,0,Offline
+2374,alampur-bar-and-restaurant,0,Offline
+2375,arbor-brewing-company,0,Offline
+2376,alibi-maya-international-hotel,0,Offline
+2377,aroy,0,Offline
+2378,connexions-bar,0,Offline
+2379,aarya-multi-cusine-restaurant,0,Offline
+2380,anjappar,0,Offline
+2381,zaica-dine-and-wine-brookefields,0,Offline
+2382,zaica-dine-and-wine-indiranagar,0,Offline
+2383,xtreme-sports-bar-sarjapur-road,0,Offline
+2384,xtreme-sports-bar-kammanahalli,0,Offline
+2385,xtreme-sports-bar-cunningham-road,0,Offline
+2386,xtreme-sports-bar-marathahalli,0,Offline
+2387,xtreme-sports-bar-indiranagar,0,Offline
+2388,xtreme-sports-bar-bannerghatta-road,0,Offline
+2389,woodstok-(resto-cafe),0,Offline
+2390,the-terrace-tandoor-and-grill-restaurant,0,Offline
+2391,the-platter,0,Offline
+2392,the-onyx,0,Offline
+2393,the-local-terrace-drinkery,0,Offline
+2394,the-humming-tree,0,Offline
+2395,the-hub-ibis-hotel,0,Offline
+2396,the-gadang-hotel-park-plaza,0,Offline
+2397,the-fishermans-wharf-lavelle-road,0,Offline
+2398,the-fishermans-wharf-sarjapur-road,0,Offline
+2399,the-boozy-griffin,0,Offline
+2400,the-big-kahuna-malleshwaram,0,Offline
+2401,the-big-kahuna-whitefield,0,Offline
+2402,tgi-fridays-airport-road,0,Offline
+2403,tgi-fridays-bannerghatta-road,0,Offline
+2404,tgi-fridays-ulsoor,0,Offline
+2405,firangi-paani,0,Offline
+2406,tadka,0,Offline
+2407,soho-bar-and-grill,0,Offline
+2408,sidewalk-cafe-and-bar-the-paul-bangalore,0,Offline
+2409,sanctum,0,Offline
+2410,rewind--kalyan-nagar,0,Offline
+2411,purple-haze--residency-road,0,Offline
+2412,purple-haze--marathahalli,0,Offline
+2413,purple-haze--koramangala,0,Offline
+2414,punjabi-by-nature--whitefield,0,Offline
+2415,punjabi-by-nature--koramangala,0,Offline
+2416,plan-b-loaded,0,Offline
+2417,plan-b,0,Offline
+2418,paparazzi-royal-orchid-central,0,Offline
+2419,paparazzi-royal-orchid-central,0,Offline
+2420,opus-in-the-creek,0,Offline
+2421,opus,0,Offline
+2422,new-friends,0,Offline
+2423,mockaholic-restro-beer-cafe,0,Offline
+2424,mafia-pub,0,Offline
+2425,terrace-garden-a-roof-top-garden,0,Offline
+2426,luscious-st.-marks-hotel,0,Offline
+2427,loveshack,0,Offline
+2428,lounge-579,0,Offline
+2429,lock-n-load-chairmans-resort,0,Offline
+2430,linx-premier-inn,0,Offline
+2431,legends-of-rock,0,Offline
+2432,le-rock,0,Offline
+2433,la-casa-jayanagar,0,Offline
+2434,la-casa-kalyan-nagar,0,Offline
+2435,la-casa-sarjapur-road,0,Offline
+2436,khushi,0,Offline
+2437,khaaja-chowk,0,Offline
+2438,unlock-the-restobar-whitefield,0,Offline
+2439,unlock-the-restobar-electronic-city,0,Offline
+2440,keys-cafe-whitefield,0,Offline
+2441,keys-cafe-electronic-city,0,Offline
+2442,jugs,0,Offline
+2443,jimis-beer-cafe-jayanagar,0,Offline
+2444,jimis-beer-cafe-residency-road,0,Offline
+2445,jimis-beer-cafe-marathahalli,0,Offline
+2446,jimis-beer-cafe-koramangala,0,Offline
+2447,jimis-beer-cafe-indiranagar,0,Offline
+2448,jimis-beer-cafe-brigade-road,0,Offline
+2449,jcubez,0,Offline
+2450,indijoe-old-airport-road,0,Offline
+2451,indijoe-old-madras-road,0,Offline
+2452,indijoe-sizzlers,0,Offline
+2453,hard-rock-cafe,0,Offline
+2454,h30-koramangala,0,Offline
+2455,h30-kammanahalli,0,Offline
+2456,h30-indiranagar,0,Offline
+2457,guzzlers-inn,0,Offline
+2458,cocoon-the-lounge-bar,0,Offline
+2459,golden-oak-la-marvella-hotel,0,Offline
+2460,go-pub,0,Offline
+2461,glassy,0,Offline
+2462,gandharva-family-restaurant,0,Offline
+2463,fusion-lounge,0,Offline
+2464,filling-station,0,Offline
+2465,fill-n-chill,0,Offline
+2466,euphoria-u4ia,0,Offline
+2467,enigma,0,Offline
+2468,downtown,0,Offline
+2469,dont-tell-mama-the-elite,0,Offline
+2470,doff-pub-and-lounge,0,Offline
+2471,distll,0,Offline
+2472,deja-vu-resto-bar,0,Offline
+2473,cirrus,0,Offline
+2474,chilis-malleshwaram,0,Offline
+2475,chilis-whitefield,0,Offline
+2476,checkered-bar,0,Offline
+2477,california-pizza-kitchen-indiranagar,0,Offline
+2478,california-pizza-kitchen-whitefield,0,Offline
+2479,california-pizza-kitchen-koramangala,0,Offline
+2480,cafe-noir-whitefield,0,Offline
+2481,cafe-noir-malleshwaram,0,Offline
+2482,cafe-noir-mahadevpura,0,Offline
+2483,cafe-noir-vittal-mallya-road,0,Offline
+2484,bubbles-bite-pub-and-restaurant,0,Offline
+2485,brewberrys-pub-and-restaurant,0,Offline
+2486,breezes-hotel-pigeon-international,0,Offline
+2487,bon-sante,0,Offline
+2488,blue-corlander,0,Offline
+2489,bling-the-zuri,0,Offline
+2490,black-jack-lounge-bar,0,Offline
+2491,beetle-juice-bar-springs-hotel-and-spa,0,Offline
+2492,bar-code,0,Offline
+2493,banana-beach-bar,0,Offline
+2494,aviator-goldfinch-retreat,0,Offline
+2495,87-premier-inn,0,Offline
+2496,380-down,0,Offline
+2497,3-monkeys-brewpub,0,Offline
+2498,1522-the-pub,0,Offline
+2499,shitakke,0,Offline
+2500,season-adarsh-hamilton,0,Offline
+2501,the-studio-bar,0,Offline
+2502,flame-pub-and-restaurant,0,Offline
+2503,club-9-hotel-regaalls,0,Offline
+2504,tonic,0,Offline
+2505,heavens-dog,0,Offline
+2506,revival-restaurant-and-bar,0,Offline
+2507,the-local-passenger,0,Offline
+2508,cafe-sabrosa,0,Offline
+2509,"tap-sports-bar,-andheri-(west)",0,Offline
+2510,pot-pourri,0,Offline
+2511,spill-the-bar,0,Offline
+2512,bliss-the-resto-bar,0,Offline
+2513,gangstas,0,Offline
+2514,kipos,0,Offline
+2515,he-said-she-said,0,Offline
+2516,flora-chinese-restaurant,0,Offline
+2517,pop-tates-vashi,0,Offline
+2518,pop-tates-andheri-(lokhandwala),0,Offline
+2519,"pop-tates-korum-mall,-thane",0,Offline
+2520,hangover,0,Offline
+2521,out-of-the-blue-khar-(west),0,Offline
+2522,ground-zero-cest-la-vie,0,Offline
+2523,znon-lounge-bar,0,Offline
+2524,"smoke-house-deli,-bandra-(west)",0,Offline
+2525,"smoke-house-deli,-bkc",0,Offline
+2526,canvas-lounge,0,Offline
+2527,shockk,0,Offline
+2528,auriga-lounge,0,Offline
+2529,dbell-lounge,0,Offline
+2530,"mocha,-ghatkopar-west",0,Offline
+2531,"mocha-mojo,-bandra-west",0,Offline
+2532,the-pint-room-malad,0,Offline
+2533,hard-rock-cafe-andheri-west,0,Offline
+2534,golden-chariot,0,Offline
+2535,the-bar,0,Offline
+2536,zouk-bar-and-grill,0,Offline
+2537,"eighteen-the-lounge-and-bar,-the-westin",0,Offline
+2538,whats-your-poison?-at-the-paradise-by-tunga,0,Offline
+2539,saffron-bay-rooftop-bar-charni-road,0,Offline
+2540,pico-expresss-r-city-mall,0,Offline
+2541,the-beatle-hotel,0,Offline
+2542,l5-restaurant-and-lounge,0,Offline
+2543,gusto-kitchen-and-bar,0,Offline
+2544,kaktus-bar-and-kitchen,0,Offline
+2545,quench,0,Offline
+2546,cheval-bar-and-restaurant,0,Offline
+2547,yellow-tree-cafe,0,Offline
+2548,the-blu-balcony,0,Offline
+2549,"arola,-jw-marriott",0,Offline
+2550,le-pain-quotidien-colaba,0,Offline
+2551,timbuctoo-lounge,0,Offline
+2552,ren-lounge-bar,0,Offline
+2553,"crimson,-the-regenza",0,Offline
+2554,slice-of-lime,0,Offline
+2555,"the-ark,-hotel-sea-princess-juhu",0,Offline
+2556,3-wise-monkeys,0,Offline
+2557,koh-marine-drive,0,Offline
+2558,starboard-the-taj-mahal-palace,0,Offline
+2559,smaaash,0,Offline
+2560,the-barking-deer,0,Offline
+2561,crossroads-92,0,Offline
+2562,or-g-(original-gourmet),0,Offline
+2563,the-den,0,Offline
+2564,"corleone,-intercontinental,-marine-drive-(currently-undergoing-renovation)",0,Offline
+2565,food-first,0,Offline
+2566,road-house-bluez,0,Offline
+2567,hq-(headquarters)-kurla-(west),0,Offline
+2568,hakkasan,0,Offline
+2569,36-oak-and-barley,0,Offline
+2570,"smoke-house-deli,-lower-parel",0,Offline
+2571,tote-on-the-turf,0,Offline
+2572,drunken-munkey,0,Offline
+2573,stardust-the-bar,0,Offline
+2574,"the-tavern,-colaba",0,Offline
+2575,le-pain-quotidien-bandra-(east),0,Offline
+2576,poco-loco,0,Offline
+2577,f-lounge,0,Offline
+2578,cafe-mangi-powai,0,Offline
+2579,on-toes-malad-(west),0,Offline
+2580,alfredos-juhu,0,Offline
+2581,cafe-infinito,0,Offline
+2582,"7-flags,-andheri-(east)",0,Offline
+2583,cafe-mangi-versova,0,Offline
+2584,rainforest-resto-bar-ghatkopar-(west),0,Offline
+2585,northern-tadka-malad-(west),0,Offline
+2586,the-little-door,0,Offline
+2587,the-united-sports-bar-and-grill-(previously-manchester-united-cafe-bar),0,Offline
+2588,wtf!,0,Offline
+2589,"ivy-grande-wine-cafe-and-bistro,-khar-west",0,Offline
+2590,"miro-lounge,-svenska",0,Offline
+2591,red-ant-bandra,0,Offline
+2592,green-jade-oriental-lounge-and-bar,0,Offline
+2593,bora-bora,0,Offline
+2594,rainforest-resto-bar-kurla-(west),0,Offline
+2595,"jugheads-the-unrestaurant,-versova",0,Offline
+2596,"pop-tates-ghodbandar-road,-thane",0,Offline
+2597,indus-cocktail-bar-and-tandoor,0,Offline
+2598,"veda-palladium-mall,-lower-parel",0,Offline
+2599,the-irish-house-kala-ghoda,0,Offline
+2600,the-united-sports-bar-and-grill-(previously-manchester-united-cafe-bar),0,Offline
+2601,masala-mantar,0,Offline
+2602,bungalow-9,0,Offline
+2603,hawaiian-shack-bandra-west,0,Offline
+2604,pop-tates-malad-(west),0,Offline
+2605,the-united-sports-bar-and-grill-(previously-manchester-united-cafe-bar),0,Offline
+2606,fever-the-night-club,0,Offline
+2607,"flavors,-sanpada",0,Offline
+2608,the-crazy-turtle,0,Offline
+2609,urban-tadka-mulund-(west),0,Offline
+2610,the-bowl-house,0,Offline
+2611,tiara-restaurant-meluha-the-fern,0,Offline
+2612,the-elbo-room,0,Offline
+2613,urban-tadka-ghatkopar-(west),0,Offline
+2614,red-olives,0,Offline
+2615,f!@#-the-name,0,Offline
+2616,keys-cafe,0,Offline
+2617,beluga-bar-the-lalit,0,Offline
+2618,wine-n-dine,0,Offline
+2619,hometown-cafe-andheri-(west),0,Offline
+2620,horn-ok-please,0,Offline
+2621,hometown-cafe-juhu,0,Offline
+2622,hometown-cafe-bandra-(west),0,Offline
+2623,some-like-it-hot,0,Offline
+2624,pizza-by-the-bay,0,Offline
+2625,pop-tates-vikhroli,0,Offline
+2626,aer-four-seasons,0,Offline
+2627,out-of-the-blue-powai,0,Offline
+2628,"the-irish-house,-phoenix-mills",0,Offline
+2629,liquid-lounge-and-marhaba-grand-sarovar-premiere,0,Offline
+2630,urban-tadka-andheri-(east),0,Offline
+2631,pop-tates-sakinaka,0,Offline
+2632,courtyard-restaurant-and-bar,0,Offline
+2633,rockville-bar-and-diner,0,Offline
+2634,flamboyante,0,Offline
+2635,the-big-bang-bar-and-cafe,0,Offline
+2636,"firangi-paani,-andheri",0,Offline
+2637,chilis-grill-and-bar,0,Offline
+2638,six-degrees-the-leela,0,Offline
+2639,salt-water-cafe,0,Offline
+2640,escobar-tapas-bar,0,Offline
+2641,somethings-fishy,0,Offline
+2642,astrix,0,Offline
+2643,the-peking-tom,0,Offline
+2644,pop-tates-versova,0,Offline
+2645,andys-pizzeria-and-diner,0,Offline
+2646,"rainforest-resto-bar,-cbd-belapur",0,Offline
+2647,urban-tadka-7-bunglows,0,Offline
+2648,gadda-da-vida-novotel,0,Offline
+2649,the-blue-frog,0,Offline
+2650,cerveza,0,Offline
+2651,pop-tates-mulund-(west),0,Offline
+2652,"busaba,-colaba",0,Offline
+2653,exotic-flavours-restaurant-and-lounge,0,Offline
+2654,quesso-ristorante,0,Offline
+2655,hard-rock-cafe-worli,0,Offline
+2656,mix@36,0,Offline
+2657,merlins-karaoke-bar-balewadi,0,Offline
+2658,melange,0,Offline
+2659,namah,0,Offline
+2660,neptune-bar-and-lounge,0,Offline
+2661,orchid-multi-cuisine-restaurant,0,Offline
+2662,lincoln-buffet,0,Offline
+2663,little-italy-chinchwad,0,Offline
+2664,little-italy-bund-garden-road,0,Offline
+2665,lost-the-plot,0,Offline
+2666,legends,0,Offline
+2667,oriental-fusion,0,Offline
+2668,poolside-grill,0,Offline
+2669,regalia-restro-and-lounge,0,Offline
+2670,red-bar,0,Offline
+2671,rainforest,0,Offline
+2672,leather-lounge,0,Offline
+2673,lakeside-inn,0,Offline
+2674,prems-restaurant,0,Offline
+2675,kue-bar,0,Offline
+2676,kiva-brew-pub,0,Offline
+2677,ritz-carlson,0,Offline
+2678,rock-salt-sky-bar,0,Offline
+2679,roof-top-bar,0,Offline
+2680,salt-kitch-n-bar,0,Offline
+2681,shatranj-wine-and-dine,0,Offline
+2682,soak,0,Offline
+2683,the-eye-club,0,Offline
+2684,the-mugshot-lounge,0,Offline
+2685,toss-sports-lounge,0,Offline
+2686,treat-cafe-and-bar-lounge,0,Offline
+2687,x-tasy-(the-pride-hotel),0,Offline
+2688,wah-marathi-dine-n-wine,0,Offline
+2689,yo!-china-cafe,0,Offline
+2690,xanadu,0,Offline
+2691,zaheer-khans-dine-fine,0,Offline
+2692,zks,0,Offline
+2693,jimmy-hu,0,Offline
+2694,jackson-bar,0,Offline
+2695,infinity-at-post-91-baner,0,Offline
+2696,independence-brewing-company,0,Offline
+2697,goldmine-koregaon-park,0,Offline
+2698,goldmine-baner,0,Offline
+2699,fuzion,0,Offline
+2700,frangipani,0,Offline
+2701,feast-cafe-and-lounge,0,Offline
+2702,elvis-lounge,0,Offline
+2703,cinnamon-spice,0,Offline
+2704,casero,0,Offline
+2705,cafe-chinoise,0,Offline
+2706,by-the-way,0,Offline
+2707,hard-rock-cafe,0,Offline
+2708,bluo,0,Offline
+2709,barrels-and-bottles,0,Offline
+2710,barleyz-the-brew-house,0,Offline
+2711,atmosphere-6,0,Offline
+2712,atlantis-world-cuisine,0,Offline
+2713,arthurs-theme-restaurant,0,Offline
+2714,apache-fluid-lounge,0,Offline
+2715,1000-oaks,0,Offline
+2716,bar-code-bar,0,Offline
+2717,barbeque-and-biryanis,0,Offline
+2718,atrium-bar,0,Offline
+2719,little-italy-ganeshkhind,0,Offline
+2720,cafe-burps,0,Offline
+2721,the-1st-brewhouse-the-corinthians,0,Offline
+2722,the-irish-house,0,Offline
+2723,oak-lounge,0,Offline
+2724,nawab-asia,0,Offline
+2725,melange,0,Offline
+2726,cafe-1730-beans-and-booze,0,Offline
+2727,eternia,0,Offline
+2728,sicilia,0,Offline
+2729,kasba,0,Offline
+2730,malaka-street,0,Offline
+2731,chilis,0,Offline
+2732,the-fishbowl,0,Offline
+2733,eighty-eight,0,Offline
+2734,spice-it,0,Offline
+2735,cafe-bay-leaf,0,Offline
+2736,k.-lounge,0,Offline
+2737,feast-cafe-and-lounge-spree-hotel,0,Offline
+2738,spice-garden,0,Offline
+2739,felix-bar-holiday-inn,0,Offline
+2740,aqua-lounge,0,Offline
+2741,mozzarella,0,Offline
+2742,best-bar-in-town,0,Offline
+2743,atrium-coffee-shop,0,Offline
+2744,chequered-flag,0,Offline
+2745,lustre-lounge,0,Offline
+2746,entresol-bar,0,Offline
+2747,sanika,0,Offline
+2748,pesto-pesto,0,Offline
+2749,mmyra-lounge,0,Offline
+2750,the-village-rooftop,0,Offline
+2751,april-rain,0,Offline
+2752,trois-kitchen-and-wine-bar,0,Offline
+2753,magnolia,0,Offline
+2754,mix-lounge,0,Offline
+2755,the-ship,0,Offline
+2756,area-51,0,Offline
+2757,connexions-lounge-and-bar,0,Offline
+2758,wagaya,0,Offline
+2759,mezzuna,0,Offline
+2760,up-and-above,0,Offline
+2761,swig,0,Offline
+2762,infinity-at-post-91-koregaon-park,0,Offline
+2763,121-kitchen-:-bar,0,Offline
+2764,blinque,0,Offline
+2765,skye,0,Offline
+2766,out-of-the-blue,0,Offline
+2767,merlins-karaoke-bar-pune-banglore-highway,0,Offline
+2768,dont-tell-mama,0,Offline
+2769,zikomo,0,Offline
+2770,zanzibar,0,Offline
+2771,lava,0,Offline
+2772,slounge,0,Offline
+2773,orgia-the-lounge,0,Offline
+2774,malaka-spice,0,Offline
+2775,flambos-brewpub,0,Offline
+2776,hidden-place-the-crazy-frog,0,Offline
+2777,hidden-place-the-hangout,0,Offline
+2778,11-east-street-cafe,0,Offline
+2779,exotica,0,Offline
+2780,262-the-lounge,0,Offline
+2781,the-united-sports-bar-and-grill-(previously-manchester-united-cafe-bar),0,Offline
+2782,wtf!,0,Offline
+2783,the-cellar,0,Offline
+2784,Charles & Keith,NULL,Offline
+2785,French Connection,NULL,Offline
+2786,Diesel,NULL,Offline
+2787,Superdry,NULL,Offline
+2788,Aldo,NULL,Offline
+2789,Kenneth Cole,NULL,Offline
+2790,Only,NULL,Offline
+2791,DKNY Accessories,NULL,Offline
+2792,Aldo Accessories,NULL,Offline
+2793,Ayesha Accessories,NULL,Offline
+2794,Claires,NULL,Offline
+2795,Accessorize,NULL,Offline
+2796,Swarovski,NULL,Offline
+2797,The Body Shop,NULL,Offline
+2798,Satya  Paul,NULL,Offline
+2799,Vero Moda,NULL,Offline
+2800,Gas,NULL,Offline
+2801,Numero Uno,NULL,Offline
+2802,Kraus Jeans,NULL,Offline
+2803,Hush Puppies,NULL,Offline
+2804,The Raymond Shop,NULL,Offline
+2805,PARK AVENUE ,NULL,Offline
+2806,PAVERS ENGLAND,NULL,Offline
+2807,Gossip Shoes,NULL,Offline
+2808,Reebok,NULL,Offline
+2809,PUMA,NULL,Offline
+2810,Nike,NULL,Offline
+2811,PLANET SPORTS,NULL,Offline
+2812,MOCHI,NULL,Offline
+2813,Bata,NULL,Offline
+2814,Garden Vareli,NULL,Offline
+2815,Lee Cooper,NULL,Offline
+2816,TANISHQ,NULL,Offline
+2817,Little Kangaroos,NULL,Offline
+2818,Paras Furnishing & Mattresses,NULL,Offline
+2819,Maharashtra Furnishing & Mattresses,NULL,Offline
+2820,INDIA Mattresses & Cloth Stores,NULL,Offline
+2821,Maratha Mattresses & Furnishings,NULL,Offline
+2822,LUCKY Mattresses,NULL,Offline
+2823,BHUJBAL Furnishing & Mattress,NULL,Offline
+2824,Chauhan Furnishing & Furniture,NULL,Offline
+2825,NENSEY Furnishing & Mattresses,NULL,Offline
+2826,Super Mattresses,NULL,Offline
+2827,Bharat Rexine,NULL,Offline
+2828,New Furniture Centre,NULL,Offline
+2829,Modern Furniture,NULL,Offline
+2830,BHUJBAL Furniture & Interior Decorator,NULL,Offline
+2831,Navratan Plywood Pvt. Ltd.,NULL,Offline
+2832,ORIGINAL OPTICIANS,NULL,Offline
+2833,New Star Salon Unisex,NULL,Offline
+2834,Om Sai Optics,NULL,Offline
+2835,DUNIYA World of  Bags,NULL,Offline
+2836,Leather Collection,NULL,Offline
+2837,Shakra Leather Arts,NULL,Offline
+2838,Crazy Kult Collection,NULL,Offline
+2839,Step In Style,NULL,Offline
+2840,Sai Collection,NULL,Offline
+2841,Jasu Goru Men - Ego,NULL,Offline
+2842,Make Over Mens & Kids Wear,NULL,Offline
+2843,Tim Tim Children Wear,NULL,Offline
+2844,Shree Ganesh Traders,NULL,Offline
+2845,Baba Fashion,NULL,Offline
+2846,RAMDEV  PLYWOOD,NULL,Offline
+2847,Metro Rockers Shoe,NULL,Offline
+2848,SARIKA  Leather Boutique NX,NULL,Offline
+2849,ARSH  Leather Planet,NULL,Offline
+2850,Bhairav Enterprises,NULL,Offline
+2851,Baba Traders,NULL,Offline
+2852,Kurla Cycle Service,NULL,Offline
+2853,Gouri   Furnishing & Mattresses,NULL,Offline
+2854,ALMO  NX Fashion ,NULL,Offline
+2855,ALMO NX Fashion Shirting Suiting,NULL,Offline
+2856,Ben Sera NX,NULL,Offline
+2857,Parampara Youth Fashion Bank,NULL,Offline
+2858,NAZAR OPTICS,NULL,Offline
+2859,KP  Mens Wear,NULL,Offline
+2860,Mahalaxmi Designer,NULL,Offline
+2861,Suhagan Sarees,NULL,Offline
+2862,FRIENDS,NULL,Offline
+2863,HouseFull,NULL,Offline
+2864,The Cotton Lawn Shop,NULL,Offline
+2865,Suruchi Sarees,NULL,Offline
+2866,Yog Power Studio,NULL,Offline
+2867,ESBEDA,NULL,Offline
+2868,REDTAPE,NULL,Offline
+2869,Bombay Dyeing,NULL,Offline
+2870,MADAME,NULL,Offline
+2871,CARATLANE,NULL,Offline
+2872,G. S. Ben Sera,NULL,Offline
+2873,Samrat Collection,NULL,Offline
+2874,Poonam Textorium,NULL,Offline
+2875,Mohammed Mobin Akbar Ali & Co.,NULL,Offline
+2876,NEW JANTA  Furnishing & Mattresses,NULL,Offline
+2877,UNIQUE  OPTICS,NULL,Offline
+2878,National Carpet & Wall Paper,NULL,Offline
+2879,Mazhar Khan Fashion Studio,NULL,Offline
+2880,FAME VISION,NULL,Offline
+2881,KURLA CYCLE SERVICE,NULL,Offline
+2882,Alfa Optician Contact Lens Clinic,NULL,Offline
+2883,Sangam Plywood,NULL,Offline
+2884,CLASSIC Furnishing & Mattresses,NULL,Offline
+2885,Ziya Optics,NULL,Offline
+3000,Cafe Coffee Day,0,Offline
+3001,Apex Garden,0,Offline
+3002,Favalo - Le Meridian,0,Offline
+3003,Peacock - Le Meridian,0,Offline
+3004,Ponzu - Le Meridian,0,Offline
+3005,Promenade Pondicherry Le Dupleix-pondicherry-sarovar Hotels & Resorts,0,Offline
+3006,24 Hours Coffee Drop,0,Offline
+3007,Bengaluru - La Classic,0,Offline
+3008,Envy Lounge Bar,0,Offline
+3009,Hibscus,0,Offline
+3010,Its Mirchi,0,Offline
+3011,Silver Leaf,0,Offline
+3012,On The Rocks - The Lark,0,Offline
+3013,Pink Pepper - The Lark,0,Offline
+3014,The Pizzeria,0,Offline
+3015,Noodle King ? Coromandel Plaza,0,Offline
+3016,Ammis Biryani,0,Offline
+3017,Freddys Cocktail Lounge - Hotel Ekaa,0,Offline
+3018,Melange - Hotel Ekaa,0,Offline
+3019,Noodle King ? Sholinganallur,0,Offline
+3020,Sampooran,0,Offline
+3021,Onyx,0,Offline
+3022,Aaranya,0,Offline
+3023,Pepper Mint,0,Offline
+3024,Mainland China,0,Offline
+3025,Gustos Pizza,0,Offline
+3026,Biso - Citrus Hotel Bengaluru,0,Offline
+3027,Parika,0,Offline
+3028,Best Western Plus Jagadiish - Coffe Shop,0,Offline
+3029,Best Western Plus Jagadiish - The Yellow Chilli,0,Offline
+3030,Heritage Resort Coorg,0,Offline
+3031,Silver Oaks - Heritage Coorg International,0,Offline
+3032,The Lost Horizon Bar - Heritage Coorg International,0,Offline
+3033,Sigree Global Grill,0,Offline
+3034,Jade Bar,0,Offline
+3035,Urban Spice,0,Offline
+3036,Silsila,0,Offline
+3037,Noodle King ? Keelkatalai,0,Offline
+3038,West Woods,0,Offline
+3039,Wood Rose,0,Offline
+3040,Sterling Suites Koramangala,0,Offline
+3041,Vaikuntam,0,Offline
+3042,Mezz9,0,Offline
+3043,Mustard,0,Offline
+3044,7th Heaven,0,Offline
+3045,Bean Here,0,Offline
+3046,Nawab,0,Offline
+3047,Terrace Bar,0,Offline
+3048,The Mine,0,Offline
+3049,The Orchid,0,Offline
+3050,U S Pizza,0,Offline
+3051,Beetle Juice,0,Offline
+3052,Mgs Fine Dining,0,Offline
+3053,Breezes Restaurant,0,Offline
+3054,Roof Top Lounge Bar,0,Offline
+3055,The Osteria,0,Offline
+3056,Oak Leaf,0,Offline
+3057,Cafe Treat - The Pride Hotel Bangalore,0,Offline
+3058,Kudla,0,Offline
+3059,Legacy Of Punjab,0,Offline
+3060,Puran Da Dhaba - The Pride Hotel Bangalore,0,Offline
+3061,30 Grand,0,Offline
+3062,Noodle King ? Pallavaram,0,Offline
+3063,Ozaa,0,Offline
+3064,Soul City,0,Offline
+3065,Chaarcoals,0,Offline
+3066,Club9,0,Offline
+3067,La Gardenia,0,Offline
+3068,Guzzlers Inn,0,Offline
+3069,Oh Calcutta,0,Offline
+3070,Jaisalmer,0,Offline
+3071,Sidewalk Cafe,0,Offline
+3072,Hotel Dhammanagi Comforts,0,Offline
+3073,Jet Set,0,Offline
+3074,37 China Town,0,Offline
+3075,Aromas Of South,0,Offline
+3076,Strawberry Moon,0,Offline
+3077,24/7 - The Lalit Ashok Bangalore,0,Offline
+3078,Baluchi - The Lalit Ashok Bangalore,0,Offline
+3079,Oko - The Lalit Ashok Bangalore,0,Offline
+3080,Sutra - The Lalit Ashok Bangalore,0,Offline
+3081,Great Moments,0,Offline
+3082,Heights Cafe,0,Offline
+3083,Amazing Blue Pub,0,Offline
+3084,Golden Metro,0,Offline
+3085,Bhagini Residancy,0,Offline
+3086,Sterling Suites Whitefield,0,Offline
+3087,Crescent Avenue,0,Offline
+3088,Sigree,0,Offline
+3089,Noodle King ? Chrompet,0,Offline
+3090,Kabab Studio-coral Tree,0,Offline
+3091,Kudla-coral Tree,0,Offline
+3092,The Local,0,Offline
+3093,Courtyard-multi Cuisine Restaurant,0,Offline
+3094,Elephants And Coffee - Coffee Shop,0,Offline
+3095,Oj Speciality - Japanese Resturant,0,Offline
+3096,Poolside Dinner,0,Offline
+3097,Ultraviolet - Bar,0,Offline
+3098,Cookie Man,0,Offline
+3099,Bubbles Bite,0,Offline
+3100,Hotel Liwa,0,Offline
+3101,Geoffreys - The Pub,0,Offline
+3102,The Oriental Blossom,0,Offline
+3103,Downtown,0,Offline
+3104,Olives,0,Offline
+3105,Royal Treat,0,Offline
+3106,Transit,0,Offline
+3107,Saleem Restaurant Pvt Ltd,0,Offline
+3108,Aangan,0,Offline
+3109,Dhaba,0,Offline
+3110,Spring Winds,0,Offline
+3111,Canacona - The Lalit Golf & Spa Resorts Goa,0,Offline
+3112,Cortas-the Beach Shack -the Lalit Golf & Spa Resorts Goa,0,Offline
+3113,Gazebo - The Lalit Golf & Spa Resorts Goa,0,Offline
+3114,Sea Bq - The Lalit Golf & Spa Resorts Goa,0,Offline
+3115,Sirocco - The Lalit Golf & Spa Resorts Goa,0,Offline
+3116,Veri Feni - The Lalit Golf & Spa Resorts Goa,0,Offline
+3117,Kishkinda - Heritage Hampi,0,Offline
+3118,Biso - Citrus Hotel Goa,0,Offline
+3119,Eviva Outdoor Bar & Grill,0,Offline
+3120,Treat,0,Offline
+3121,Venkys Veg,0,Offline
+3122,Main Bar - Club Republic,0,Offline
+3123,Mosh Pit - Club Republic,0,Offline
+3124,Sky Lounge - Club Republic,0,Offline
+3125,Balloons - Celebrations,0,Offline
+3126,Horizon - Celebrations,0,Offline
+3127,Mirapakai,0,Offline
+3128,Siaa,0,Offline
+3129,Spoil,0,Offline
+3130,Uberdeq,0,Offline
+3131,Flavours,0,Offline
+3132,Rolla Costa,0,Offline
+3133,The River View Restaurant,0,Offline
+3134,Bay Leaf - Micro Continental,0,Offline
+3135,Caf? Nile - Micro Continental,0,Offline
+3136,Biso - Citrus Chambers Mahabaleshwar,0,Offline
+3137,Eatsome,0,Offline
+3138,Cafe Z,0,Offline
+3139,Foyer,0,Offline
+3140,Toss Sports Lounge,0,Offline
+3141,Zaheer Khans Dine Fine,0,Offline
+3142,Marrakesh,0,Offline
+3143,Clay Pot,0,Offline
+3144,Bistro,0,Offline
+3145,Sen5es,0,Offline
+3146,Oak Leaf,0,Offline
+3147,Mirage,0,Offline
+3148,Indian In A Box,0,Offline
+3149,Addah,0,Offline
+3150,Harajuku,0,Offline
+3151,House Of Chai,0,Offline
+3152,Kitsch,0,Offline
+3153,262- The Lounge,0,Offline
+3154,Carrots N Celery,0,Offline
+3155,Kabab Hut,0,Offline
+3156,Sweet Sin,0,Offline
+3157,The Tea Lounge,0,Offline
+3158,Mix,0,Offline
+3159,Pinxx,0,Offline
+3160,Tiger Trail,0,Offline
+3161,Aqua,0,Offline
+3162,Barrels N Bottles,0,Offline
+3163,Exotica,0,Offline
+3164,Mozarella,0,Offline
+3165,Aubergine,0,Offline
+3166,Blinque,0,Offline
+3167,Lava,0,Offline
+3168,Atmosphere 6,0,Offline
+3169,Dont Tell Mama -roof Top Lounge & Bar,0,Offline
+3170,Dtm -fine Dining Restaurant,0,Offline
+3171,Flame N Grill,0,Offline
+3172,Hq The Lounge,0,Offline
+3173,Magical,0,Offline
+3174,Spoon Bistro,0,Offline
+3175,Biso - Citrus Hotel Pune,0,Offline
+3176,Biso - Citrus Hotel Lonavala,0,Offline
+3177,Coffee Shop,0,Offline
+3178,Fusion,0,Offline
+3179,Tavern,0,Offline
+3180,Wrapped,0,Offline
+3181,Chikita,0,Offline
+3182,Chetna,0,Offline
+3183,Yoko Sizzlers,0,Offline
+3184,Oriental Blossom - Marine Plaza,0,Offline
+3185,Sin - Marine Plaza,0,Offline
+3186,The Bayview - Marine Plaza,0,Offline
+3187,Cloud 9,0,Offline
+3188,Raaga Bar & Kitchen - Sea Palace Hotel,0,Offline
+3189,Shaan,0,Offline
+3190,The Marina Rooftop Cafe - Sea Palace Hotel,0,Offline
+3191,Golden Star Thali,0,Offline
+3192,Shree Ram,0,Offline
+3193,Kakori House,0,Offline
+3194,Bluet,0,Offline
+3195,Rivaaz,0,Offline
+3196,Auriga,0,Offline
+3197,Tonic,0,Offline
+3198,Mainland China Asia Kitchen,0,Offline
+3199,Booze On Moods,0,Offline
+3200,The Barking Deer Brewpub,0,Offline
+3201,Aishwarya,0,Offline
+3202,Desi Tadka,0,Offline
+3203,Coffee Talk,0,Offline
+3204,Tamarind,0,Offline
+3205,Tamarind Poolside,0,Offline
+3206,Tavern (pub),0,Offline
+3207,Turn N Sea,0,Offline
+3208,Turning Point,0,Offline
+3209,Malvan Tadka,0,Offline
+3210,Chilli House,0,Offline
+3211,Sizzling Bar House,0,Offline
+3212,Dakshins Family Restaurant,0,Offline
+3213,Dakshins Veg,0,Offline
+3214,Saffron 12,0,Offline
+3215,Diva Maharashtracha,0,Offline
+3216,Dakshin Culture Curry,0,Offline
+3217,Tipplers Lounge,0,Offline
+3218,Favourities,0,Offline
+3219,Goa Portuguesa,0,Offline
+3220,Aroma -the Food Place,0,Offline
+3221,Pallavi Multicuisine Restaurant,0,Offline
+3222,Rlx Lounge Bar,0,Offline
+3223,Wanton House,0,Offline
+3224,Abstrakt Bistro And Lounge,0,Offline
+3225,Sky Grill,0,Offline
+3226,Cafe Terra,0,Offline
+3227,Mini Punjab,0,Offline
+3228,Rays Cafe & Pizzeria,0,Offline
+3229,Asian Kitchen,0,Offline
+3230,Cafe Sabrosa,0,Offline
+3231,Green Lime,0,Offline
+3232,4 Play Restro Bar,0,Offline
+3233,Only Parathas,0,Offline
+3234,Cafe Dwine,0,Offline
+3235,Mughal Flavours,0,Offline
+3236,Mughal Darbar,0,Offline
+3237,Poush Essence Of Kashmir,0,Offline
+3238,King Chilli Oriental,0,Offline
+3239,Blue Bell,0,Offline
+3240,Nook And More,0,Offline
+3241,Sapphire,0,Offline
+3242,Mehmaan,0,Offline
+3243,Boulevard - The Orchid,0,Offline
+3244,Merlins Karaoke Bar- The Orchid,0,Offline
+3245,Mostly Grills - The Orchid,0,Offline
+3246,South Of Vindhyas - The Orchid,0,Offline
+3247,Alfresco,0,Offline
+3248,Oakroom,0,Offline
+3249,Oriental Bowl,0,Offline
+3250,Poolside,0,Offline
+3251,Sheesha Sky Lounge Gold,0,Offline
+3252,Shooters,0,Offline
+3253,Tangerine Cafe,0,Offline
+3254,Pakhtoon,0,Offline
+3255,Grand Sarovar Premier-mumbai-sarovar Hotels & Resorts,0,Offline
+3256,Cheeliza,0,Offline
+3257,Sheesha Sky Lounge,0,Offline
+3258,72,0,Offline
+3259,Saptami,0,Offline
+3260,Kosho,0,Offline
+3261,Cinnamon,0,Offline
+3262,24/7 - The Lalit Mumbai,0,Offline
+3263,Baluchi  - The Lalit Mumbai,0,Offline
+3264,Kitty Su  - The Lalit Mumbai,0,Offline
+3265,The Delicatessen  - The Lalit Mumbai,0,Offline
+3266,Trendz  - The Lalit Mumbai,0,Offline
+3267,Cocoon,0,Offline
+3268,Shashi Punjab,0,Offline
+3269,Bistro 1,0,Offline
+3270,China Pavillion,0,Offline
+3271,Hymus Restro Bar,0,Offline
+3272,Juice Lounge,0,Offline
+3273,The Bubblegum Route,0,Offline
+3274,Brickhouse All Day Cafe & Bar,0,Offline
+3275,Saffron Spice,0,Offline
+3276,Yanki Sizzlers,0,Offline
+3277,Nesta,0,Offline
+3278,Sydewok,0,Offline
+3279,Tiara- Meluha The Fern,0,Offline
+3280,Mores Restaurant,0,Offline
+3281,Rhythm The Beatle,0,Offline
+3282,Pizzaroma,0,Offline
+3283,Clove Lounge,0,Offline
+3284,The Yellow Chilli,0,Offline
+3285,Mosaic,0,Offline
+3286,Rumours Lounge,0,Offline
+3287,Depizza Mania,0,Offline
+3288,Kolkata Callin,0,Offline
+3289,Sun Moon & Potatoes,0,Offline
+3290,Cafe Vihar,0,Offline
+3291,Nom-nom,0,Offline
+3292,Gopalas Bits & Bits,0,Offline
+3293,Gopalas Next,0,Offline
+3294,Stfu,0,Offline
+3295,Khiva,0,Offline
+3296,Navratree,0,Offline
+3297,The Mint Leaf Kitchen N Bar,0,Offline
+3298,Flavours,0,Offline
+3299,Stardust,0,Offline
+3300,Red Dot,0,Offline
+3301,Satyams Food Court,0,Offline
+3302,Vishwa Samrat,0,Offline
+3303,F!@# The Name,0,Offline
+3304,Gourmet 64,0,Offline
+3305,Grand Konkan Swad,0,Offline
+3306,Vertigo Bar & Eatery,0,Offline
+3307,Score Sports Bar,0,Offline
+3308,Quarter Bay,0,Offline
+3309,Trends Bar,0,Offline
+3310,Brunch N Munch,0,Offline
+3311,Ambience,0,Offline
+3312,Ebony,0,Offline
+3313,Brass Anchor,0,Offline
+3314,Bamboo House,0,Offline
+3315,Deghci,0,Offline
+3316,Patang,0,Offline
+3317,Rooftop,0,Offline
+3318,Vedant Restaurant,0,Offline
+3319,House Of Flavour,0,Offline
+3320,Joggers Pavallion,0,Offline
+3321,Le Cafetino,0,Offline
+3322,Cafe Symphony - The Pride Hotel Nagpur,0,Offline
+3323,Puran Da Dhaba - The Pride Hotel Nagpur,0,Offline
+3324,Icing On The Cake,0,Offline
+3325,Coffee Culture The Ristorante Lounge,0,Offline
+3326,Rhythm & Blues,0,Offline
+3327,The Frontier Post,0,Offline
+3328,Hong Kong,0,Offline
+3329,Zyka,0,Offline
+3330,Don Giovannis,0,Offline
+3331,Spice Garden - Chinar Park,0,Offline
+3332,Food Station,0,Offline
+3333,Sky High - Sarat Bose Road,0,Offline
+3334,Spice Garden - Sarat Bose Road,0,Offline
+3335,Fluid - The Big Boss,0,Offline
+3336,Multi Cuisine - The Big Boss,0,Offline
+3337,The Essential - The Big Boss,0,Offline
+3338,Kalash - Hhi,0,Offline
+3339,Mythh - Hhi,0,Offline
+3340,Virgose - Hhi,0,Offline
+3341,Dawat-e-shiraz,0,Offline
+3342,The Park Pavilion,0,Offline
+3343,Aromas,0,Offline
+3344,Marble Room,0,Offline
+3345,Tangerine,0,Offline
+3346,The Drive Inn,0,Offline
+3347,The Mark Hotel - The Mark,0,Offline
+3348,Baker Boy - The Stadel,0,Offline
+3349,First Innings - The Stadel,0,Offline
+3350,Heka - The Stadel,0,Offline
+3351,Mirage - The Stadel,0,Offline
+3352,Dynasty - Lytton Hotel,0,Offline
+3353,Gaylords - Lytton Hotel,0,Offline
+3354,Sunset - Lytton Hotel,0,Offline
+3355,Alfresco - The Lalit Great Eastern Kolkata,0,Offline
+3356,Tea Lounge - The Lalit Great Eastern Kolkata,0,Offline
+3357,The Bakery - The Lalit Great Eastern Kolkata,0,Offline
+3358,The Legacy Grill - The Lalit Great Eastern Kolkata,0,Offline
+3359,Wilsons - The Lalit Great Eastern Kolkata,0,Offline
+3360,Ocean Grill,0,Offline
+3361,Minus 6 Degrees,0,Offline
+3362,Bluezz Lounge Bar,0,Offline
+3363,Calcutta Retro,0,Offline
+3364,Yin Yang,0,Offline
+3365,Spice Garden - Metropolitan,0,Offline
+3366,Kebab Koobideh,0,Offline
+3367,Cafe Treat - The Pride Hotel Kolkata,0,Offline
+3368,Hotel Downtown - Teghoria,0,Offline
+3369,Aura - The Sonnet,0,Offline
+3370,Unwine - The Sonnet,0,Offline
+3371,Caffieine - O2 Hotel,0,Offline
+3372,Spin 360 - O2 Hotel,0,Offline
+3373,Venezia - O2 Hotel,0,Offline
+3374,Spice Garden,0,Offline
+3375,Spice Garden - Barrackpur,0,Offline
+3376,Cafe Treat - The Pride Hotel Ahmedabad,0,Offline
+3377,Puran Da Dhaba - The Pride Hotel Ahmedabad,0,Offline
+3378,Darpan - Hotel Patliputra Ashok,0,Offline
+3379,The Lounge - Hotel Patliputra Ashok,0,Offline
+3380,Raj Rasoi,0,Offline
+3381,Biso - Citrus Jodhpur,0,Offline
+3382,Geoffreys - Hotel Park Plaza,0,Offline
+3383,Ooris - Hotel Park Plaza,0,Offline
+3384,Shhy 63 - Hotel Park Plaza,0,Offline
+3385,The Oriental Spice - Hotel Park Plaza,0,Offline
+3386,Flavorz,0,Offline
+3387,Red Chilli,0,Offline
+3388,Ras Raj,0,Offline
+3389,24/7 - The Lalit Jaipur,0,Offline
+3390,Baluchi -  The Lalit Jaipur,0,Offline
+3391,Le Petit Caf? -  The Lalit Jaipur,0,Offline
+3392,The Circle - The Lalit Jaipur,0,Offline
+3393,Hangover - Souvenir Hotel,0,Offline
+3394,Altitude - Ramada Jaipur,0,Offline
+3395,Fire - Ramada Jaipur,0,Offline
+3396,Tulsi - Ramada Jaipur,0,Offline
+3397,Taake Roti,0,Offline
+3398,Jaies Cafe - Golden Tulip,0,Offline
+3399,Jaies Royal - Hotel Jaies,0,Offline
+3400,Mari Gold- Golden Tulip,0,Offline
+3401,Safa Bar - Golden Tulip,0,Offline
+3402,The Somras Bar - Hotel Jaies,0,Offline
+3403,Dawat - The Restaurant - Hotel Shalimar,0,Offline
+3404,Madhosh - The Bar - Hotel Shalimar,0,Offline
+3405,Balla Club - Peppermint Hotel,0,Offline
+3406,Cockpit Bar - Peppermint Hotel,0,Offline
+3407,Eat Etc - Peppermint Hotel,0,Offline
+3408,Feast,0,Offline
+3409,Bar - Libra A Boutique Hotel,0,Offline
+3410,Chancellor - Libra A Boutique Hotel,0,Offline
+3411,Legend - Libra A Boutique Hotel,0,Offline
+3412,60 Ml- Hotel Rockland,0,Offline
+3413,Coffee Bar - Hotel Rockland,0,Offline
+3414,Moon Shadow - Hotel Rockland,0,Offline
+3415,Caffeine,0,Offline
+3416,Peacock,0,Offline
+3417,Khandwa Restaurant - Hotel Mumal Palace,0,Offline
+3418,Mumal Bar - Hotel Mumal Palace,0,Offline
+3419,Mumal Restaurant - Hotel Mumal Palace,0,Offline
+3420,The Royal Treat,0,Offline
+3421,Ice Blue Lava - Amer City Hertiage Hotel,0,Offline
+3422,Lawa - Amer City Hertiage Hotel,0,Offline
+3423,Machan - Amer City Hertiage Hotel,0,Offline
+3424,Mezbaan - Amer City Hertiage Hotel,0,Offline
+3425,Raj Mahal Restaurant - Hotel Glitz,0,Offline
+3426,Alles Spice Restro Bar,0,Offline
+3427,Cafe Soho - The Acura Bmk Hotel,0,Offline
+3428,Shimmers,0,Offline
+3429,Bar Lounge - Clarens Hotel,0,Offline
+3430,Biso - Citrus Hotel Gurgaon,0,Offline
+3431,Lorenzo Restaurant - Clarens Hotel,0,Offline
+3432,Absolute Bar - Hotel Chaupal,0,Offline
+3433,Orchid Restaurant - Hotel Chaupal,0,Offline
+3434,My Bar Cafe,0,Offline
+3435,Club Mojo,0,Offline
+3436,Tab 01,0,Offline
+3437,Zaffran,0,Offline
+3438,Abbey Road,0,Offline
+3439,Pocket Bar,0,Offline
+3440,Hooters,0,Offline
+3441,Amaya Restaurant - Eddision Hotel,0,Offline
+3442,Angelica - Vista Park,0,Offline
+3443,Coco Palm,0,Offline
+3444,The Chowk,0,Offline
+3445,World Cafe - Vibe By The Lalit,0,Offline
+3446,Zenba - Vibe By The Lalit,0,Offline
+3447,Flavor Of Ming,0,Offline
+3448,Flavor Of Mughals,0,Offline
+3449,The Empire,0,Offline
+3450,Bar Code - Hotel Leisure Inn West Gurgaon,0,Offline
+3451,Bites Coffee Shop - Hotel Leisure Inn West Gurgaon,0,Offline
+3452,Outback Bar & Grill - Hotel Leisure Inn West Gurgaon,0,Offline
+3453,Clove Restaurant - Golden Tulip,0,Offline
+3454,Lush Bar - Golden Tulip,0,Offline
+3455,Lions Of Punjab,0,Offline
+3456,Tzers Restaurant,0,Offline
+3457,The Pink Room,0,Offline
+3458,Naivedyam,0,Offline
+3459,Deli Belly,0,Offline
+3460,Saanuk,0,Offline
+3461,Sanjha Chulha,0,Offline
+3462,Elf Cafe,0,Offline
+3463,My Bar Grill,0,Offline
+3464,The Living Room,0,Offline
+3465,Red Chilli,0,Offline
+3466,Slice Of Italy,0,Offline
+3467,Ice Cube,0,Offline
+3468,The Tandoori Village,0,Offline
+3469,The Colony Bistro,0,Offline
+3470,Kaffiiaa,0,Offline
+3471,Basil Tree,0,Offline
+3472,Desi Vibes,0,Offline
+3473,Baby Dragon Bar & Restaurant,0,Offline
+3474,Flluid - Mosaic Hotel,0,Offline
+3475,Latitude - Mosaic Hotel,0,Offline
+3476,M Lounge - Mosaic Hotel,0,Offline
+3477,Nysha Bar N Grill,0,Offline
+3478,Xiian,0,Offline
+3479,R P M Zanzi Bar,0,Offline
+3480,Smunch Diner & Cafe,0,Offline
+3481,Lit Ultra Bar,0,Offline
+3482,The Great Kabab Factory,0,Offline
+3483,Samarkand,0,Offline
+3484,Cheenos,0,Offline
+3485,Chicane Sports Bar,0,Offline
+3486,Lodi - The Garden Restauarnt,0,Offline
+3487,Frontier - The Ashok,0,Offline
+3488,Samavar - The Ashok,0,Offline
+3489,The Oudh - The Ashok,0,Offline
+3490,City 75 Club,0,Offline
+3491,Eden Kitchen & Bar,0,Offline
+3492,Punjabi Dhaba 61,0,Offline
+3493,Route 04,0,Offline
+3494,Amreli - Hotel Diplomat,0,Offline
+3495,Chawlas,0,Offline
+3496,Devs Restaurant & Bar,0,Offline
+3497,All Heavens,0,Offline
+3498,Over The Top,0,Offline
+3499,Malt & Co. - Piccadily Hotel,0,Offline
+3500,Pomodoro - Piccadily Hotel,0,Offline
+3501,Twenty Nine - Piccadily Hotel,0,Offline
+3502,Zune - Piccadily Hotel,0,Offline
+3503,Lemon Twist,0,Offline
+3504,Agni Night Club - The Park New Delhi,0,Offline
+3505,Aqua Poolside Bar - The Park New Delhi,0,Offline
+3506,Mist - The Park New Delhi,0,Offline
+3507,Fire - The Park New Delhi,0,Offline
+3508,24/7 Pastry Shop - The Lalit New Delhi,0,Offline
+3509,24/7 Restaurant - The Lalit New Delhi,0,Offline
+3510,Baluchi - The Lalit New Delhi,0,Offline
+3511,Kitty Su - The Lalit New Delhi,0,Offline
+3512,Le Petit Caf? - The Lalit New Delhi,0,Offline
+3513,The Grill Room - The Lalit New Delhi,0,Offline
+3514,Woks - The Lalit New Delhi,0,Offline
+3515,Spice Court,0,Offline
+3516,Amber Resturant,0,Offline
+3517,Movida Cafe,0,Offline
+3518,My Bar Square,0,Offline
+3519,My Bar Lounge,0,Offline
+3520,Hotel Blue Stone,0,Offline
+3521,Ardor Restaurant,0,Offline
+3522,Cafe Blue Tomato,0,Offline
+3523,Bawarchi Delite,0,Offline
+3524,Crossroads Bar & Restaurant,0,Offline
+3525,Surchi,0,Offline
+3526,Moti Mahal Delux- Rajouri Garden,0,Offline
+3527,R1 Lounge,0,Offline
+3528,Copper Restro Bar,0,Offline
+3529,Forty 3 East,0,Offline
+3530,Jade Garden Restaurant,0,Offline
+3531,Kiwi,0,Offline
+3532,Boheme Cafe Bar,0,Offline
+3533,Tempting Restaurant,0,Offline
+3534,Club Bnb Shooters,0,Offline
+3535,Haze The Lounge N Grill,0,Offline
+3536,Toast Bar & Grill,0,Offline
+3537,Caf? - Golden Tulip Vasundhara,0,Offline
+3538,Capers - Golden Tulip Vasundhara,0,Offline
+3539,Urban Dara,0,Offline
+3540,Cuisine Art,0,Offline
+3541,Clay 1 Grill,0,Offline
+3542,Buzz - Punjabi Bagh,0,Offline
+3543,Pyramids,0,Offline
+3544,Bercos,0,Offline
+3545,Bromfy Public House,0,Offline
+3546,Sinciti,0,Offline
+3547,Etal,0,Offline
+3548,Metro Grill,0,Offline
+3549,Nile,0,Offline
+3550,R Lounge,0,Offline
+3551,Red Recipee,0,Offline
+3552,The Hub,0,Offline
+3553,Legend Restro Bar,0,Offline
+3554,Mitraz Restaurant,0,Offline
+3555,Handi Mitra Di,0,Offline
+3556,Chilli Pepper,0,Offline
+3557,Chill House,0,Offline
+3558,Rasaas,0,Offline
+3559,4 In 1 Sizzlers Restaurants & Bar,0,Offline
+3560,Tulsi Pure Veg,0,Offline
+3561,The River View Retreat - Leisure Hotels,0,Offline
+3562,The Clay Oven,0,Offline
+3563,Hotel Rajshree,0,Offline
+3564,Red Chilly,0,Offline
+3565,The Cellar,0,Offline
+3566,24/7 Restaurant - The Lalit Chandigarh,0,Offline
+3567,Baluchi - The Lalit Chandigarh,0,Offline
+3568,Kitty Su - The Lalit Chandigarh,0,Offline
+3569,Le Petit Caf? - The Lalit Chandigarh,0,Offline
+3570,Oko - The Lalit Chandigarh,0,Offline
+3571,The Circle - The Lalit Chandigarh,0,Offline
+3572,Cabaacha Restauarnt - The Toy Hotel,0,Offline
+3573,Hangout & Lounge Bar,0,Offline
+3574,Temptation,0,Offline
+3575,Pashtun,0,Offline
+3576,Wild West Pub & Bar,0,Offline
+3577,Abs-a Hot Millions,0,Offline
+3578,Open House,0,Offline
+3579,Lancers Bar,0,Offline
+3580,Noor Restaurant,0,Offline
+3581,Hotel President,0,Offline
+3582,Kababs Villa,0,Offline
+3583,Hotel Park Plaza,0,Offline
+3584,Hotel Kwality Regency,0,Offline
+3585,Fudge,0,Offline
+3586,Hibachi,0,Offline
+3587,Lush,0,Offline
+3588,Hotel City Heart Premium,0,Offline
+3589,Piccadily Blue Ice,0,Offline
+3590,Down-under A Hot Millions,0,Offline
+3591,Hotel City Heart-18,0,Offline
+3592,Hotel Lyons,0,Offline
+3593,Hot Millions Salad Bar & Restaurant,0,Offline
+3594,Buzzczar,0,Offline
+3595,Buzz Chandigarh,0,Offline
+3596,The Post Office Cafe,0,Offline
+3597,Biso - Manali,0,Offline
+3598,Casablanca - The Pride Hotel Pune,0,Offline
+3599,Chinese Express,0,Offline
+3600,Knight,0,Offline
+3601,Zanzibar,0,Offline
+3602,Aqua Marine,0,Offline
+3603,Grass Hopper,0,Offline
+3604,Uday Suites,0,Offline
+3605,Green Park - The Fortune Hotel,0,Offline
+3606,Regency -fortune Hotel,0,Offline
+3607,Noodle King ? Lulu Mall,0,Offline
+3608,Lagoona,0,Offline
+3609,Aqua Grill,0,Offline
+3610,Nostradamus Bar & Lounge,0,Offline
+3611,Zodiac,0,Offline
+3612,Chillers Nation,0,Offline
+3613,Spice Darbar,0,Offline
+3614,Dont Tell Mama,0,Offline
+3615,Zaica,0,Offline
+3616,Rajbhog,0,Offline
+3617,Mini Forest,0,Offline
+3618,The Pavillion,0,Offline
+3619,Turquoise,0,Offline
+3620,The Upper Deck,0,Offline
+3621,Bhagini Suits,0,Offline
+3622,Madhushala - Hotel Kr Inn,0,Offline
+3623,Southern Spicy -hotel Kr Inn,0,Offline
+3624,Altitude,0,Offline
+3625,Black Box,0,Offline
+3626,Cinnamon,0,Offline
+3627,Privy,0,Offline
+3628,Star Struck,0,Offline
+3629,Bronze,0,Offline
+3630,Haveli,0,Offline
+3631,M Lounge,0,Offline
+3632,Rendezvous,0,Offline
+3633,Cheers - The Astor Kolkata,0,Offline
+3634,Kebab E Que - The Astor Kolkata,0,Offline
+3635,The Basement,0,Offline
+3636,Mr. Fried Chicken,0,Offline
+3637,The Neptune,0,Offline
+3638,Exotica Fine Dine,0,Offline
+3639,Jersey 9 Sports Lounge,0,Offline
+3640,Gopalas Veg Kitchen,0,Offline
+3641,Bay View- Citizen,0,Offline
+3642,Horn Ok Please,0,Offline
+3643,Sea Side Patio - Citizen,0,Offline
+3644,Dbell,0,Offline
+3645,Aum Fine Dine,0,Offline
+3646,Scotish Blue,0,Offline
+3647,Indi - Que,0,Offline
+3648,The Clay Oven Restaurant,0,Offline
+3649,Soy Restaurant & Bar,0,Offline
+3650,Joy Luck Moon,0,Offline
+3651,Spicy Affair,0,Offline
+3652,Anchor Restro Bar,0,Offline
+3653,Doosri Mefhil,0,Offline
+3654,Geoffreys,0,Offline
+3655,RUOSH,NULL,Offline
+3656,Durian,NULL,Offline
+3657,eZONE,NULL,Offline
+3658,CASIO,NULL,Offline
+3659,Options Clothing Co  Pvt. Ltd.,NULL,Offline
+3660,Green Bell,NULL,Offline
+3661,BABY BELL,NULL,Offline
+3662,Being Human Clothing,NULL,Offline
+3663,Paaneri,NULL,Offline
+3664,Mahesh Cloth Store,NULL,Offline
+3665,MILAP Sales & Service,NULL,Offline
+3666,PADMAVATI  Boutique,NULL,Offline
+3667,Milan Emporium,NULL,Offline
+3668,Right Choice,NULL,Offline
+3669,Durga Saree Centre,NULL,Offline
+3670,Glamour Hair Stylish,NULL,Offline
+3671,AVALON Hair Studio,NULL,Offline
+3672,Annapurna Steel Emporium,NULL,Offline
+3673,Akram  Battery Service,NULL,Offline
+3674,ZEBA Kids Wear,NULL,Offline
+3675,Micro Vision,NULL,Offline
+3676,RATHOD Furnishing & Mattresses,NULL,Offline
+3677,Vertical Mens Wear,NULL,Offline
+3678,Level 99,NULL,Offline
+3679,Sai Fashion,NULL,Offline
+3680,PARADISE OPTICS,NULL,Offline
+3681,Arihant  Sarees,NULL,Offline
+3682,VIEW POINT Optics,NULL,Offline
+3683,National Furniture,NULL,Offline
+3684,RAJGOR COLLECTION,NULL,Offline
+3685,Shubham Electronics,NULL,Offline
+3686,Tanish Ply & Laminates,NULL,Offline
+3687,Albela Collection,NULL,Offline
+3688,AZAD Marbles & Tiles,NULL,Offline
+3689,Regal Tiles & Marble,NULL,Offline
+3690,Rahul Electric & Hardware,NULL,Offline
+3691,LAADI Designer Tiles & Ceramics,NULL,Offline
+3692,Classic Hardware,NULL,Offline
+3693,Riddhi Electricals,NULL,Offline
+3694,Mangal Plywood,NULL,Offline
+3695,intop Hardware,NULL,Offline
+3696,Rushabh Plywood,NULL,Offline
+3697,NATIONAL PLYWOOD,NULL,Offline
+3698,CAR STUDIO,NULL,Offline
+3699,RANGE TRADERS,NULL,Offline
+3700,Guru Optics,NULL,Offline
+3701,HEMANT Foam Furnishing & Mattresses,NULL,Offline
+3702,Baskin Robbins,NULL,Offline
+3703,S.N.  Diamond Light,NULL,Offline
+3704,Linkway Plywood,NULL,Offline
+3705,Rangoli International,NULL,Offline
+3706,Western The Hub,NULL,Offline
+3707,JILANI FOOTWEAR,NULL,Offline
+3708,STAR PLUS  The Complete Family Shop,NULL,Offline
+3709,KAPI Corporation,NULL,Offline
+3710,Priya Furniture,NULL,Offline
+3711,RIDDHI  Electric & Hardware & Sanitaryware,NULL,Offline
+3712,BOMBAY CARPET,NULL,Offline
+3713,Sagar Ply & Laminates,NULL,Offline
+3714,Arihant Ply-N-Wood,NULL,Offline
+3715,AMARDEEP PLYWOOD,NULL,Offline
+3716,"VASANT  Electric, Hardware & Sanitaryware",NULL,Offline
+3717,"ANUPAM Electric, Hardware & Sanitary Ware",NULL,Offline
+3718,Home Plywood & Hardware,NULL,Offline
+3719,Neeti Ceramics,NULL,Offline
+3720,Shree Sai Battery Centre,NULL,Offline
+3721,ROOPA CERAMICA,NULL,Offline
+3722,Shree  Devnarayan Ply & Laminates,NULL,Offline
+3723,BAKERS BASKET,NULL,Offline
+3724,KUNAL TIMBER,NULL,Offline
+3725,Balaji  Home Appliances,NULL,Offline
+3726,Shreejee Aluminium & Fancy Hardware,NULL,Offline
+3727,Modern Furnishing & Interiors,NULL,Offline
+3728,AMBIKA PLYWOOD,NULL,Offline
+3729,Latest  Drape  Furnishing,NULL,Offline
+3730,Best Choice Furnishing,NULL,Offline
+3731,Jai Veer Ceramics & Tiles,NULL,Offline
+3732,Ganpati Ply Centre,NULL,Offline
+3733,Parth Ply & Laminates,NULL,Offline
+3734,PRINCE  PLY,NULL,Offline
+3735,Royal Smart Furnishing & Mattresses,NULL,Offline
+3736,Vraj Car Accessories,NULL,Offline
+3737,Paarth Auto,NULL,Offline
+3738,Ambika Ceramics,NULL,Offline
+3739,Shiv Bhavani Furnishing,NULL,Offline
+3740,Abhinav Grani Ceramics Pvt. Ltd.,NULL,Offline
+3741,Ronak Electric & Hardware,NULL,Offline
+3742,Kohinoor Furnishing & Mattresses,NULL,Offline
+3743,Rainbow Lighting Gallery,NULL,Offline
+3744,Mummy & Baby Fashion,NULL,Offline
+3745,Deepak Collection,NULL,Offline
+3746,Shiv Shakti Cosmetic & Mobile Accessories,NULL,Offline
+3747,Ribbons Shoes & Bags,NULL,Offline
+3748,Mahakali Optics,NULL,Offline
+3749,Kismat  Ply Centre,NULL,Offline
+3900,1 The Restaurant- New Delhi,0,Offline
+3901,100% Rocks - Delhi,0,Offline
+3902,1440 - Hotel Vikram -Delhi,0,Offline
+3903,24 Carat Lounge- New Delhi,0,Offline
+3904,24 Hours Coffee Drop - Banglore,0,Offline
+3905,24/7 Pastry Shop,0,Offline
+3906,24/7 Restaurant - Chandigarh,0,Offline
+3907,24/7- Bangalore,0,Offline
+3908,24-Jul,0,Offline
+3909,24X7 Cafe - J P Hotel & Resorts - Delhi,0,Offline
+3910,28 Capri Italy - Delhi,0,Offline
+3911,30 Grand- Bangalore,0,Offline
+3912,37 china Town - Banglore,0,Offline
+3913,3H Kitchen - Delhi,0,Offline
+3914,60 ML- Hotel Rockland - Jaipur,0,Offline
+3915,7th Heaven- Bangalore,0,Offline
+3916,Aanch- New Delhi,0,Offline
+3917,AANGAN - Banglore,0,Offline
+3918,Abbey Road - Gurgaon,0,Offline
+3919,Absolute Bar - Hotel Chaupal - Gurgaon,0,Offline
+3920,Addah - The O Hotel - Pune,0,Offline
+3921,Al Zaitoon,0,Offline
+3922,Alfa 63 - Best Western Tarus Hotel - Delhi,0,Offline
+3923,Alfa 63- New Delhi,0,Offline
+3924,Alfresco - Kolkatta,0,Offline
+3925,Alfresco - Mumbai,0,Offline
+3926,All Heavens - Delhi,0,Offline
+3927,Alles Spice - Faridabad,0,Offline
+3928,Altitude - Ramada Jaipur,0,Offline
+3929,Amalfi - Delhi,0,Offline
+3930,Amazing Blue Pub- Bangalore,0,Offline
+3931,Amazing Restaurant - Delhi,0,Offline
+3932,Amber Restaurant- New Delhi,0,Offline
+3933,Ambiance Restaurant - Hotel Orbit- Chandigarh,0,Offline
+3934,Ambrosia Bliss- New Delhi,0,Offline
+3935,Amreli - Hotel Diplomat - Delhi,0,Offline
+3936,Angeethi - Aurangabad,0,Offline
+3937,Angeethi - Delhi,0,Offline
+3938,Aniq - Delhi,0,Offline
+3939,Aqua - The Park - Mumbai,0,Offline
+3940,Aqua Grill - Hotel Park Inn - Jaipur,0,Offline
+3941,Aromas of south - Banglore,0,Offline
+3942,Art Bar - Delhi,0,Offline
+3943,Asian Bistro- New Delhi,0,Offline
+3944,Asian Kitchen - Mumbai,0,Offline
+3945,Asiantic Spice - Delhi,0,Offline
+3946,Atithi Bar & Restaurant - Banglore,0,Offline
+3947,Attitude - Delhi,0,Offline
+3948,Aufside @ Hotfut- Pune,0,Offline
+3949,Aura One - Hotel Orbit- Chandigarh,0,Offline
+3950,Aviator - Banglore,0,Offline
+3951,B Bar - Delhi,0,Offline
+3952,Baby Dragon- New Delhi,0,Offline
+3953,Bageecha - Banglore,0,Offline
+3954,Balla Club - Peppermint Hotel - Jaipur,0,Offline
+3955,Balloons - Celebrations,0,Offline
+3956,Baluchi - New Delhi,0,Offline
+3957,Baluchi - Mumbai,0,Offline
+3958,Baluchi- Bangalore,0,Offline
+3959,Bamboo-The Park - Mumbai,0,Offline
+3960,Banjara The Restaurant - Banglore,0,Offline
+3961,Banquet - Mapple Express Bangalore,0,Offline
+3962,Bar Code - Banglore,0,Offline
+3963,Bar Code - Pine Tree Hospitality - Gurgaon,0,Offline
+3964,Baraesti - Mumbai,0,Offline
+3965,Bay Watch - The Resort - Mumbai,0,Offline
+3966,Bean Here- Bangalore,0,Offline
+3967,Beer Cafe,0,Offline
+3968,Beetle Juice Bar & Lounge- Bangalore,0,Offline
+3969,Bengaluru - La Classic - Banglore,0,Offline
+3970,Berco's - Delhi,0,Offline
+3971,Best Western (SPM) - Kanpur,0,Offline
+3972,Biscotti - Hotel Mirador - Mumbai,0,Offline
+3973,Bistro Cafe - Mumbai,0,Offline
+3974,Bites Coffee Shop - Pine Tree Hospitality - Gurgaon,0,Offline
+3975,Black Lounge & Bar - Noida,0,Offline
+3976,Blend - Banglore,0,Offline
+3977,Blooms - Eros Hotel - Nehru Place - Delhi,0,Offline
+3978,Blue Coriander - Jagrati Lords Inn - Jaipur,0,Offline
+3979,Blue Coriander - Lion Lords Inn - Rajula,0,Offline
+3980,Blue Coriander - Lords Plaza - Ankleshwar,0,Offline
+3981,Blue Coriander - Lords Plaza - Jaipur,0,Offline
+3982,Blue Coriander - Lords Plaza - Surat,0,Offline
+3983,Blue Coriander - Lords Resorts - Silvassa,0,Offline
+3984,Blue Coriander - Parker Lords Eco Inn - Ahmedabad,0,Offline
+3985,Blue Water Grille - Delhi,0,Offline
+3986,Blues- New Delhi,0,Offline
+3987,Bluet - Mumbai,0,Offline
+3988,BNB Shooters- New Delhi,0,Offline
+3989,Bonitos Blu - Uppals Hotels Pvt Ltd- New Delhi,0,Offline
+3990,Bottle Bar- Mumbai,0,Offline
+3991,Boulevard - The Orchid - Mumbai,0,Offline
+3992,Boveda - Mumbai,0,Offline
+3993,Breezes Restaurant - Banglore,0,Offline
+3994,Brew & Co- Chandigarh,0,Offline
+3995,Brew Bites- Chennai,0,Offline
+3996,Bubbles Bite - Banglore,0,Offline
+3997,Bull Dogs - Delhi,0,Offline
+3998,Burgendy - Banglore,0,Offline
+3999,Cabaacha - Chandigarh,0,Offline
+4000,Cafe Delhi Heights,0,Offline
+4001,"Cafe G, Crowne Plaza",0,Offline
+4002,Caffe Tanino -Delhi,0,Offline
+4003,Caffeine - Hotel Glitz - Jaipur,0,Offline
+4004,Cafe 27 Bar & Kitchen - Delhi,0,Offline
+4005,Cafe Blue Tomato - Delhi,0,Offline
+4006,Cafe Eatalian- Mumbai,0,Offline
+4007,Cafe G - Crowne Plaza Today Gurgoan,0,Offline
+4008,Cafe Immigeant- New Delhi,0,Offline
+4009,Cafe Lounge - Regenta Central Jaipur - Jaipur,0,Offline
+4010,Cafe Sabrosa - Mumbai,0,Offline
+4011,Cafe Soho - Gurgaon,0,Offline
+4012,Cafe Terra - Mumbai,0,Offline
+4013,Cascade - Celebrations - Hyderabad,0,Offline
+4014,Castle Executive - Aurangabad,0,Offline
+4015,Celebrity Bar - Hotel Kanha Shyam - Allahabad,0,Offline
+4016,Cesky - Mumbai,0,Offline
+4017,Chaobella - Crowne Plaza Today - New Delhi,0,Offline
+4018,Cheenos- New Delhi,0,Offline
+4019,Cherie - Delhi,0,Offline
+4020,China Doll - Delhi,0,Offline
+4021,Chopsticks - Delhi,0,Offline
+4022,Cinnamon - Suba Galaxy - Mumbai,0,Offline
+4023,City Buzz - The First Hotel- Chandigarh,0,Offline
+4024,Clay Oven- New Delhi,0,Offline
+4025,Cloud 9 - Mumbai,0,Offline
+4026,Club Mojo - Gurgaon,0,Offline
+4027,Club Mojo- New Delhi,0,Offline
+4028,Cockpit Bar - Peppermint Hotel - Jaipur,0,Offline
+4029,Coffee Bar - Hotel Rockland - Jaipur,0,Offline
+4030,Coffee Shop - Pune,0,Offline
+4031,Colours N Spice - Delhi,0,Offline
+4032,Company Baugh- New Delhi,0,Offline
+4033,Connexions Bar - Crowne Plaza Today Gurgoan,0,Offline
+4034,Copper Bar - Crowne Plaza Today - New Delhi,0,Offline
+4035,Cortas- Goa,0,Offline
+4036,Cosy Restaurant - Delhi,0,Offline
+4037,Courtyard-Multi Cuisine Restaurant - Banglore,0,Offline
+4038,Crown - Souvenir Hotel - Jaipur,0,Offline
+4039,Cuisine - Rockland Hotel Ltd- New Delhi,0,Offline
+4040,Curry Laef - Moet's - Delhi,0,Offline
+4041,D'Bell - Mumbai,0,Offline
+4042,Dao - Delhi,0,Offline
+4043,Defence Colony Social - Delhi,0,Offline
+4044,Deli Belly - Delhi,0,Offline
+4045,Desi Vibes- New Delhi,0,Offline
+4046,Desi Vibes- Noida,0,Offline
+4047,DHABA - Banglore,0,Offline
+4048,Diaspora - Celebrations - Hyderabad,0,Offline
+4049,Dil Bhi Desi - Mapple Adhwryou Hotel Pune,0,Offline
+4050,Dimcha - Delhi,0,Offline
+4051,Dimple Bar Restaurant - Delhi,0,Offline
+4052,Don't Tell Mama - Banglore,0,Offline
+4053,Doosri Mehfil- New Delhi,0,Offline
+4054,Dos Burros,0,Offline
+4055,Downtown- Chennai,0,Offline
+4056,Dragon's Maharani- New Delhi,0,Offline
+4057,DRIFT,0,Offline
+4058,Dunkin Donuts,0,Offline
+4059,Dusk - The Park - Mumbai,0,Offline
+4060,Eat Etc - Madhuban Inn- New Delhi,0,Offline
+4061,Eat Etc - Peppermint Hotel - Jaipur,0,Offline
+4062,Eat Thai - Mumbai,0,Offline
+4063,Eatsome- Pune,0,Offline
+4064,Eden Restauarnt & Lounge Bar- New Delhi,0,Offline
+4065,Edesia - Crowne Plaza Today - New Delhi,0,Offline
+4066,Elements - Mapple Abhay -? Jodhpur,0,Offline
+4067,Elements - Mapple Adhwryou Hotel Pune,0,Offline
+4068,Elements - Mapple Emerald Delhi,0,Offline
+4069,Elements - Mapple Express Bangalore,0,Offline
+4070,Elements - Mapple Hermitage Bhimtal,0,Offline
+4071,Elements - Mapple The Lesiure Resort Corbett,0,Offline
+4072,Elephants And Coffee - Coffee Shop - Banglore,0,Offline
+4073,ELF- New Delhi,0,Offline
+4074,Elite- Chennai,0,Offline
+4075,Elmas @ The Living Room - Delhi,0,Offline
+4076,Elmas Brasserie - Delhi,0,Offline
+4077,Empress of China - Eros Hotel - Nehru Place - Delhi,0,Offline
+4078,Enokee by Chef Dheeraj - Delhi,0,Offline
+4079,Envy Lounge Bar - Banglore,0,Offline
+4080,Etal - Delhi,0,Offline
+4081,Euriska - The Prems Hotel - Pune,0,Offline
+4082,Everything stops for T,0,Offline
+4083,Eviva Outdoor Bar & Grill - Goa,0,Offline
+4084,Excuse Me Boss- New Delhi,0,Offline
+4085,Fa Yian - Delhi,0,Offline
+4086,Fatburger,0,Offline
+4087,Feast - Jaipur,0,Offline
+4088,Feast - Pimpri,0,Offline
+4089,Fire - Ramada Jaipur,0,Offline
+4090,Flavors of Italy - Delhi,0,Offline
+4091,Flavour of Ming- New Delhi,0,Offline
+4092,Flavour of Mughals- New Delhi,0,Offline
+4093,Flavours - Mumbai,0,Offline
+4094,Flavours- Mumbai,0,Offline
+4095,Flluid - Mosaic Hotel -Noida,0,Offline
+4096,Food First - Mumbai,0,Offline
+4097,Food in a Bag - Keys Hotel,0,Offline
+4098,Four Points by Sheraton- Mumbai,0,Offline
+4099,Freeze Lounge & Bar- New Delhi,0,Offline
+4100,French Heart - Crowne Plaza Today - New Delhi,0,Offline
+4101,Fresh Restaurant - Mumbai,0,Offline
+4102,Friends Forever Restaurant & Lounge - Allahabad,0,Offline
+4103,Fudge- Icon Hotel- Chandigarh,0,Offline
+4104,Fusion - Pune,0,Offline
+4105,Game Of Legends- New Delhi,0,Offline
+4106,Gangnam Style- New Delhi,0,Offline
+4107,Gazebo- Goa,0,Offline
+4108,Geoffrey's -Noida,0,Offline
+4109,Ghar ka Swad - Keys Hotel,0,Offline
+4110,Gharonda Restaurant - Aurangabad,0,Offline
+4111,Ghungrooz Returns- New Delhi,0,Offline
+4112,Glasso - Banglore,0,Offline
+4113,Golden Leaf - Banglore,0,Offline
+4114,Golden Metro- Bangalore,0,Offline
+4115,Golden Net - Keys Hotel,0,Offline
+4116,Gourmet Shop - Uppals Hotels Pvt Ltd- New Delhi,0,Offline
+4117,Green House - Mumbai,0,Offline
+4118,Grub House- New Delhi,0,Offline
+4119,Hangover-Souvenir Hotel - Jaipur,0,Offline
+4120,Happy Birthday Cakes & Coffee - Andheri,0,Offline
+4121,Happy Birthday Cakes & Coffee - Versova,0,Offline
+4122,Harajuku - The O Hotel- Pune,0,Offline
+4123,Hazal - The Pearl- Chandigarh,0,Offline
+4124,Haze- Rajouri,0,Offline
+4125,Haze- Hauz Khas,0,Offline
+4126,Hibachi - Icon Hotel- Chandigarh,0,Offline
+4127,Hibscus - Banglore,0,Offline
+4128,High lounge grill N chill - Banglore,0,Offline
+4129,High Tide - The Resort - Mumbai,0,Offline
+4130,Holy Smoke,0,Offline
+4131,Hong Kong - Mumbai,0,Offline
+4132,Horizon - Celebrations - Hyderabad,0,Offline
+4133,Hot Flavours - The Fern Residency- Chandigarh,0,Offline
+4134,hotel dhammanagi comforts - Banglore,0,Offline
+4135,Hotel Downtown - Amristar ,0,Offline
+4136,Hotel Downtown - Teghoria - Kolkata,0,Offline
+4137,Hotel Liwa - Banglore,0,Offline
+4138,Hotel Peninsula Grand - Carafe The Coffee Shop- Mumbai,0,Offline
+4139,Hotel Peninsula Grand - Peninsula- Mumbai,0,Offline
+4140,Hotel Presidency - Banglore,0,Offline
+4141,House of Chai - The O hotel - Pune,0,Offline
+4142,Ice Blue Lava - Amer City Hertiage Hotel - Jaipur,0,Offline
+4143,Ice Cube- New Delhi,0,Offline
+4144,Illusion - Clarks Inn Gurgaon- New Delhi,0,Offline
+4145,Imperfecto,0,Offline
+4146,Iqra - Nashik,0,Offline
+4147,It's Mirchi - Banglore,0,Offline
+4148,Jaisalmer- Bangalore,0,Offline
+4149,Jannat - Hotel Kanha Shyam - Allahabad,0,Offline
+4150,Jashn - Nashik,0,Offline
+4151,Jet Set - Banglore,0,Offline
+4152,Jet Set- Bangalore,0,Offline
+4153,Joy Luck Moon - Delhi,0,Offline
+4154,Kabooze- New Delhi,0,Offline
+4155,Kaffiiaa- New Delhi,0,Offline
+4156,Kash- New Delhi,0,Offline
+4157,Kathputli - Delhi,0,Offline
+4158,Keys Cafe - Keys Hotel,0,Offline
+4159,Keys Cafe-Nestor - Keys Hotel,0,Offline
+4160,Khandwa Restaurant - Hotel Mumal Palace - Jaipur,0,Offline
+4161,Kitchens of Asia,0,Offline
+4162,Kitsch - The O Hotel- Pune,0,Offline
+4163,Kitty Su- Lalit Mumbai,0,Offline
+4164,Kiwi - Delhi,0,Offline
+4165,Koriandder- Mumbai,0,Offline
+4166,Koyla - Mumbai,0,Offline
+4167,Krispy Kreme,0,Offline
+4168,La Vie - Delhi,0,Offline
+4169,Lalit Fine Dine- Mumbai,0,Offline
+4170,Lalitude - Mosaic Hotel - Noida,0,Offline
+4171,Lawa - Amer City Hertiage Hotel - Jaipur,0,Offline
+4172,Lawn Bistro - Noida,0,Offline
+4173,Le Petit Cafe- Chandigarh,0,Offline
+4174,Lemon Twist- New Delhi,0,Offline
+4175,Levo Alfresco - Mumbai,0,Offline
+4176,Levo Restaurant - Mumbai,0,Offline
+4177,Life Caffe - The Corus- New Delhi,0,Offline
+4178,Light House 13- New Delhi,0,Offline
+4179,Lights Camera Action- New Delhi,0,Offline
+4180,London Cafe- New Delhi,0,Offline
+4181,London Kitchen Co - Delhi,0,Offline
+4182,Lounge & Bar - Eros Hotel - Nehru Place - Delhi,0,Offline
+4183,Lush  - Icon Hotel - Chandigarh,0,Offline
+4184,M G Restaurant- Bangalore,0,Offline
+4185,M-Lounge - Mosaic Hotel - Noida,0,Offline
+4186,Maamouchee @ My Way- New Delhi,0,Offline
+4187,Machan - Amer City Hertiage Hotel - Jaipur,0,Offline
+4188,Mad House - Mumbai,0,Offline
+4189,Madhu Shala - Hotel K K Royal - Jaipur,0,Offline
+4190,Madhushala - Hotel KR INN - Banglore,0,Offline
+4191,Main Bar - Club Republic - Hyderabad,0,Offline
+4192,Majestic Masala - Nagpur,0,Offline
+4193,Majlis- New Delhi,0,Offline
+4194,Maldrins Chinese Restaurant - Mumbai,0,Offline
+4195,Maltaco - Piccadily Hotels -Delhi,0,Offline
+4196,Mandarin Court - Delhi,0,Offline
+4197,Maquina - Tex Mex Dine Bar - Delhi,0,Offline
+4198,Market Cafe - Delhi,0,Offline
+4199,Masala Lounge - Faridabad,0,Offline
+4200,Masha - Delhi,0,Offline
+4201,mayuri - Banglore,0,Offline
+4202,Mediterran - Kanpur,0,Offline
+4203,Mehmaan - Mumbai,0,Offline
+4204,Merge- Chennai,0,Offline
+4205,Merlin's Karaoke Bar- The Orchid - Mumbai,0,Offline
+4206,Metro Grill - Delhi,0,Offline
+4207,Mezbaan - Amer City Hertiage Hotel - Jaipur,0,Offline
+4208,Mezz 9- Bangalore,0,Offline
+4209,Mia Bella- New Delhi,0,Offline
+4210,Mini Punjab - Mumbai,0,Offline
+4211,Miraparakaya - Celebrations - Hyderabad,0,Offline
+4212,Moon Shadow - Hotel Rockland - Jaipur,0,Offline
+4213,Mosh pit - Club Republic - Hyderabad,0,Offline
+4214,Mostly Grills - The Orchid - Mumbai,0,Offline
+4215,Moti Mahal - Delhi,0,Offline
+4216,Moti Mahal Delux - New Delhi,0,Offline
+4217,Moti Mahal Delux ,0,Offline
+4218,Movida- New Delhi,0,Offline
+4219,MultiCuisine Restaurant - Keys Hotel,0,Offline
+4220,Mustard- Bangalore,0,Offline
+4221,My Bar Grill - Delhi,0,Offline
+4222,My Bar Lounge - Delhi,0,Offline
+4223,My Bar Restaurant - Delhi,0,Offline
+4224,My Bar Square - Delhi,0,Offline
+4225,My Love Restaurant & Bar -Delhi,0,Offline
+4226,Mumal Restaurant - Hotel Mumal Palace - Jaipur,0,Offline
+4227,Mustard & Cress,0,Offline
+4228,My Bar Cafe - Delhi,0,Offline
+4229,OJ Speciality - Japanese Resturant - Banglore,0,Offline
+4230,OKO,0,Offline
+4231,Old World Charm - Delhi,0,Offline
+4232,Olives- Chennai,0,Offline
+4233,On The Rocks - The Atrium - Faridabad,0,Offline
+4234,On the rocks - The Lark - Banglore,0,Offline
+4235,Open House- New Delhi,0,Offline
+4236,Orchid Restaurant - Hotel Chaupal - Gurgaon,0,Offline
+4237,Oriental Bowl - Mumbai,0,Offline
+4238,Outback Bar & Grill - Pine Tree Hospitality - Gurgaon,0,Offline
+4239,Oyster - Chandigarh,0,Offline
+4240,Ozaa - Banglore,0,Offline
+4241,Pacific Asia - Delhi,0,Offline
+4242,Panaromic - The Atrium - Faridabad,0,Offline
+4243,Panchavati Gaurav,0,Offline
+4244,Paprika Restaurant - Mumbai,0,Offline
+4245,Pasha Bar & Grill- Bangalore,0,Offline
+4246,Pastry Shop- Lalit Mumbai,0,Offline
+4247,Patio - Hotel Kanha Shyam - Allahabad,0,Offline
+4248,Pavillion - Hyderabad,0,Offline
+4249,PCO - Delhi,0,Offline
+4250,Peacock  - Hotel Glitz - Jaipur,0,Offline
+4251,Pepper mint - Banglore,0,Offline
+4252,Persian Darbar - Mumbai,0,Offline
+4253,Picante Restaurant - Mumbai,0,Offline
+4254,Pickles - Souvenir Hotel - Jaipur,0,Offline
+4255,Pink Pepper - The lark - Banglore,0,Offline
+4256,Pinxx- Regenta Central Jaipur - Jaipur,0,Offline
+4257,Pioneer's Flavours of China - Delhi,0,Offline
+4258,Pit Stop - Delhi,0,Offline
+4259,Piunjabi Nawab - Best Western Tarus Hotel - Delhi,0,Offline
+4260,Pizza Hut,0,Offline
+4261,Platinum Lounge - Delhi,0,Offline
+4262,Pluto's - Delhi,0,Offline
+4263,Pomodoro - Piccadily Hotels - Delhi,0,Offline
+4264,Poolside - Mumbai,0,Offline
+4265,Poolside - The Resort - Mumbai,0,Offline
+4266,Poolside Dinner - Banglore,0,Offline
+4267,Poolside Pizzeria - Keys Hotel,0,Offline
+4268,Poush Essence Of Kashmir - Mumbai,0,Offline
+4269,Priviledge- New Delhi,0,Offline
+4270,Puma Social Club,0,Offline
+4271,Punjabi Nawab Bar - Best Western Tarus Hotel - Delhi,0,Offline
+4272,Punjabi Nawab- New Delhi,0,Offline
+4273,Purple Bar - Banglore,0,Offline
+4274,Pyramid - Souvenir Hotel - jaipur,0,Offline
+4275,Q Deck- Mumbai,0,Offline
+4276,Quesa Lounge - Noida,0,Offline
+4277,Quote - Delhi,0,Offline
+4278,R 1 Lounge - Delhi,0,Offline
+4279,Raas- New Delhi,0,Offline
+4280,Raj Mahal Restaurant - Hotel Glitz - Jaipur,0,Offline
+4281,Ramla's- New Delhi,0,Offline
+4282,Ramlas Rock in Bar - Gurgaon,0,Offline
+4283,Rang Mahal - Hotel K K Royal - Jaipur,0,Offline
+4284,Rays Cafe and Pizzeria- Mumbai,0,Offline
+4285,Red - New Delhi,0,Offline
+4286,Red Chilli- New Delhi,0,Offline
+4287,Red Grill - Mumbai,0,Offline
+4288,Red Mango,0,Offline
+4289,Rhythm & Blues - Nagpur,0,Offline
+4290,Rio Lounge Bar - Hyderabad,0,Offline
+4291,RITZ - Banglore,0,Offline
+4292,Riva - Hotel Park Inn - Jaipur,0,Offline
+4293,Rivaaz - Mumbai,0,Offline
+4294,Rodeo - Keys Hotel,0,Offline
+4295,Roof Top - Regenta Central Jaipur - Jaipur,0,Offline
+4296,Roof Top Lounge Bar - Banglore,0,Offline
+4297,Rooftop - Nashik,0,Offline
+4298,Roshan Haveli- Jaipur,0,Offline
+4299,Route 04- New Delhi,0,Offline
+4300,Royal Dine - Kanpur,0,Offline
+4301,Royal Lush - Banglore,0,Offline
+4302,Royal Re-Treat- Chandigarh,0,Offline
+4303,Royal spice - Aurangabad,0,Offline
+4304,Royal Treat - Chennai,0,Offline
+4305,RPM Zanzi Bar - Noida,0,Offline
+4306,S Square Restro Bar - Mumbai,0,Offline
+4307,Saanuk - Delhi,0,Offline
+4308,Saffron Spice - Mumbai,0,Offline
+4309,Saleem's Restaurant- New Delhi,0,Offline
+4310,Salsa Salsaa- New Delhi,0,Offline
+4311,Salt N Pepper- Chennai,0,Offline
+4312,Sammy Sosa - Mumbai,0,Offline
+4313,Sangria - Banglore,0,Offline
+4314,Sanjha Chulha - Delhi,0,Offline
+4315,Saurabh Executive - Aurangabad,0,Offline
+4316,Score Sports Bar - Mumbai,0,Offline
+4317,Sea Edge - Mumbai,0,Offline
+4318,SeaBQ - Goa,0,Offline
+4319,Serengeti - Banglore,0,Offline
+4320,Shaan - Mumbai,0,Offline
+4321,Shack - Moet's - Delhi,0,Offline
+4322,Sheesha Sky Lounge - Mumbai,0,Offline
+4323,Sheesha Sky Lounge Gold - Mumbai,0,Offline
+4324,Shilton Royale,0,Offline
+4325,Shimmers - Kolkata,0,Offline
+4326,Shooters - Mumbai,0,Offline
+4327,Shooters Cafe & Bar - Delhi,0,Offline
+4328,Shraman - The Ashok- New Delhi,0,Offline
+4329,Siaa - Hyderabad,0,Offline
+4330,Side Walk Cafe- Bangalore,0,Offline
+4331,Silsila - Banglore,0,Offline
+4332,Silver Bar- Chennai,0,Offline
+4333,Silver Leaf - Banglore,0,Offline
+4334,Singh Sahib - Eros Hotel - Nehru Place - Delhi,0,Offline
+4335,Sirocco - Goa,0,Offline
+4336,Sky Dhaba - Mumbai,0,Offline
+4337,Sky Grill - Mumbai,0,Offline
+4338,Sky High - Sarat Bose Road - Kolkata,0,Offline
+4339,Sky Lounge - Chandigarh,0,Offline
+4340,Sky Lounge - Club Republic - Hyderabad,0,Offline
+4341,Smoked Out- New Delhi,0,Offline
+4342,Smokey's BBQ & Grill,0,Offline
+4343,Society Bar- Chennai,0,Offline
+4344,Society Restaurant- Chennai,0,Offline
+4345,Soul City - Banglore,0,Offline
+4346,South Of Vindhyas - The Orchid - Mumbai,0,Offline
+4347,Southern Spicy -Hotel KR INN - Banglore,0,Offline
+4348,Spice Court- New Delhi,0,Offline
+4349,Spice Garden - Barasat - Kolkata,0,Offline
+4350,Spice Garden - Barrackpur - Kolkata,0,Offline
+4351,Spice Garden - Chinar Park - Kolkata,0,Offline
+4352,Spice Garden - Kolkata,0,Offline
+4353,Spice Garden - Metropolitan - Kolkata,0,Offline
+4354,Spice Garden - Sarat Bose Road - Kolkata,0,Offline
+4355,Spice N Ice - Delhi,0,Offline
+4356,Spices & Flavours- Mumbai,0,Offline
+4357,Spoil - Hyderabad,0,Offline
+4358,Sporty Bean Cafe - Mumbai,0,Offline
+4359,Spring Winds - Banglore,0,Offline
+4360,Stardust- Mumbai,0,Offline
+4361,sterling suites koramangala - Banglore,0,Offline
+4362,sterling suites whitefield - Banglore,0,Offline
+4363,Stone - Moet's - Delhi,0,Offline
+4364,Storm Bar & Grill - Delhi,0,Offline
+4365,Strawberry Moon - Banglore,0,Offline
+4366,Summer House Cafe - Delhi,0,Offline
+4367,Sushi - Moet's - Delhi,0,Offline
+4368,Sutra (Night Club),0,Offline
+4369,Sweet & Crusty - Eros Hotel - Nehru Place - Delhi,0,Offline
+4370,Swig - The Prems Hotel - Pune,0,Offline
+4371,Sydewok - Suba International - Mumbai,0,Offline
+4372,Tab 01- New Delhi,0,Offline
+4373,Talk About Multi Cuisine Restaurant & Bar- Pune,0,Offline
+4374,Tamanna Cafeteria- Pune,0,Offline
+4375,Tamanna Multi Cuisine Restaurant & Bar- Pune,0,Offline
+4376,Tangerine - Kolkata,0,Offline
+4377,Tangerine Cafe - Mumbai,0,Offline
+4378,Tap House Cafe- New Delhi,0,Offline
+4379,Tati Roti Restaurant - Jaipur,0,Offline
+4380,Tavern - Pune,0,Offline
+4381,TC Restaurant And Bar - Delhi,0,Offline
+4382,Tea Lounge - Clarks Inn Gurgaon,0,Offline
+4383,Tea Lounge - Eros Hotel - Nehru Place - Delhi,0,Offline
+4384,Tea Lounge - Kolkatta,0,Offline
+4385,Tea Villa - Mumbai,0,Offline
+4386,Temptation- Chandigarh,0,Offline
+4387,Terrace @IGR- New Delhi,0,Offline
+4388,The Bakery- Kolkatta,0,Offline
+4389,The Barking Deer Brewpub- Mumbai,0,Offline
+4390,The Basement - Kolkata,0,Offline
+4391,The Biere Club,0,Offline
+4392,The Biere Club - Whitefield,0,Offline
+4393,The Brew Master - Delhi,0,Offline
+4394,The Bridge Restaurant - Clarks Inn Gurgoan- New Delhi,0,Offline
+4395,The Circle - Chandigarh,0,Offline
+4396,The Clay Oven Restaurant - Delhi,0,Offline
+4397,The Crown Cafe - Faridabad,0,Offline
+4398,The Delicatessen,0,Offline
+4399,The Empire- New Delhi,0,Offline
+4400,The Fizz - Noida,0,Offline
+4401,The Fizz Restaurant- New Delhi,0,Offline
+4402,The Frontier Post - Nagpur,0,Offline
+4403,The Great Kabab Factory- New Delhi,0,Offline
+4404,The Grill Room,0,Offline
+4405,The Hub- New Delhi,0,Offline
+4406,The Little Door- Mumbai,0,Offline
+4407,The Little Door- Pune,0,Offline
+4408,The Local - Banglore,0,Offline
+4409,The Lounge - Hotel K K Royal - Jaipur,0,Offline
+4410,The Mine- Bangalore,0,Offline
+4411,The Mint Leaf Lounge - Mumbai,0,Offline
+4412,The Neptune - Mumbai,0,Offline
+4413,The Osteria - Banglore,0,Offline
+4414,The Pantry - Mumbai,0,Offline
+4415,The Pizzeria - Banglore,0,Offline
+4416,The Riverview Restaurant - Mumbai,0,Offline
+4417,The Society - Mumbai,0,Offline
+4418,The Socity Restaurant & Bar - Chennai,0,Offline
+4419,The Socity Restaurant - Chennai,0,Offline
+4420,The Tandoori Village - Noida,0,Offline
+4421,The Udupi Park - Banglore,0,Offline
+4422,The Wine Company,0,Offline
+4423,The Yellow Chilli - Mumbai,0,Offline
+4424,Tiara- Meluha the Fern - Mumbai,0,Offline
+4425,Tiara- Meluha the Fern- Mumbai,0,Offline
+4426,Tiffin Bar- Bangalore,0,Offline
+4427,Tiffin Room- Bangalore,0,Offline
+4428,Tipplers Lounge - Mumbai,0,Offline
+4429,Toast Bar N Grill- New Delhi,0,Offline
+4430,Tomato - Banglore,0,Offline
+4431,Torgauer Brew Pub- New Delhi,0,Offline
+4432,Toxix Bar - Hotel Rajmandir- New Delhi,0,Offline
+4433,Toxix Restaurant - Hotel Rajmandir- New Delhi,0,Offline
+4434,Tramit - Kanpur,0,Offline
+4435,Transit - Chennai,0,Offline
+4436,Treat - Delhi,0,Offline
+4437,Treat - Dharwad,0,Offline
+4438,Treat - Goa,0,Offline
+4439,Treat - Indore,0,Offline
+4440,Treat - Jaipur,0,Offline
+4441,Treat - Pune,0,Offline
+4442,Tribe - Delhi,0,Offline
+4443,Tribe- New Delhi,0,Offline
+4444,Trikaya - Mumbai,0,Offline
+4445,Trikaya - Pune,0,Offline
+4446,Tulsi - Ramada Jaipur,0,Offline
+4447,Twenty Nine - Piccadily Hotels - Delhi,0,Offline
+4448,Uberdeq - Hyderabad,0,Offline
+4449,Uforia - Gurgaon,0,Offline
+4450,Ultraviolet - Bar - Banglore,0,Offline
+4451,Unlock The Resto Bar - Keys Hotel,0,Offline
+4452,Upper Deck - The Resort - Mumbai,0,Offline
+4453,Vapour- New Delhi,0,Offline
+4454,Veda Cafe - Delhi,0,Offline
+4455,Venkys VEG - Hyderabad,0,Offline
+4456,Vertigo Bar & Eatery - Mumbai,0,Offline
+4457,Vertigo Lounge- Chandigarh,0,Offline
+4458,Viaan- Mumbai,0,Offline
+4459,Vintage 31 - Delhi,0,Offline
+4460,Warehouse Cafe - Delhi,0,Offline
+4461,Wazwan - Banglore,0,Offline
+4462,West 1-The Park - Mumbai,0,Offline
+4463,West wood- Bangalore,0,Offline
+4464,Whistler - Chandigarh,0,Offline
+4465,Whistler - The Pearl- Chandigarh,0,Offline
+4466,White Italian - Mumbai,0,Offline
+4467,Wild Fire - Crowne Plaza Today Gurgoan,0,Offline
+4468,Wilson?s - Kolkatta,0,Offline
+4469,Wok in The Clouds - Delhi,0,Offline
+4470,Woks,0,Offline
+4471,Wood Rose- Bangalore,0,Offline
+4472,Woodside -All Day - Mumbai,0,Offline
+4473,Woodside Inn - Mumbai,0,Offline
+4474,World Cafe - Vibe by the Lalit- New Delhi,0,Offline
+4475,Wrapped - Mumbai,0,Offline
+4476,XTC Bar- New Delhi,0,Offline
+4477,ZanziBar - Banglore,0,Offline
+4478,Zenba - Vibe by the Lalit- New Delhi,0,Offline
+4479,Zerruco - The Ashok Hotel - Delhi,0,Offline
+4480,Zing - Mumbai,0,Offline
+4481,Zook- New Delhi,0,Offline
+4482,Zune - Piccadily Hotels - Delhi,0,Offline
+4483,24/7 Restaurant,0,Offline
+4484,Eye World Opticians,NULL,Offline
+4485,Aman Sports,NULL,Offline
+4486,Socute Ladies & KIds Wear,NULL,Offline
+4487,Dream Choice Mens Wear,NULL,Offline
+4488,Jean Points,NULL,Offline
+4489,Poswal Furnishing,NULL,Offline
+4490,Laxmi Aluminium,NULL,Offline
+4491,Dhanlaxmi  Enterprises,NULL,Offline
+4492,Neel Kamal Plywood,NULL,Offline
+4493,DIAMOND  Furnishing & Mattresses,NULL,Offline
+4494,Takshila Optics,NULL,Offline
+4495,SHAH Optical Gallery,NULL,Offline
+4496,Adarsh Battery Exide,NULL,Offline
+4497,Safe Hardware & Electric Stores,NULL,Offline 
+4498,Mahavir Tiles,NULL,Offline
+4499,Himalaya Batteries,NULL,Offline
+4500,JEEVAN BATTERIES,NULL,Offline
+4501,Raza Battery Services,NULL,Offline
+4502,Royal Battery Service,NULL,Offline
+4503,SHARP BATTERIES,NULL,Offline
+4504,YADAV BATTERY,NULL,Offline
+4505,Lucky Manufacturer Guards & Carriers,NULL,Offline
+4506,Deepika Sanitary N Marble,NULL,Offline
+4507,Ashirwad Opticians,NULL,Offline
+4508,Mahalaxmi Ply & Veneer,NULL,Offline
+4509,Mahalaxmi Creation,NULL,Offline
+4510,DEZIRE NX,NULL,Offline
+4511,Shree Laxmi Foam & Furnishing,NULL,Offline
+4512,Range Collection,NULL,Offline
+4513,SAHELI EMPORIUM,NULL,Offline
+4514,Shree Swastik Hardware,NULL,Offline
+4515,OM CERAMIC,NULL,Offline
+4516,Novelty Ply-N-Wood,NULL,Offline
+4517,Rajputana Enterprises,NULL,Offline
+4518,Shivam Enterprises,NULL,Offline
+4519,AMBICA SANITARY,NULL,Offline
+4520,JUPITER Traders,NULL,Offline
+4521,Shalimar Luggage Center,NULL,Offline
+4522,KK Ceramics,NULL,Offline
+4523,RONAK CREATION,NULL,Offline
+4524,Red Blue Ladies & Mens Wear,NULL,Offline
+4525,fnp,12351,Online
+4526,Hearing Plus,NULL,
+4527,Creative Ceramics,NULL,Offline
+4528,Tirupati Electric & Hardware Stores,NULL,Offline
+4529,Metro Electric,NULL,Offline
+4530,Voltas,NULL,
+4531,Bright Hardware & Electrical Stores,NULL,Offline
+4532,Jai Ambe Hardware,NULL,Offline
+4533,Tata Coffee Plantation trails ,NULL,
+4534,Tata Housing,NULL,
+4535,Highness Hardware,NULL,Offline
+4536,Tata Motors,NULL,
+4537,Beena Sales Corporation,NULL,Offline
+4538,Liberty Furnishing & Mattresses,NULL,Offline
+4539,Nitin Eye Lens,NULL,Offline
+4540,Sharda Hardware,NULL,Offline
+4541,Shiv Shakti Hardware,NULL,Offline 
+4542,Elegant Hardware,NULL,Offline
+4543,New Sangam Electric & Hardware Store,NULL,Offline
+4544,Bhairav Ply & Hardware,NULL,Offline
+4545,SAI CERAMICS,NULL,Offline
+4546,New Look Unisex Salon,NULL,Offline
+4547,Citizen Furnishing & Mattresses,NULL,Offline
+4548,Ayesha  Furnishing & Mattresses,NULL,Offline
+4549,Concept Fancy Hardware,NULL,Offline
+4550,NEEMRANA HOTELS,NULL,
+4551,JMC Veneer World,NULL,Offline
+4552,Shree Hari Ply Centre,NULL,Offline
+4553,Atlas Batteries,NULL,Offline
+4554,Megacorp Batteries,NULL,Offline
+4555,Shree Ganesh Ply & Laminates,NULL,Offline
+4556,Cafe Kayal,NULL,Offline
+4557,Cafe Coffee Day ,NULL,Offline
+4558,Amore Gourmet Gelato Ice Cream Parlour,NULL,Offline
+4559,Apsara Ice Cream ,NULL,Offline
+4560,B Blunt,NULL,
+4561,Kiah Diamond Jewellery,NULL,Offline
+4562,New Famous Gents Parlour,NULL,Offline
+4563,Aruns Unisex Salon Academy,NULL,Offline
+4564,Shreejee Electricals,NULL,Offline
+4565,Shreeji Laminate,NULL,Offline
+4566,Laminate  Zone,NULL,Offline
+4567,Welcome Furnishing & Sofa  Maker,NULL,Offline
+4568,A-1 FURNISHING,NULL,Offline
+4569,Sai Enterprises,NULL,Offline
+4570,Matoshree Hardware,NULL,Offline
+4571,Qabila Restaurant,NULL,Offline
+4572,Banjara Restaurant,NULL,Offline
+4573,VINISHA Food Corner,NULL,Offline
+4574,Moti Mahal Restaurant,NULL,Offline
+4575,Mint Leaf Kitchen & Cocktails,NULL,Offline
+4576,Hakka Express,NULL,Offline
+4577,Singh Saabs Punjabi Jaika,NULL,Offline
+4578,Central nx Resto Bar,NULL,Offline
+4579,Royal Battery,NULL,Offline
+4580,Jewelsouk,NULL,
+4581,Sealand Restuarant,NULL,Offline
+4582,Only Cherlyn Restaurant,NULL,Offline
+4583,Work This Way Restaurant,NULL,Offline
+4584,Shalimar  Restaurant,NULL,Offline
+4585,Appetite Resto Bar,NULL,Offline
+4586,City Life Next Restaurant,NULL,Offline
+4587,Guru Kripa Multi Cuisine,NULL,Offline
+4588,Carters Express,NULL,Offline
+4589,Mahesh Lunch Home,NULL,Offline
+4590,Back Street Cafe,NULL,
+4591,Tex-Mex Cuisine (Chilis),NULL,Offline
+4592,TFB THE FOOD BAR,NULL,
+4593,No. 101 Restaurant,NULL,Offline
+4594,Spice Bazar Restaurant,NULL,
+4595,Shiv Sagar Veg. Restaurant,NULL,Offline
+4596,Kailash Parbat,NULL,
+4597,Bombay Burgers,NULL,Offline
+4598,Kakori House,NULL,
+4599,Shakuntala Bar & Restaurant,NULL,Offline
+4600,The Loughing Buddha Resto - Bar,NULL,Offline
+4601,Navratna Hotel,NULL,Offline
+4602,Samvene The Bagel Cafe,NULL,Offline
+4603,Tribhovandas Bhimaji Zaveri,NULL,
+4604,Tribhovandas Bhimji Zaveri,NULL,
+4605,ASPEN,NULL,
+4606,Sagar,NULL,Offline
+4607,EDGE,NULL,Offline
+4608,TULSI,NULL,Offline
+4609,Royal Family Restaurant,NULL,Offline
+4610,Harmeet Restaurant,NULL,Offline
+4611,Spirit Kitchen & Bar,NULL,Offline
+4612,Yoko Sizzlers Restaurant,NULL,Offline
+4613,Persian Darbar Restaurant,NULL,Offline
+4614,EAT STREET LSD,NULL,Offline
+4615,Central Brand New,NULL,
+4616,Nayaks Restaurant,NULL,Offline
+4617,SAIDEV  Restaurant,NULL,Offline
+4618,Italicks Restaurant,NULL,Offline
+4619,Mochi,NULL,
+4620,Giordano Timewear,NULL,
+4621,Giordano Timewear,NULL,
+4622,Giordana Timewear,NULL,
+4623,Marshalls Wallcoverings,NULL,Offline
+4624,Regius The Fitness Factory,NULL,
+4625,Cotton Cottage,NULL,
+4626,IGP.com,NULL,
+4627,Mumbai Metro,NULL,
+4628,Prashali Foam & Furnishing,NULL,Offline
+4629,Nutan Aluminium & Hardware,NULL,Offline
+4630,Akruti Ceramics,NULL,Offline
+4631,Snip The Salon,NULL,Offline
+4632,Ocean Gallery,NULL,Offline
+4633,MAYUR Furnishing & Mattresses,NULL,Offline
+4634,AADIL  Furnishing & Mattresses,NULL,Offline
+4635,KGN Furnishing,NULL,Offline
+4636,Deepak Opticians,NULL,Offline
+4637,Veer Ceramics,NULL,Offline
+4638,KRISHNA Ceramics,NULL,Offline
+4639,OMKAR Lights & Fans,NULL,Offline
+4640,Abhishek Electric & Hardware,NULL,Offline
+4641,Star Battery Service,NULL,Offline
+4642,M. K. Auto Electric Battery Works,NULL,Offline
+4643,Laxmi Hardware,NULL,Offline
+4644,My trip Tours  & Travels,NULL,Offline
+4645,Femina Beauty Parlor & Academy,NULL,Offline
+4646,Swastik Aluminium & Hardware,NULL,Offline
+4647,Metro Light House,NULL,Offline
+4648,Dharmi Collection,NULL,Offline
+4649,Ocean Mens Wear,NULL,Offline
+4650,NIGAR Foam & Furnishing,NULL,Offline
+4651,Puja Electric & Hardware Stores,NULL,Offline
+4652,Darshana Mens Wear,NULL,Offline
+4653,Radhe Krishna,NULL,Offline
+4654,Bollywood Queen,NULL,Offline
+4655,1mg,16770,Online
+4656,airvistara,25928,Online
+4657,alibaba,59,Online
+4658,flyingmachine,182571,Online
+4659,hallmark,9161,Online
+4660,healthians,212351,Online
+4661,kidskart,144225,Online
+4662,naturesbasket,19246,Online
+4663,paybackbazaar,206326,Online
+4664,shopcj,30030,Online
+4665,mydala,1016,Online
+4666,zotezo,72465,Online
+4667,abof,5850,Online
+4668,Foot Walk The Shoe Shop,NULL,Offline
+4669,Pyramid Jewellers,NULL,Offline
+4670,Manglam Jewellers,NULL,Offline
+4671,Magic Gold Jewellery,NULL,Offline
+4672,Yash,NULL,Offline
+4673,Rich Collection,NULL,Offline
+4674,Sarah Fashionz,NULL,Offline
+4675,Shobha Shringar Jewellers,NULL,Offline
+4676,home store,NULL,Offline
+4677,Yusuf Luggage,NULL,Offline
+4678,Shabnam Hair Cutting Saloon,NULL,Offline
+4679,Arihant  Plywood,NULL,Offline
+4680,Style ur ride,NULL,Offline
+4681,Zam - Zam Batteries Electricals,NULL,Offline
+4682,R.M Battery,NULL,Offline
+4683,Ambika Enterprises,NULL,Offline
+4684,Classic Non-Veg,NULL,Offline
+4685,Bawree,NULL,
+4686, Akbarallys Furniture,NULL,Offline
+4687,Navrang Foam & Furnishing,NULL,Offline
+4688,Limra Traders,NULL,Offline
+4689,Sai Sagar Batteries,NULL,Offline
+4690,Ram Motors,NULL,Offline
+4691,ANIS & CO.,NULL,Offline
+4692,The Tile House,NULL,Offline
+4693,Classic Luggage NX,NULL,Offline
+4694,Adiansh Gym - Male,NULL,Offline
+4695,Adiansh Gym - Female,NULL,Offline
+4696,Pawan Battery,NULL,Offline
+4697,Maa Chamunda Electric & Hardware,NULL,Offline
+4698,Van Heusen Outlet,NULL,Offline
+4699,Louis Philippe Factory Outlet,NULL,Offline
+4700,Allen Solly Outlet,NULL,Offline
+4701,New Generation Family Shop,NULL,Offline
+4702,Arihant Eye Care,NULL,Offline
+4703,Archana Opticians,NULL,Offline
+4704,Thakkar Sanitary Ware,NULL,Offline
+4705,Pooja Ceramics,NULL,Offline
+4706,Ree - Create The Ceramic Zone,NULL,Offline
+4707,Choice Ceramics,NULL,Offline
+4708,Mahavir Ceramics,NULL,Offline
+4709,AMBIKA Lunch Home,NULL,Offline
+4710,Chamunda Hardware,NULL,Offline
+4711,Visal Ceramics,NULL,Offline
+4712,Swastik Foam Centre,NULL,Offline
+4713,Yash Mens Wear,NULL,Offline
+4714,Select Kids & Ladies Wear,NULL,Offline
+4715,Rock Star Mens Wear,NULL,Offline
+4716,Relation Electronics,NULL,Offline
+4717,Mens  Corner,NULL,Offline
+4718,Famous Furnishings,NULL,Offline
+4719,Marvel Enterprises,NULL,Offline
+4720,Rekha Collections,NULL,Offline
+4721,Mickey Mouse Kids Wear,NULL,Offline
+4722,Popular Furniture,NULL,Offline
+4723,Groom's Tip Top Garments,NULL,Offline
+4724,Swastik Enterprise,NULL,Offline
+4725,Mahesh Rest-o-Bar,NULL,Offline
+4726,Shiv Krupa Pure Veg,NULL,Offline
+4727,Usha Battery Service,NULL,Offline
+4728,Men's Corner ,NULL,Offline
+4729,Ashapura Trading Co.,NULL,Offline
+4730,Mahalaxmi Ceramics,NULL,Offline
+4731,Shivam Pure Veg,NULL,Offline
+4732,Kings Ply N Wood,NULL,Offline
+4733,Fabricon Furnishing & Mattress,NULL,Offline
+4734,Saraswati Hardware & Plumbing Centre,NULL,Offline
+4735,Bahucharaji Ladies Wear,NULL,Offline
+4736,Rangoli Saree,NULL,Offline
+4737,Ahinsha Ply Point,NULL,Offline
+4738,Mantraa Home Appliances,NULL,Offline
+4739,DAS Veg. Treat,NULL,Offline
+4740,Colors Furnishing & Mattress,NULL,Offline
+4741,"Kohinoor Furnishing, Mattresses & Sofa Maker",NULL,Offline
+4742,Right Choice Readymade Garment,NULL,Offline
+4743,R Fashion Stuff,NULL,Offline
+4744,Saloni Beauty Shop,NULL,Offline
+4745,Hit & Run ,NULL,Offline
+4746,Sagar Restaurant,NULL,Offline
+4747,Prakash Electricals,NULL,Offline
+4748,Vision Palace,NULL,Offline
+4749,Aarya Fashion,NULL,Offline
+4750,STAR Furnishing & Mattresses  ,NULL,Offline
+4751,Mem Saab Novelty,NULL,Offline
+4752,Hotel Gurudaya Pure Veg.,NULL,Offline
+4753,Pari Ladies Wear & Kids Collection,NULL,Offline
+4754,In-Mod Shoes,NULL,Offline
+4755,Lawrence & Mayo,NULL,
+4756,New Beauty Centre,NULL,
+4757,Narottam Granites Pvt. Ltd.,NULL,Offline
+4758,N.K. Shoe Corner,NULL,Offline
+4759,Deluxe Electric & Hardware Stores,NULL,Offline
+4760,Satyam Appliances Sale & Service,NULL,Offline
+4761,Home Concept Furnishings Stido,NULL,Offline
+4762,MARK Electrical & Ceramics,NULL,Offline
+4763,Vakilsearch,NULL,
+4764,Metro Machine Tools,NULL,Offline
+4765,Ambika Marble & Granite,NULL,Offline
+4766,Radhe Krishna Plywood & Laminates,NULL,Offline
+4767,City Choice Footwear,NULL,Offline
+4768,Rolex Plywood,NULL,Offline
+4769,Rajesh Hardware,NULL,Offline
+4770,Nakoda Electric & Hardware,NULL,Offline
+4771,Usha Hardware,NULL,Offline
+4772,Jai Traders,NULL,Offline
+4773,Sanabil Trading Company,NULL,Offline
+4774,Neha Collection,NULL,Offline
+4775,Subham School Uniforms Shop,NULL,Offline
+4776,Sai Prasad Hotel,NULL,Offline
+4777,Jalaram Electric & Tools Stores,NULL,Offline
+4778,Royal Ceramics,NULL,Offline
+4779,Supreme Home Appliances,NULL,Offline
+4780,Rushabh Interior,NULL,Offline
+4781,Janvhi Fashion Fever,NULL,Offline
+4782,Cafe Eatalian,NULL,Offline
+4783,Rishabh Ply,NULL,Offline
+4784,Trendz Ladies & Kids Wear,NULL,Offline
+4785,Choice Shoes,NULL,Offline
+4786,Classic Optics,NULL,Offline
+4787,S.K. Furnishing & Mattresses,NULL,Offline
+4788,Sangam Collection,NULL,Offline
+4789,The 99 Poswal Furnishing,NULL,Offline
+4790,Classic Fine Dine Family Restaurant,NULL,Offline
+4791,Choice Restaurant,NULL,Offline
+4792,Ronak Ceramic,NULL,Offline
+4793,Specto Eye Wear,NULL,Offline
+4794,YES - MAM,NULL,Offline
+4795,Zaid Furnishing & Mattresses,NULL,Offline
+4796,New Specto Eye Wear,NULL,Offline
+4797,Ply - Point,NULL,Offline
+4798,New Maharashtra Ceramic,NULL,Offline
+4799,Shan-E-Marol Family Restaurant,NULL,Offline
+4800,Jyoti Family Restaurant,NULL,Offline
+4801,Kateeleshwari Fast Food,NULL,Offline
+4802,Gokul Shoppe,NULL,Offline
+4803,Crystal Electronics,NULL,Offline
+4804,Tip Top Gifts & Toys,NULL,Offline
+4805,Gift Galary,NULL,Offline
+4806,Burhani Electric & Hardware,NULL,Offline
+4807,Fitt 'N' Trim Gym,NULL,Offline
+4808,Sai Leela Veg. & Non Veg. Restaurant,NULL,Offline
+4809,Stanley Boutique,NULL,Offline
+4810,Zeba Home,NULL,Offline
+4811,More's Family Restaurant,NULL,Offline
+4812,Jayvardhanam Collection,NULL,Offline
+4813,Figure Factory Gym,NULL,Offline
+4814,Noor Bakers ,NULL,Offline
+4815,Jalaram Hardware Stores,NULL,Offline
+4816,AL Zaika,NULL,Offline
+4817,Mayur Electric & Hardware,NULL,Offline
+4818,Yena Plywood,NULL,Offline
+4819,Krishna Ply N Wood,NULL,Offline
+4820,Meghna Opticians,NULL,Offline
+4821,Ashoka Sports,NULL,Offline
+4822,V-Style ,NULL,Offline
+4823,Parth Collection,NULL,Offline
+4824,Kool Eyes,NULL,Offline
+4825,Ultimate Sports,NULL,Offline
+4826,Mrignayanee,NULL,Offline
+4827,Aggarwal Eye Care,NULL,Offline
+4828,House of Hair(Unisex Saloon),NULL,Offline
+4829,Citizen Stationery & Xerox,NULL,Offline
+4830,Mukesh Lights & Ceramics,NULL,Offline
+4831,Shivam Ceramic,NULL,Offline
+4832,King's Decor,NULL,Offline
+4833,Maharashtra Gadi Bhandar & Sofa Maker,NULL,Offline
+4834,Ramdev Hardware & Electrical Store,NULL,Offline
+4835,Diamond Electric & Hardware,NULL,Offline
+4836,Poonani Bros.,NULL,Offline
+4837,Mahavir Collection,NULL,Offline
+4838,Uma Hotel,NULL,Offline
+4839,Hotel Gurudev Pure Veg.,NULL,Offline
+4840,City Electrics,NULL,Offline
+4841,Amee Car Decor & Spares,NULL,Offline
+4842,Apex Electric & Hardware,NULL,Offline
+4843,Surbhi Ceramics,NULL,Offline
+4844,Mattress Store,NULL,Offline
+4845,Famous Plywood,NULL,Offline
+4846,Bhawani Electric & Hardware Stores,NULL,Offline
+4847,Rolex Hardware Stores,NULL,Offline
+4848,Arihant Electrical & Hardware Store,NULL,Offline
+4849,Royal Electrical & Hardware Stores,NULL,Offline
+4850,Fitness Fuel Proshop,NULL,Offline
+4851,Sai Kinara Veg. & Non Veg. Treat,NULL,Offline
+4852,Shanti Electricals,NULL,Offline
+4853,Trendy Look Unisex Salon and Beauty ,NULL,Offline
+4854,Navratna Hotel,NULL,Offline
+4855,OM Lights,NULL,Offline
+4856,Bharat Traders,NULL,Offline
+4857,Pratik Electric,NULL,Offline
+4858,Ganesh Auto Works,NULL,Offline
+4859,Silver Ceramics,NULL,Offline
+4860,Nagrik Electric Hardware & Sanitary,NULL,Offline
+4861,Samir Ceramics Pvt. Ltd.,NULL,Offline
+4862,Ghasitaram's Sweets,NULL,Offline
+4863,Sawariya Electric & Hardware Store,NULL,Offline
+4864,V.N. Hardware,NULL,Offline
+4865,Multi Hardware ,NULL,Offline
+4866,Swastik Ceramic,NULL,Offline
+4867,Royal Hardware Stores,NULL,Offline
+4868,Hotel Nityanand,NULL,Offline
+4869,Azad Electric & Hardware Stores,NULL,Offline
+4870, Body Mechanics The Gym,NULL,Offline
+4871,Mark Ceramics,NULL,Offline
+4872,Xtreme Fitness,NULL,Offline
+4873,Hari Om Plywood & Laminates,NULL,Offline
+4874,Prakash Motors,NULL,Offline
+4875,Chejara Enterprise,NULL,Offline
+4876,Kumkum Tiles & Marble Corp.,NULL,Offline
+4877,Bhoomi Plywood & Aluminium,NULL,Offline
+4878,Modern Battery Service Station,NULL,Offline
+4879,Shrey Hardware,NULL,Offline
+4880,Sai Plywood Hardware & Aluminium Centre,NULL,Offline
+4881,Arihant Traders,NULL,Offline
+4882,Prism Glass n Light,NULL,Offline
+4883,Neon Glass & Light's,NULL,Offline
+4884,Sainath Auto Ultimate,NULL,Offline
+4885,Saikripa Sanitation,NULL,Offline
+4886,Pawar Furnishing,NULL,Offline
+4887,Bharat Sanitary Stores,NULL,Offline
+4888,Shree Jee Hardware & Electricals,NULL,Offline
+4889,Kamla Stores,NULL,Offline
+4890,Golden Electricals,NULL,Offline
+4891,Kala Fabs Furnishing & Mattresses,NULL,Offline
+4892,For Home Furnishing,NULL,Offline
+4893,Jayesh Electrical & Hardwares,NULL,Offline
+4894,Shivam Electrical & Hardware Store,NULL,Offline
+4895,National Ceramics,NULL,Offline
+4896,Ambika Collection,NULL,Offline
+4897,Stylish & Co.,NULL,Offline
+4898,Diya Ply & Laminates,NULL,Offline
+4899,Pravin Machine Tools,NULL,Offline
+4900,Dollar Readymade Garments,NULL,Offline
+4901,Suresh Electrical & Hardware,NULL,Offline
+4902,Ramdev Lights,NULL,Offline
+4903,Mahalaxmi Electrical & Hardware,NULL,Offline
+4904,Anjali Lights,NULL,Offline
+4905,Anandi Fashion,NULL,Offline
+4906,Acme Fitness,NULL,Offline
+4907,Rathod Electricals,NULL,Offline
+4908,Balaji Hardware,NULL,Offline
+4909,Chamunda Hardware Electric & Sanitaryware,NULL,Offline
+4910,Mahavir Traders,NULL,Offline
+4911,Chheda Ply-N-Laminates,NULL,Offline
+4912,Surbhi Plywood,NULL,Offline
+4913,Riddhi Siddhi Ceramics,NULL,Offline
+4914,Friday Ceramics Pvt. Ltd.,NULL,Offline
+4915,Cake Of The Day,NULL,Offline
+4916,Sai Kripa Hardware,NULL,Offline
+4917,Balaji Plywood Traders,NULL,Offline
+4918,New Maharashtra Hardware & Electrical ,NULL,Offline
+4919,Ceramic Mall,NULL,Offline
+4920,Art Lounge,NULL,Offline
+4921,Silver Fashion,NULL,Offline
+4922,Mahendra Kitchen,NULL,Offline
+4923,Best Machine & Tools,NULL,Offline
+4924,Janata Lime Depot,NULL,Offline
+4925,Noble Hardware & Electric Store,NULL,Offline
+4926,Harsh Electric & Haedware,NULL,Offline
+4927,Harsh Electric & Hardware,NULL,Offline
+4928,Highway Tyre Service,NULL,Offline
+4929,Sagar Ply Centre,NULL,Offline
+4930,Shree Nakoda Hardware,NULL,Offline
+4931,P. C. Ceramic ,NULL,Offline
+4932,Heritage Hardware,NULL,Offline
+4933,Leo Hardware,NULL,Offline
+4934,Honesty Electric Hardware & Sanitaryware,NULL,Offline
+4935,Shakil Furnishing & Mattresses,NULL,Offline
+4936,Pragati Aluminium & Hardware,NULL,Offline
+4937,Bharat Carpet,NULL,Offline
+4938,Parle Plywood,NULL,Offline
+4939,Laxmi Ply & Laminates,NULL,Offline
+4940,Mahavir Hardware & Sanitary ,NULL,Offline
+4941,Cassa Hardware,NULL,Offline
+4942,Ruhi Electric & Hardware Stores,NULL,Offline
+4943,Jessons Trading Company,NULL,Offline
+4944,L.R. Mallah Paints,NULL,Offline
+4945,Vardhaman Electric & Hardware Store,NULL,Offline
+4946,Kirti Electricals,NULL,Offline
+4947,Super Tyre & Battery Service,NULL,Offline
+4948,Sahil Footwear,NULL,Offline
+4949,Bhumi Collection,NULL,Offline
+4950,Shree Sheetal,NULL,Offline
+4951,ASH Timber & Plywood,NULL,Offline
+4952,Heena Traders,NULL,Offline
+4953,Horizon Men's Saloon,NULL,Offline
+4954,Kohinoor Electronics,NULL,Offline
+4955,Kamal Hardware Stores,NULL,Offline
+4956,Hutaib Paints & Hardware,NULL,Offline
+4957,Good Luck Electric & Hardware,NULL,Offline
+4958,Shree Plywood,NULL,Offline
+4959,Galleria Fine Arts,NULL,Offline
+4960,Mateshwari Paints Electric & Hardware,NULL,Offline
+4961,Akshay Enterprise,NULL,Offline
+4962,Modern Gift Gallery,NULL,Offline
+4963,Range Machine Tools,NULL,Offline
+4964,Bombay Batteries,NULL,Offline
+4965,Paras Electric & Hardware Stores,NULL,Offline
+4966,Mahavir Plywood,NULL,Offline
+4967,Shri Siddhivinayak Electric & Hardware,NULL,Offline
+4968,Planet Electrical & Sanitaryware,NULL,Offline
+4969,Pooja NX Hardware & Sanitaryware,NULL,Offline
+4970,Ambica Hardware,NULL,Offline
+4971,A to Z Sales & Service,NULL,Offline
+4972,Vishal Electric & Sanitaryware,NULL,Offline
+4973,Mayur Paint & Hardware Store,NULL,Offline
+4974,Shree Admid Optics,NULL,Offline
+4975,Janata Stores,NULL,Offline
+4976,Jay Ambe Sanitary Ware,NULL,Offline
+4977,Shree Haria Electrical,NULL,Offline
+4978,Jain Stores Sales & Service,NULL,Offline
+4979,Manish Picture & Frame,NULL,Offline
+4982,Shimply.com,NULL,Online
+4984,Saurabh Sports,NULL,Offline
+4985,Test Shop,NULL,Online
+4986,DPauls,NULL,Online
+4987,CANTABIL,NULL,Offline
+4988,Choice Centre,NULL,Offline
+4989,Modular kitchen,NULL,Offline
+4990,Sheesha Lounge,NULL,Offline
+4991,R-cute Mens wear,NULL,Offline
+4992,Denovo Razy,NULL,Offline
+4993,Sanjeevs Designer Studio,NULL,Online
+4994,Purnima Interiors,NULL,Offline
+4995,Archies,NULL,
+4996,onestop,NULL,
+4997,Irctc Tourism,NULL,
+4998,See clear Optic ,NULL,Offline
+4999,Active gym,NULL,Offline
+5000,THE OYSTER RESTAURENT,NULL,Offline
+5001,SK Restaurant,NULL,Offline
+5002,test prateek,NULL,Offline
+5003,A.Tanna & Sons Opticians,NULL,Offline
+5004,ENRICA DESIGNS,NULL,Offline
+5005,Silver Spoon Restaurant,NULL,Offline
+5006,Umrao restaurant,NULL,Offline
+5007,Sai Krishna Pure Veg,NULL,Offline
+5008,Bongo's Bite,NULL,Offline
+5009,Shera Da Dhaba restaurant,NULL,Offline
+5010,Manthan Family Restaurant,NULL,Offline
+5011,Metro Electric,NULL,Offline
+5012,Sai Dham Veg & Non Veg Restaurant,NULL,Offline
+5013,New Disigner Cake Shop,NULL,Offline
+5014,S 3 collection,NULL,Offline
+5015,WTC Pasta,NULL,Offline
+5016,Qamars Unisex Salon,NULL,Offline
+5017,Bimal Optics,NULL,Offline
+5018,Saba Furnishing,NULL,Offline
+5019,Khajana Mobile Shop,NULL,Offline
+5020,Oven Hot The Bake Shop,NULL,Offline
+5021,Two Star Family Restaurant & Bar,NULL,Offline
+5022,Real Touch Upholstery & Carpet,NULL,Offline
+5023,The Hair Lounge Unisex Salon,NULL,Offline
+5024,B.F.Furnishing,NULL,Offline
+5025,New Ajanta Furnishing,NULL,Offline
+5026,Rangoli Family Shop,NULL,Offline
+5027,Arihant Infocom,NULL,Offline
+5028,Jean Lover Garment,NULL,Offline
+5029,Kamil Furnishing & Mattress,NULL,Offline
+5030,Sarvodaya Pure Veg Restaurant,NULL,Offline
+5031,Rio Modular Kitchen,NULL,Offline
+5032,Good Luck Sanitary & Paint,NULL,Offline
+5033,Fabrico Furnishing,NULL,Offline
+5034,Maratha Mattress & Furnishing,NULL,Offline
+5035,Maharashtra Electrical & Hardware,NULL,Offline
+5036,Mauja Khai Piyo Jiyo Restaurant,NULL,Offline
+5037,Shiv Krupa Pure Veg Restuarant,NULL,Offline
+5038,VIP Park Luggage,NULL,Offline
+5039,Nilesh Electronic Sales & Service,NULL,Offline
+5040,Das Palace Family Restaurant & Bar,NULL,Offline
+5041,Zamzam Caterers,NULL,Offline
+5042,Empire Gym,NULL,Offline
+5043,Darpan Furnishing & Mattress,NULL,Offline
+5044,Pratham Optics,NULL,Offline
+5045,Madness men's Wear,NULL,Offline
+5046,Aum Family Veg Restaurant,NULL,Offline
+5047,Hotel Gurudev Pure Veg.,NULL,Offline
+5048,Jaika Caterers,NULL,Offline
+5049,Divesh Opticians,NULL,Offline
+5050,Eye Express,NULL,Offline
+5051,Fashion Wallpaper & Carpet,NULL,Offline
+5052,Anand Pure Veg Restaurant,NULL,Offline
+5053,Shanti Electric & Hardware Store,NULL,Offline
+5054,Balaji Opticians,NULL,Offline
+5055,Eat Express Veg & Non veg,NULL,Offline
+5056,A Hair Haus Unisex Salon,NULL,Offline
+5057,NK Motors,NULL,Offline
+5058,Swamini Veg & Non Veg Restaurant,NULL,Offline
+5059,Fusion Studios Unisex Salon,NULL,Offline
+5060,Benzys Restaurant,NULL,Offline
+5061,Warsi Carters,NULL,Offline
+5062,Professional Cuts Salon,NULL,Offline
+5063,Om Uncle's Chinese Corner,NULL,Offline
+5064,Maa Chamunda Hardware,NULL,Offline
+5065,Sanghavi Optics,NULL,Offline
+5066,Dhanlaxmi Saree Shop,NULL,Offline
+5067,Outer Shell ,NULL,Offline
+5068,Shree Balaji Chinese Corner,NULL,Offline
+5069,Wellart kitchen Concepts,NULL,Offline
+5070,Sunrays Enterprises,NULL,Offline
+5071,Vijay Chinese Corner,NULL,Offline
+5072,Ultra Tech Interior,NULL,Offline
+5073,Annaleela Restaurant,NULL,Offline
+5074,Adansh Gym & Cardio,NULL,Offline
+5075,Choice Restaurant,NULL,Offline
+5076,Yes Mam Collection,NULL,Offline
+5077,Poonam Bros Steel Plaza,NULL,Offline
+5078,More's Restaurant,NULL,Offline
+5079,The Food Plaza ,NULL,Offline
+5080,Seven Hills Restaurant & Bar,NULL,Offline
+5081,Wok N Grill,NULL,Offline
+5082,Nutrition Planet,NULL,Offline
+5083,Supplement Factory ,NULL,Offline
+5084,Khushil Dry Fruits,NULL,Offline
+5085,China Suburb -1 ,NULL,Offline
+5086,Trinity Salon,NULL,Offline
+5087,Gateway Restaurant,NULL,Offline
+5088,System Enterprises,NULL,Offline
+5089,Gettogetter Restaurant,NULL,Offline
+5090,Satyam Home Appliances,NULL,Offline
+5091,Masala Cuisine,NULL,Offline
+5092,GrowDaddy Interior,NULL,Offline
+5093,Hashtag Fitness Gym,NULL,Offline
+5094,Karan Chinese Corner,NULL,Offline
+5095,Being Hungry Restaurant,NULL,Offline
+5096,MM Maroosh Restaurant,NULL,Offline
+5097,Oh My Kebab,NULL,Offline
+5098,Omair Optics,NULL,Offline
+5099,TGCH (The Great Chicken Hub),NULL,Offline
+5100,Mumbai Tawa,NULL,Offline
+5101,MT61 Cafe Lounge,NULL,Offline
+5102,Fit N Trim Gym ,NULL,Offline
+5103,Dawat Family Restaurant,NULL,Offline
+5104,Satkar Lunch Home,NULL,Offline
+5105,Biryani & More,NULL,Offline
+5106,S.K. Food Corner,NULL,Offline
+5107,Kateeleshwari Fast Food,NULL,Offline
+5108,Indus Fitness Edge,NULL,Offline
+5109,City Life ,NULL,Offline
+5110,NK Shoes Corner,NULL,Offline
+5111,Appetite Resto Bar ,NULL,Offline
+5112,Guru Kripa Restaurant & Bar,NULL,Offline
+5113,Mr. Foodiee ,NULL,Offline
+5114,Afra Mughlai Darbar,NULL,Offline
+5115,Luggage Junction,NULL,Offline
+5116,Satish Restaurant & Bar,NULL,Offline
+5117,Malwani Hotel,NULL,Offline
+5118,Konkani Mejwani ,NULL,Offline
+5119,Shree Sai Battery Center,NULL,Offline
+5120,Chef Sisters,NULL,Offline
+5121,Shambys Cafe,NULL,Offline
+5122,7 Wow's,NULL,Offline
+5123,Samadhan Veg & Non Veg Restaurant,NULL,Offline
+5124,Sagar Pure Veg Restaurant,NULL,Offline
+5125,NewRegistration,NULL,NULL
+5126,Piknik Restaurant & Bar,NULL,Offline
+5127,Sealand Family Restaurant & Bar,NULL,Offline
+5128,Mina Mughal Darbar Family Restaurant Veg & NonVeg,NULL,Offline
+5129,Milan Furnishing Centre,NULL,Offline
+5130,JS Car Studio,NULL,Offline
+5131,Trisha Family Restaurant & Bar,NULL,Offline
+5132,Lucknowee Tunday Kebab,NULL,Offline
+5133,Fitness Fiesta Gym,NULL,Offline
+5134,Jay Maharashtra Restaurant,NULL,Offline
+5135,Only Parcels The Meal Express,NULL,Offline
+5136,RD Kitchen Family Restaurant,NULL,Offline
+5137,Ankur Hotel,NULL,Offline
+5138,Shree Sai Interior,NULL,Offline
+5139,Palak Optics,NULL,Offline
+5140,Sahil Furniture Interior Decorator,NULL,Offline
+5141,image the salon n spa,NULL,Offline
+5142,New Raju's Kitchen Restaurant,NULL,Offline
+5143,Mumbai Dreamz Restaurant,NULL,Offline
+5144,Shiv Sagar Veg Restaurant,NULL,Offline
+5145,Tanishka Salon,NULL,Offline
+5146,Jigar Furnishing & Mattresses,NULL,Offline
+5147,Hemant Lougrie,NULL,Offline
+5148,Maharashtra Mattresses & Furnishing ,NULL,Offline
+5149,Shobha Pure Veg Family Restaurant,NULL,Offline
+5150,Swadesh Pure Veg Restaurant,NULL,Offline
+5151,Advance Muscle Nutrition,NULL,Offline
+5152,New Skyway Restaurant,NULL,Offline
+5153,Dinesh Battery Sales & Service,NULL,Offline
+5154,Ruchi Veg Restaurant,NULL,Offline
+5155,Glam Up Salon,NULL,Offline
+5156,Jara Hat Ke Restaurant,NULL,Offline
+5157,Red Dot Multi Cuisine Restaurant,NULL,Offline
+5158,A-1 Darbar Veg & Non Veg Restaurant,NULL,Offline
+5159,Liberty Family Restaurant & Bar,NULL,Offline
+5160,Hair Ways Unisex Salon,NULL,Offline
+5161,Ruchi Veg Restaurant,NULL,Offline
+5162,Rose Interior,NULL,Offline
+5163,Classic Veg Restaurant,NULL,Offline
+5164,Satguru's Collection,NULL,Offline
+5165,Shradha Saburu Fast Food,NULL,Offline
+5166,Udipi Shree Krishna ,NULL,Offline
+5167,Swami Fast Food,NULL,Offline
+5168,Shree Nidhi Restaurant,NULL,Offline
+5169,New Bharat Restaurant & Bar,NULL,Offline
+5170,Agari Malhari Katta Restaurant,NULL,Offline
+5171,Khilchi Mattresses,NULL,Offline
+5172,Tempting Restaurant,NULL,Offline
+5173,Samrat Bar & Restaurant,NULL,Offline
+5174,King's Furnishing & Mattresses,NULL,Offline
+5175,Prince Furnishing,NULL,Offline
+5176,Real Choice Readymade Store,NULL,Offline
+5177,Mahalaxmi Electric & Hardware,NULL,Offline
+5178,Pratham Ceramics,NULL,Offline
+5179,Image Restaurant & Bar,NULL,Offline
+5180,Good Luck Restaurant,NULL,Offline
+5181,Fame Plywood,NULL,Offline
+5182,Cafe Gulshan,NULL,Offline
+5183,King's Furniture,NULL,Offline
+5184,Meenakshi Electric & Hardware,NULL,Offline
+5185,Swatik Electric & Hardware Stores,NULL,Offline
+5186,Mateshwari Ceramic & Paints,NULL,Offline
+5187,Cafe Himalaya,NULL,Offline
+5188,Image Ply-N-Laminate,NULL,Offline
+5189,Riddhi Siddhi Furnishing & Mattress,NULL,Offline
+5190,Savor Restaurant And Bar,NULL,Offline
+5191,Preetam Bar & Restaurant,NULL,Offline
+5192,Highness Furnishing,NULL,Offline
+5193,Mum Mum Pav Bhaji ,NULL,Offline
+5194,Hanif Timber Mart ,NULL,Offline
+5195,Kaushalya Enterprises,NULL,Offline
+5196,Bright Star Gym,NULL,Offline
+5197,Roshni Restaurant,NULL,Offline
+5198,Royal Electric & Hardware,NULL,Offline
+5199,Uttam Electric & Hardware ,NULL,Offline
+5200,Eye Max Optical,NULL,Offline
+5201,Eye Care Optics,NULL,Offline
+5202,Apex Electric & Hardware,NULL,Offline
+5203,Modern Foam Furnishing & Mattresses,NULL,Offline
+5204,Shree Ashapura Electrical & Hardware,NULL,Offline
+5205,Shivam Chairs,NULL,Offline
+5206,Chamunda Hardware & Sanitaryware,NULL,Offline
+5207,Classic Foam House,NULL,Offline
+5208,Gulistan Family Restaurant,NULL,Offline
+5209,Pink Flavor Restaurant & Bar,NULL,Offline
+5210,Eye Look Optics,NULL,Offline
+5211,Global Electricals & Hardware ,NULL,Offline
+5212,Sharp Batteries,NULL,Offline
+5213,Sharp Batteries,NULL,Offline
+5214,Ganesh Batteries,NULL,Offline
+5215,Ramdev Hardware Stores,NULL,Offline
+5216,Rahul The House Of Lights,NULL,Offline
+5217,Satyam Decor ,NULL,Offline
+5218,Shubham Chinese & Fast Food,NULL,Offline
+5219,Prince Family Salon,NULL,Offline
+5220,Anjali Modular & Furniture,NULL,Offline
+5221,Ajanta Electric Aluminium & Hardware ,NULL,Offline
+5222,Excellent Wallpaper,NULL,Offline
+5223,Sailors Kitchen Family Restaurant,NULL,Offline
+5224,Shiv Shakti Hardware store,NULL,Offline
+5225,Impression Furnishing & Mattress,NULL,Offline
+5226,Apsara Plywood Center,NULL,Offline
+5227,Nest Hardware,NULL,Offline
+5228,Punch Furnishing,NULL,Offline
+5229,Shital Hardware & Electrical Store,NULL,Offline
+5230,Kothari Steel,NULL,Offline
+5231,Bake N Bites ,NULL,Offline
+5232,Rupam Electrical & Hardware Stores,NULL,Offline
+5233,Maratha Mattresses & Furnishing,NULL,Offline
+5234,Shree Vishwakarma Hardware & Electric,NULL,Offline
+5235,Shree Vishwakarma Plywood,NULL,Offline
+5236,Mahalaxmi Ceramics Electrical & Hardware ,NULL,Offline
+5237,Om Furnishing & Mattress,NULL,Offline
+5238,Greens Veg Restaurant,NULL,Offline
+5239,Hotel Aditi ,NULL,Offline
+5240,Ramdev Steel Art,NULL,Offline
+5241,Ambika Sanitary,NULL,Offline
+5242,Hotel Sai Prasad ,NULL,Offline
+5243,Maharashtra Furnishing & Mattresses,NULL,Offline
+5244,Rafiq Mattress & Furnishing,NULL,Offline
+5245,New Star Mattresses & Furnishing,NULL,Offline
+5246,Jayesh Motor Accessories,NULL,Offline
+5247,Cafe Alif ,NULL,Offline
+5248,Royal Furniture,NULL,Offline
+5249,Decent Furniture,NULL,Offline
+5250,Wadia Furniture,NULL,Offline
+5251,Vegga's The Hardware & kitchen Solution,NULL,Offline
+5252,Natraj Luggage,NULL,Offline
+5253,Prakash Motors ,NULL,Offline
+5254,Shree Swastik Hardware,NULL,Offline
+5255,Shree Nakoda Plywood,NULL,Offline
+5256,Marudhar Hardware,NULL,Offline
+5257,Bharat Electric & Hardware store,NULL,Offline
+5258,Shree Jagdish Electric & Hardware,NULL,Offline
+5259,Aashirwad Electric & Hardware Store,NULL,Offline
+5260,Arihant Hardware ,NULL,Offline
+5261,Arihant Timber Mart,NULL,Offline
+5262,Kailash Electricals,NULL,Offline
+5263,Kailash Hardware & Paint Store,NULL,Offline
+5264,Viva Ply - N - Wood,NULL,Offline
+5265,Sejnath Timber ,NULL,Offline
+5266,Dhara Electronics,NULL,Offline
+5267,Dark Blue Men's Wear,NULL,Offline
+5268,Bhikshu Electric Hardware & Sanitary,NULL,Offline
+5269,Side Wolk Family Restaurant,NULL,Offline
+5270,Gala Plywood,NULL,Offline
+5271,Success Car Accessories,NULL,Offline
+5272,Shree Om Electric & Hardware Store,NULL,Offline
+5273,New Diamond Electric Store,NULL,Offline
+5274,Omkar Hardware & Electric Store,NULL,Offline
+5275,Fine Marbles,NULL,Offline
+5276,Aradhana Gruh Vastu Bhandar,NULL,Offline
+5277,Deepak Furniture,NULL,Offline
+5278,R & C Vishwakarma Steel Works,NULL,Offline
+5279,Rang Mahal Paint,NULL,Offline
+5280,Vishal Trading Corporation,NULL,Offline
+5281,Nidhi Power Tools,NULL,Offline
+5282,Mod Foam & Fabric,NULL,Offline
+5283,Car Craft ,NULL,Offline
+5284,Durga Battery,NULL,Offline
+5285,Navaldeep Mattresses & Furnishing,NULL,Offline
+5286,Kapi Corporation,NULL,Offline
+5287,New N Snip Family Parlour,NULL,Offline
+5288,Grate Wallpaper,NULL,Offline
+5289,Hair & Beyond Family Salon,NULL,Offline
+5290,K. Makwana Steel Art ,NULL,Offline
+5291,Sangam Sanitary,NULL,Offline
+5292,Durga Nx Fashion,NULL,Offline
+5293,Good Luck Electric & Hardware Store,NULL,Offline
+5294,Maa Durga Electricals Glass & Hardware,NULL,Offline
+5295,Modern Footwear,NULL,Offline
+5296,Omkar Hardware & Electric Store,NULL,Offline
+5297,Suraj Plywood,NULL,Offline
+5298,Shivam Electric & Hardware Stores,NULL,Offline
+5299,Shree Ganesh Ply N Veneer,NULL,Offline
+5300,Payal Sales & Service,NULL,Offline
+5301,Jay Shree Electric & Hardware Stores,NULL,Offline
+5302,Navkar Electric & Hardware Store,NULL,Offline
+5303,Selfie Family Salon,NULL,Offline
+5304,New Drape Furnishing & Mattress,NULL,Offline
+5305,Aqua Unisex Salon,NULL,Offline
+5306,Vandana Electric & Hardware store,NULL,Offline
+5307,Sharda Foam Center,NULL,Offline
+5308,Anand Enterprises,NULL,Offline
+5309,Prakash Electrical & Hardware Store,NULL,Offline
+5310,Aamir Battery Point,NULL,Offline
+5311,Fashion Corner,NULL,Offline
+5312,Home Mattresses & Furnishing,NULL,Offline
+5313,Teena Traders,NULL,Offline
+5314,Manglam Electric & Hardware ,NULL,Offline
+5315,Hari Om Ply,NULL,Offline
+5316,Citizen Power Tools,NULL,Offline
+5317,Cloud 9 Salon & Spa,NULL,Offline
+5318,Abhishek Electric & Hardware Stores,NULL,Offline
+5319,Manohar Machine Tools,NULL,Offline
+5320,S.S. Foam Center & Mattresses,NULL,Offline
+5321,Burhani Plywood,NULL,Offline
+5322,Shree Jalaram Good Luck Cycle ,NULL,Offline
+5323,Shree Ganesh Paints,NULL,Offline
+5324,Goodluck Paint & Hardware Stores,NULL,Offline
+5325,Express Battery Services,NULL,Offline
+5326,Rupam Sanitary & Ceramics,NULL,Offline
+5327,Rupam Electric & Hardware Stores,NULL,Offline
+5328,Excellent Furnishing & Mattresses,NULL,Offline
+5329,Rajwadi Ceramics,NULL,Offline
+5330,Karisma Batteries,NULL,Offline
+5331,Make Over Car Studio ,NULL,Offline
+5332,Prime Car Inn,NULL,Offline
+5333,Palson Motors,NULL,Offline
+5334,Perfect Timber & Plywood,NULL,Offline
+5335,Krishna Ply-N-Wood,NULL,Offline
+5336,Kalpana Electric & Hardware Store,NULL,Offline
+5337,Uday Electric & Hardware,NULL,Offline
+5338,Apsara Furnishing & Mattress,NULL,Offline
